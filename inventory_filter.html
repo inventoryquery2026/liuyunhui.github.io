@@ -209,7 +209,8 @@ tbody tr:nth-child(even):hover { background: #f3f6fa; }
 .sales-table .group-header th {
     background: #1a1a2e; color: #fff; padding: 10px 8px;
     text-align: center; font-weight: 600; font-size: 0.88rem;
-    white-space: nowrap;
+    white-space: normal; word-break: keep-all; overflow-wrap: break-word;
+    line-height: 1.35;
     border-bottom: 1px solid #2c3e6b;
 }
 /* Row 2: sub-header */
