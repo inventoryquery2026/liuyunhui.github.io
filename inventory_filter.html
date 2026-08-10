@@ -183,20 +183,24 @@ tbody tr:nth-child(even):hover { background: #f3f6fa; }
 /* thead sticky moved to th elements below */
 
 /* Row 1: group-header */
+.sales-table .group-header {
+    position: sticky; position: -webkit-sticky; top: 0; z-index: 4;
+}
 .sales-table .group-header th {
     background: #1a1a2e; color: #fff; padding: 10px 8px;
     text-align: center; font-weight: 600; font-size: 0.88rem;
     white-space: nowrap;
     border-bottom: 1px solid #2c3e6b;
-    position: sticky; position: -webkit-sticky; top: 0; z-index: 4;
 }
 /* Row 2: sub-header */
+.sales-table .sub-header {
+    position: sticky; position: -webkit-sticky; top: 52px; z-index: 3;
+}
 .sales-table .sub-header th {
     background: #1a1a2e; color: #fff; font-weight: 500; font-size: 0.78rem;
     padding: 10px 8px; text-align: center;
     white-space: nowrap;
     border-bottom: 1px solid #2c3e6b;
-    position: sticky; position: -webkit-sticky; top: 52px; z-index: 3;
 }
 
 /* ── Freeze first 4 columns: tbody ── */
