@@ -172,10 +172,12 @@ tbody tr:nth-child(even):hover { background: #f3f6fa; }
 
 /* Sales table styles */
 .sales-table-wrapper {
-    overflow: auto; border-radius: 12px;
+    overflow-x: auto; overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    border-radius: 12px;
     box-shadow: 0 2px 12px rgba(0,0,0,0.06);
     margin-top: 16px;
-    max-height: calc(100vh - 180px);
+    height: calc(100vh - 180px);
 }
 .sales-table { width: 100%; border-collapse: separate; border-spacing: 0; font-size: 0.82rem; }
 /* thead sticky moved to th elements below */
