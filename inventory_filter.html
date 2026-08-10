@@ -199,10 +199,12 @@ tbody tr:nth-child(even):hover { background: #f3f6fa; }
 }
 .sales-header-sticky {
     position: sticky; top: 0; z-index: 100;
-    overflow: visible;
+    overflow-x: auto; overflow-y: visible;
     background: #1a1a2e;
     border-radius: 12px 12px 0 0;
+    -ms-overflow-style: none; scrollbar-width: none;
 }
+.sales-header-sticky::-webkit-scrollbar { display: none; }
 .sales-header-sticky .sales-table { margin: 0; }
 
 /* Row 1: group-header */
@@ -445,11 +447,11 @@ function syncSalesColWidths() {
     setSticky('#salesHeaderTable .group-header th:nth-child(2)', left1);
     setSticky('#salesHeaderTable .group-header th:nth-child(3)', left2);
 
-    // Sync horizontal scroll: move sticky header with scroll
+    // Sync horizontal scroll: sync header div scrollLeft with wrapper
     var wrapper = document.getElementById('salesScrollWrapper');
     var sticky = document.getElementById('salesHeaderSticky');
     wrapper.onscroll = function() {
-        sticky.style.transform = 'translateX(-' + wrapper.scrollLeft + 'px)';
+        sticky.scrollLeft = wrapper.scrollLeft;
     };
 }
 
