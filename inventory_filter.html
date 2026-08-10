@@ -151,6 +151,17 @@ tbody tr:nth-child(even):hover { background: #f3f6fa; }
     .stats-bar { flex-direction: column; gap: 6px; align-items: flex-start; }
 }
 
+/* Sales table: sub-header wrap on narrow viewports */
+@media (max-width: 768px) {
+    .sales-table .sub-header th {
+        font-size: 0.68rem; padding: 6px 4px;
+        line-height: 1.25;
+    }
+    .sales-table .group-header th {
+        font-size: 0.78rem; padding: 8px 6px;
+    }
+}
+
 /* Tab styles */
 .tab-nav {
     display: flex; gap: 0; margin-bottom: 20px; border-radius: 12px;
@@ -205,7 +216,8 @@ tbody tr:nth-child(even):hover { background: #f3f6fa; }
 .sales-table .sub-header th {
     background: #1a1a2e; color: #fff; font-weight: 500; font-size: 0.78rem;
     padding: 10px 8px; text-align: center;
-    white-space: nowrap;
+    white-space: normal; word-break: keep-all; overflow-wrap: break-word;
+    line-height: 1.35;
     border-bottom: 1px solid #2c3e6b;
 }
 
