@@ -2947,6769 +2947,6769 @@ const HIERARCHY = {
 };
 const RECORDS = [
  {
-  "vin": "T7000CSBWAX0076",
+  "vin": "LNNACDGK1TDH14400",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫黑内饰/雪岭白外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-26",
   "dealer": "北京鑫佰荟"
  },
  {
-  "vin": "T6450QABWJV0002",
+  "vin": "LVTDB21B1TD184481",
   "material": "奇瑞/瑞虎5运动版/2026款/1.5T-6DCT/潮玩型/瓦青内饰/珍珠白外观/5座",
   "invoice_date": "2026-04-11",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T64706TCLJW0013",
+  "vin": "LVTDB21B0TDM82326",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-17",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T6491KCCLKS0002",
+  "vin": "LVTDB24BXTD283795",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-鲲鹏8AT-两驱/臻享版-鎏金棕-5座/鎏金棕内饰/曜石黑外观/5座",
   "invoice_date": "2026-08-05",
   "dealer": "北京京风创瑞"
  },
  {
-  "vin": "T6480VGCMFH0040",
+  "vin": "LVTDB24B4SG145182",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/豪华版-新棕黑-7座/新棕黑内饰/松墨黑外观/7座",
   "invoice_date": "2025-12-21",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T64706TKUJW0015",
+  "vin": "LVTDB21B7TDM61036",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/月光银外观/5座",
   "invoice_date": "2026-06-26",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T6473SYCLME0019",
+  "vin": "LVTDB21B9TD198578",
   "material": "奇瑞/瑞虎8PRO 非凡冠军/2027款/1.6T-7DCT/豪华版 5座 棕色内饰/棕色内饰/石墨黑外观/5座",
   "invoice_date": "2026-04-23",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T7000CSUEAX0076",
+  "vin": "LNNACDGK6TDH15994",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫黑内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-06",
   "dealer": "北京京风创瑞"
  },
  {
-  "vin": "T7000MTBWTA0023",
+  "vin": "LURJCVS20TA373966",
   "material": "QQ/全新QQ3/2026款/310Km/310热爱版/质感黑内饰/翎羽白外观/5座",
   "invoice_date": "2026-07-14",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T64706TBWJW0015",
+  "vin": "LVTDB21B5TDL28081",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-16",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6480VGCMFH0043",
+  "vin": "LVTDB24B4SG134084",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/松墨黑外观/5座",
   "invoice_date": "2025-12-28",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T64706TCLJW0014",
+  "vin": "LVTDB21B4TDM83043",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/旗舰型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-17",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6480VGBXFH0039",
+  "vin": "LVTDB24B0SG129013",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/豪华版-新棕黑-5座/新棕黑内饰/奇瑞白外观/5座",
   "invoice_date": "2025-11-18",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "T64706TCLJW0016",
+  "vin": "LVTDB21B9TDE74759",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/旗舰型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-01-05",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "M7163PSKXJW0009",
+  "vin": "LVVDC21B6TD239303",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/1.6T-7DCT/舒适型/黑黑内饰/钻石银外观/5座",
   "invoice_date": "2026-06-22",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T7000CSQSAX0047",
+  "vin": "LNNACDGK5TDH09104",
   "material": "风云/风云A9/2026款/BEV/展示版型/展示色内饰/展示色外观/5座",
   "invoice_date": "2026-04-25",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "T64706TBWJW0015",
+  "vin": "LVTDB21BXTDM93799",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-25",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T6473SYCLME0019",
+  "vin": "LVTDB21B4TD198505",
   "material": "奇瑞/瑞虎8PRO 非凡冠军/2027款/1.6T-7DCT/豪华版 5座 棕色内饰/棕色内饰/石墨黑外观/5座",
   "invoice_date": "2026-04-23",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "E71502XCLPN0019",
+  "vin": "LNNACDFP9SDJ64128",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/墨石黑/黑棕内饰",
   "invoice_date": "2025-11-18",
   "dealer": "北京福铃鑫瑞"
  },
  {
-  "vin": "T7000CSUEAX0076",
+  "vin": "LNNACDGK8TDH16094",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫黑内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-07",
   "dealer": "北京京风创瑞"
  },
  {
-  "vin": "M7150PPBWKL0002",
+  "vin": "LVVDC21B0TDH13412",
   "material": "奇瑞/2025款艾瑞泽5卓越版/2025款/1.5L-CVT/风尚型/黑黑内饰/珍珠白外观",
   "invoice_date": "2026-07-16",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "M7163PSCLJW0005",
+  "vin": "LVVDC21B1TD191354",
   "material": "奇瑞/艾瑞泽8/2027款/1.6T-7DCT（R）/睿/黑棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-04-18",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "M7163PSUMJW0012",
+  "vin": "LVVDC21B2TD274694",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/1.6T-7DCT/豪华型/黑棕内饰/青竹灰外观/5座",
   "invoice_date": "2026-07-23",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T7000CSQSAX0047",
+  "vin": "LNNACDGK3TDH08775",
   "material": "风云/风云A9/2026款/BEV/展示版型/展示色内饰/展示色外观/5座",
   "invoice_date": "2026-04-25",
   "dealer": "北京卓远"
  },
  {
-  "vin": "M7150PPBWKL0002",
+  "vin": "LVVDC21B9TDH15465",
   "material": "奇瑞/2025款艾瑞泽5卓越版/2025款/1.5L-CVT/风尚型/黑黑内饰/珍珠白外观",
   "invoice_date": "2026-07-31",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T7000KPBWSV0023",
+  "vin": "LURJCVBE7TA386496",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版+选装L2+17寸铝圈/丛林绿内饰/翎羽白外观/5座",
   "invoice_date": "2026-08-10",
   "dealer": "北京福瑞祥驰"
  },
  {
-  "vin": "T7150R4CLJV0007",
+  "vin": "LVVDB21B0SD328561",
   "material": "奇瑞/OMODA 5/暂无年款/1.5L-CVT/其他型号/其他颜色内饰/其他颜色外观/5座",
   "invoice_date": "2025-05-31",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T71604ABWMM0004",
+  "vin": "LVVDB21B5SDJ56074",
   "material": "奇瑞/OMODA 5/暂无年款/1.5L-CVT/其他型号/其他颜色内饰/其他颜色外观/5座",
   "invoice_date": "2025-11-11",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T64706TUUJW0007",
+  "vin": "LVTDB21B4TDM91675",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/深空灰外观/5座",
   "invoice_date": "2026-07-23",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "E71502XUVPN0053",
+  "vin": "LNNACDFP9TD258835",
   "material": "风云/风云A9L/2027/1.5T-DHT/260 ULTRA/玄武灰/米棕内饰/5座",
   "invoice_date": "2026-07-11",
   "dealer": "北京福铃"
  },
  {
-  "vin": "E71502XK2PN0017",
+  "vin": "LNNACDFP0SDJ19434",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航豪华版（新）/星瀚银/黑棕内饰",
   "invoice_date": "2025-10-24",
   "dealer": "北京华日菱"
  },
  {
-  "vin": "T6450LPBWFR0023",
+  "vin": "LVTDB21B9TDD55237",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/畅享型/黑棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-04-18",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T7000KPK1SV0027",
+  "vin": "LURJCVBE6TA383301",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/质感黑内饰/月剑银外观/5座",
   "invoice_date": "2026-08-04",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T6472WHCLJW0039",
+  "vin": "LVTDB21B1TD169382",
   "material": "奇瑞/全新瑞虎8PLUS 非凡冠军/2027款/1.6T-7DCT-两驱/豪华版 5座 棕色内饰/棕色内饰/石墨黑外观/5座",
   "invoice_date": "2026-03-28",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T6450LPBWFR0024",
+  "vin": "LVTDB21B8TDD43838",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/悦享型/黑棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-18",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T64706TBWJW0013",
+  "vin": "LVTDB21B3TDM88623",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-26",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T64706TCLJW0013",
+  "vin": "LVTDB21B7TDM82274",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-16",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6481KGCLFT0055",
+  "vin": "LVTDB24B5SD545432",
   "material": "奇瑞/瑞虎9/2025款/2.0T-7DCT-两驱/黑武士版-黑黑-5座/黑色内饰/石墨黑外观/5座",
   "invoice_date": "2025-09-20",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "M7200LWGXKG0005",
+  "vin": "LVVDC24BXSD459022",
   "material": "奇瑞/艾瑞泽8 2.0T/2025/2.0T-7DCT国六/劲流沙棕内饰/晶钻灰/RDE",
   "invoice_date": "2025-08-14",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6473W3UMMH0003",
+  "vin": "LNNBBDEE5SD205040",
   "material": "风云/风云T8/2025/1.5T-DHT国六/尊贵版茶珀棕内饰5座/青竹灰/RDE",
   "invoice_date": "2025-03-21",
   "dealer": "北京龙腾新景"
  },
  {
-  "vin": "T7000CSQSAX0076",
+  "vin": "LNNACDGK1TDH14350",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫黑内饰/云粉米外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-21",
   "dealer": "北京甲源子智行"
  },
  {
-  "vin": "M7203PTKXLB0010",
+  "vin": "LVVDC24B0TD278187",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/2.0T-7DCT/猎鹰500尊享型/黑红内饰/钻石银外观/5座",
   "invoice_date": "2026-07-26",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T7000KPQSSV0020",
+  "vin": "LURJCVBE5TA380227",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/丛林绿内饰/云粉米外观/5座",
   "invoice_date": "2026-07-24",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T6450QAKXJV0002",
+  "vin": "LVTDB21B6TD167336",
   "material": "奇瑞/瑞虎5运动版/2026款/1.5T-6DCT/潮玩型/瓦青内饰/钻石银外观/5座",
   "invoice_date": "2026-03-26",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T6480VGUEFH0043",
+  "vin": "LVTDB24BXSG133893",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/磨砂灰外观/5座",
   "invoice_date": "2025-12-27",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "M7160DFBWJW0129",
+  "vin": "LVVDC21B0TD127385",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/豪华型-黑黑内饰/珍珠白/RDE",
   "invoice_date": "2026-02-12",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T64706TBWJW0013",
+  "vin": "LVTDB21B9TDM62267",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-06-27",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "E71502XCLPN0018",
+  "vin": "LNNACDFP6TD197802",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航豪华版（新）/墨石黑/米棕内饰",
   "invoice_date": "2026-04-25",
   "dealer": "北京福铃"
  },
  {
-  "vin": "M7150CLBWNW0012",
+  "vin": "LNNACDEE0TD167484",
   "material": "风云/风云A8L/2026款/1.5L-DHT（猎鹰版）/智臻型/黑棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-27",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "E71502XCLPN0025",
+  "vin": "LNNACDFPXTD265244",
   "material": "风云/风云A9L/2025款/1.5T-DHT/公务致享版/黑黑内饰/新碳晶黑外观/5座",
   "invoice_date": "2026-07-18",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "A7150MABWGW0009",
+  "vin": "LVVDB21BXSE054442",
   "material": "奇瑞/瑞虎3x/1.5L-CVT国六B/深色内饰/卓越版/水仙白/RDE",
   "invoice_date": "2025-09-07",
   "dealer": "北京名车伯乐"
  },
  {
-  "vin": "T6490LMUUSH0017",
+  "vin": "LNNBBDGH6TDJ08552",
   "material": "风云/风云T9L/2026款/1.5T-DHT/230 Pro/暖霞金橙内饰/石林灰外观/5座",
   "invoice_date": "2026-04-16",
   "dealer": "北京卓远"
  },
  {
-  "vin": "T64706TKUJW0013",
+  "vin": "LVTDB21B7TDM61974",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/月光银外观/5座",
   "invoice_date": "2026-06-27",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T6472WHBWJW0038",
+  "vin": "LVTDB21B4TD176259",
   "material": "奇瑞/全新瑞虎8PLUS 非凡冠军/2027款/1.6T-7DCT-两驱/豪华版 7座 棕色内饰/棕色内饰/珍珠白外观/7座",
   "invoice_date": "2026-04-01",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7000CSQSAX0063",
+  "vin": "LNNACDGK0TDH14436",
   "material": "风云/风云A9/2026款/BEV/655 MAX/紫灰内饰/云粉米外观/5座/运动包",
   "invoice_date": "2026-07-22",
   "dealer": "北京鑫佰荟"
  },
  {
-  "vin": "T7152SBBWKL0005",
+  "vin": "LVVDB21B9TC102431",
   "material": "奇瑞/瑞虎5x/2025款/1.5L-CVT国六B/深色内饰/CVT卓越型/皓月白/RDE",
   "invoice_date": "2026-03-25",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21B1TDM89513",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-07-21",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "A7150MABWGW0009",
+  "vin": "LVVDB21B8SE059364",
   "material": "奇瑞/瑞虎3x/1.5L-CVT国六B/深色内饰/卓越版/水仙白/RDE",
   "invoice_date": "2025-10-28",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "A71007SBWHG0102",
+  "vin": "LVVDB22B8TE019396",
   "material": "奇瑞/其他车型///其他动总/其他型号/其他颜色内饰/卡其白外观/5座-物流质损车瑞虎3x",
   "invoice_date": "2026-07-24",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "M7200LWBWKG0002",
+  "vin": "LVVDC24B1SDJ85144",
   "material": "奇瑞/艾瑞泽8 2.0T/2025/2.0T-7DCT国六/劲沧海灰内饰/珍珠白/RDE",
   "invoice_date": "2025-12-26",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T7000MTBWTA0019",
+  "vin": "LURJCVS22TA340161",
   "material": "QQ/全新QQ3/2026款/310Km/310分享版/丛林绿内饰/翎羽白外观/5座",
   "invoice_date": "2026-05-07",
   "dealer": "北京福瑞祥驰"
  },
  {
-  "vin": "M7160DFBWJW0127",
+  "vin": "LVVDC21B4TD168151",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/舒适型-黑黑内饰/珍珠白/RDE",
   "invoice_date": "2026-03-26",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T7000CSNZAX0063",
+  "vin": "LNNACDGK9TDH12491",
   "material": "风云/风云A9/2026款/BEV/655 MAX/紫灰内饰/海棠红外观/5座/运动包",
   "invoice_date": "2026-07-13",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "T7000CSUEAX0075",
+  "vin": "LNNACDGK8TDH14796",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-24",
   "dealer": "北京鑫佰荟"
  },
  {
-  "vin": "T6490KBBWFT0001",
+  "vin": "LVTDB24B2TD171640",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/奢享版-鎏金棕-5座/鎏金棕内饰/皓钻白外观/5座",
   "invoice_date": "2026-03-28",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "M7160DFKXJW0103",
+  "vin": "LVVDC21B1TD111230",
   "material": "奇瑞/艾瑞泽8/2025/1.6T-7DCT国六/智沧海灰内饰/钻石银/RDE",
   "invoice_date": "2026-01-30",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T64706TBWJW0013",
+  "vin": "LVTDB21B7TDM83697",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-17",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6480VGUEFH0043",
+  "vin": "LVTDB24B2SG119518",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/磨砂灰外观/5座",
   "invoice_date": "2025-11-03",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T6490KBBWFT0001",
+  "vin": "LVTDB24B8TD169892",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/奢享版-鎏金棕-5座/鎏金棕内饰/皓钻白外观/5座",
   "invoice_date": "2026-03-27",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "E65208XSJNS0142",
+  "vin": "LNNBDDEZ3SDM17089",
   "material": "风云/风云T11/2026款/1.5T-双电机(四驱)/220km四驱全家乐/琥珀棕内饰/极光绿外观/6座",
   "invoice_date": "2025-12-19",
   "dealer": "北京环耀盛鑫"
  },
  {
-  "vin": "M7163PSKXJW0009",
+  "vin": "LVVDC21B5TD276052",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/1.6T-7DCT/舒适型/黑黑内饰/钻石银外观/5座",
   "invoice_date": "2026-07-23",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T7000MTQSTA0024",
+  "vin": "LURJCVS21TA359543",
   "material": "QQ/全新QQ3/2026款/310Km/310热爱版/丛林绿内饰/云粉米外观/5座",
   "invoice_date": "2026-06-15",
   "dealer": "北京福瑞祥驰"
  },
  {
-  "vin": "T6490KBBWFT0001",
+  "vin": "LVTDB24B3TD167810",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/奢享版-鎏金棕-5座/鎏金棕内饰/皓钻白外观/5座",
   "invoice_date": "2026-03-26",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T6480VGCMFH0039",
+  "vin": "LVTDB24B4SG140631",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/豪华版-新棕黑-5座/新棕黑内饰/松墨黑外观/5座",
   "invoice_date": "2025-12-14",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "M7150PPKHKL0002",
+  "vin": "LVVDC21BXTDH14244",
   "material": "奇瑞/2025款艾瑞泽5卓越版/2025款/1.5L-CVT/风尚型/黑黑内饰/鎏光银外观",
   "invoice_date": "2026-07-24",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T7000CSBWAX0063",
+  "vin": "LNNACDGK9TDH14466",
   "material": "风云/风云A9/2026款/BEV/655 MAX/紫灰内饰/雪岭白外观/5座/运动包",
   "invoice_date": "2026-07-23",
   "dealer": "北京鑫佰荟"
  },
  {
-  "vin": "T6480VGKVFH0043",
+  "vin": "LVTDB24B0SG142442",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/流光银外观/5座",
   "invoice_date": "2025-12-17",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T7000KPQSSV0027",
+  "vin": "LURJCVBE6TA378728",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/质感黑内饰/云粉米外观/5座",
   "invoice_date": "2026-07-22",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T6480FZBXMH0001",
+  "vin": "LNNBBDEE0TG043690",
   "material": "风云/风云T9/2025/1.5T-DHT国六/120KM长续航尊贵型云墨黑内饰5座/浮光白/RDE",
   "invoice_date": "2026-06-25",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "E71502XCLPN0017",
+  "vin": "LNNACDFP4TD080137",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航豪华版（新）/墨石黑/黑棕内饰",
   "invoice_date": "2026-01-22",
   "dealer": "北京福铃鑫瑞"
  },
  {
-  "vin": "T64706TBWJW0013",
+  "vin": "LVTDB21B4TDL63016",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-04-24",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T71514RBWJV0001",
+  "vin": "LVVDB21BXSDH34088",
   "material": "奇瑞/T1E/2025款/1.5T-CVT+48V全黑内饰/全黑内饰//内饰/珍珠白外观/5座",
   "invoice_date": "2025-07-14",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "M7160DFBWJW0127",
+  "vin": "LVVDC21B2TD096379",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/舒适型-黑黑内饰/珍珠白/RDE",
   "invoice_date": "2026-01-20",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6450QABWJV0001",
+  "vin": "LVTDB21B4TD188055",
   "material": "奇瑞/瑞虎5运动版/2026款/1.5T-6DCT/潮酷型/瓦青内饰/珍珠白外观/5座",
   "invoice_date": "2026-04-13",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T6450QABWJV0001",
+  "vin": "LVTDB21B1TD163386",
   "material": "奇瑞/瑞虎5运动版/2026款/1.5T-6DCT/潮酷型/瓦青内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-22",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T6472WHCLJW0039",
+  "vin": "LVTDB21B1TD169737",
   "material": "奇瑞/全新瑞虎8PLUS 非凡冠军/2027款/1.6T-7DCT-两驱/豪华版 5座 棕色内饰/棕色内饰/石墨黑外观/5座",
   "invoice_date": "2026-03-27",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6472WHUMJW0038",
+  "vin": "LVTDB21B7TD179916",
   "material": "奇瑞/全新瑞虎8PLUS 非凡冠军/2027款/1.6T-7DCT-两驱/豪华版 7座 棕色内饰/棕色内饰/青竹灰外观/7座",
   "invoice_date": "2026-04-10",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7000CSUEAX0076",
+  "vin": "LNNACDGKXTDH16033",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫黑内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-07",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "T64706TBWJW0007",
+  "vin": "LVTDB21B4TDM81292",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-14",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6450LPBWFR0023",
+  "vin": "LVTDB21B2TDM06543",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/畅享型/黑棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-12",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T71508VCLMH0004",
+  "vin": "LVUGTBHD0TD020832",
   "material": "奇瑞/OMODA 5/暂无年款/1.5L-CVT/其他型号/其他颜色内饰/以太黑外观/5座",
   "invoice_date": "2025-09-03",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T7000MTK1TA0024",
+  "vin": "LURJCVS27TA374158",
   "material": "QQ/全新QQ3/2026款/310Km/310热爱版/丛林绿内饰/月剑银外观/5座",
   "invoice_date": "2026-07-16",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "E65208XCLNS0046",
+  "vin": "LNNBDDEZ5SDM15683",
   "material": "风云/风云T11/2026款/1.5T-双电机(四驱)/220km四驱双IMAX影院版/琥珀棕内饰/墨石黑外观/6座",
   "invoice_date": "2025-12-13",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "E71502XK2PN0019",
+  "vin": "LNNACDFP2SDJ13182",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/星瀚银/黑棕内饰",
   "invoice_date": "2025-10-23",
   "dealer": "北京华日菱"
  },
  {
-  "vin": "T7151LZBWJV0001",
+  "vin": "LVTDB21B7TDL52821",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/尊尚型（滑移屏女王包）/黑棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-04-15",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T6490KBKVFT0001",
+  "vin": "LVTDB24B0TD176397",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/奢享版-鎏金棕-5座/鎏金棕内饰/钛晶银外观/5座",
   "invoice_date": "2026-04-02",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6480VGKVFH0043",
+  "vin": "LVTDB24B9SG141158",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/流光银外观/5座",
   "invoice_date": "2025-12-16",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T64706TBWJW0007",
+  "vin": "LVTDB21B0TDM91754",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-23",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "A7150MABWGW0009",
+  "vin": "LVVDB21B8SE059459",
   "material": "奇瑞/瑞虎3x/1.5L-CVT国六B/深色内饰/卓越版/水仙白/RDE",
   "invoice_date": "2025-10-28",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T7000KPQSSV0020",
+  "vin": "LURJCVBE2TA376877",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/丛林绿内饰/云粉米外观/5座",
   "invoice_date": "2026-07-18",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T7000CSUEAX0075",
+  "vin": "LNNACDGK4TDH14164",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-20",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "T64706TBWJW0010",
+  "vin": "LVTDB21B4TDM36904",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/珍珠白外观/5座",
   "invoice_date": "2026-06-01",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "M7160DFBWJW0127",
+  "vin": "LVVDC21B3TD069904",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/舒适型-黑黑内饰/珍珠白/RDE",
   "invoice_date": "2026-01-06",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21B4TDM89604",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-07-21",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "M7160DFGXJW0103",
+  "vin": "LVVDC21B2TD129526",
   "material": "奇瑞/艾瑞泽8/2025/1.6T-7DCT国六/智沧海灰内饰/晶钻灰/RDE",
   "invoice_date": "2026-02-24",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "M7160DFBWJW0127",
+  "vin": "LVVDC21B6SD464822",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/舒适型-黑黑内饰/珍珠白/RDE",
   "invoice_date": "2025-08-17",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "M7203PTKXLB0001",
+  "vin": "LVVDC24BXTD272266",
   "material": "奇瑞/艾瑞泽8/2027款/2.0T-7DCT（R）/劲/黑棕内饰/钻石银外观/5座",
   "invoice_date": "2026-07-18",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T7000KPBWSV0020",
+  "vin": "LURJCVBE7TA313628",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/丛林绿内饰/翎羽白外观/5座",
   "invoice_date": "2026-03-25",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T7151MABWJV0001",
+  "vin": "LVTDB21B5TDL30669",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/智尚型/黑棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-19",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "M7200LWSJKG0002",
+  "vin": "LVVDC24B0SD458770",
   "material": "奇瑞/艾瑞泽8 2.0T/2025/2.0T-7DCT国六/劲沧海灰内饰/翡翠绿/RDE",
   "invoice_date": "2025-08-14",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T64706TCLJW0013",
+  "vin": "LVTDB21B8TDM85636",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-19",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6460RMJIUK0001",
+  "vin": "LNNBBDGK7TD272436",
   "material": "风云/风云T7/2026款/BEV/600km智享版/温暖黑棕内饰/山烟紫外观/5座",
   "invoice_date": "2026-07-28",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "T6490QVJYSH1024",
+  "vin": "LNNBBDGH5TDJ14844",
   "material": "风云/风云T9L/2026款/1.5T-DHT/230 Pro/暖霞金橙内饰/丹霞黑外观/5座/智享选装包",
   "invoice_date": "2026-07-28",
   "dealer": "北京福铃"
  },
  {
-  "vin": "T7150U5BWNG0010",
+  "vin": "LNNBBDEG4TC031017",
   "material": "奇瑞/瑞虎5x/2025款/1.5L-CVT/CVT卓越型/黑黑内饰/新卡其白外观/5座",
   "invoice_date": "2025-11-24",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T7000CSUEAX0076",
+  "vin": "LNNACDGK6TDH15140",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫黑内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-29",
   "dealer": "北京甲源子智行"
  },
  {
-  "vin": "T6450QAGVJV0001",
+  "vin": "LVTDB21B2TD164188",
   "material": "奇瑞/瑞虎5运动版/2026款/1.5T-6DCT/潮酷型/瓦青内饰/量子灰外观/5座",
   "invoice_date": "2026-03-24",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T6473SYBWME0019",
+  "vin": "LVTDB21B9TD204198",
   "material": "奇瑞/瑞虎8PRO 非凡冠军/2027款/1.6T-7DCT/豪华版 5座 棕色内饰/棕色内饰/珍珠白外观/5座",
   "invoice_date": "2026-04-28",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "E71502XSJPN0020",
+  "vin": "LNNACDFP3SDJ67218",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/极光绿/米棕内饰",
   "invoice_date": "2025-11-21",
   "dealer": "北京福铃"
  },
  {
-  "vin": "T64706TUUJW0014",
+  "vin": "LVTDB21B8TDM77164",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/旗舰型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-07-12",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "M7150PPBWKL0002",
+  "vin": "LVVDC21B8TDH04067",
   "material": "奇瑞/2025款艾瑞泽5卓越版/2025款/1.5L-CVT/风尚型/黑黑内饰/珍珠白外观",
   "invoice_date": "2026-01-20",
   "dealer": "北京名车伯乐"
  },
  {
-  "vin": "E65208XCLNS0142",
+  "vin": "LNNBDDEZ6SDM17295",
   "material": "风云/风云T11/2026款/1.5T-双电机(四驱)/220km四驱全家乐/琥珀棕内饰/墨石黑外观/6座",
   "invoice_date": "2025-12-22",
   "dealer": "北京环耀盛鑫"
  },
  {
-  "vin": "M7203PTCLLB0010",
+  "vin": "LVVDC24B4TD266625",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/2.0T-7DCT/猎鹰500尊享型/黑红内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-16",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "S6450JTBWSB0004",
+  "vin": "LURMCWL22TA100061",
   "material": "风云/X3L/2026款/增程/205四驱超能版/清醒黑内饰/直白外观/5座",
   "invoice_date": "2026-01-19",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "T6480VGCMFH0039",
+  "vin": "LVTDB24B8SG148344",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/豪华版-新棕黑-5座/新棕黑内饰/松墨黑外观/5座",
   "invoice_date": "2025-12-27",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T6473SYCLME0019",
+  "vin": "LVTDB21B8TD162820",
   "material": "奇瑞/瑞虎8PRO 非凡冠军/2027款/1.6T-7DCT/豪华版 5座 棕色内饰/棕色内饰/石墨黑外观/5座",
   "invoice_date": "2026-03-22",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T7000CSQSAX0063",
+  "vin": "LNNACDGK2TDH13112",
   "material": "风云/风云A9/2026款/BEV/655 MAX/紫灰内饰/云粉米外观/5座/运动包",
   "invoice_date": "2026-07-15",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "T6480VGBXFH0043",
+  "vin": "LVTDB24B3SG084228",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/奇瑞白外观/5座",
   "invoice_date": "2025-09-27",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T6490LMW1SH0019",
+  "vin": "LNNBBDGH8TDJ13431",
   "material": "风云/风云T9L/2026款/1.5T-DHT/230 Max/水墨霁蓝内饰/沁湖蓝外观/5座",
   "invoice_date": "2026-06-26",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "T6480VGCMFH0043",
+  "vin": "LVTDB24B7SG107039",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/松墨黑外观/5座",
   "invoice_date": "2025-10-14",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "T6490KBCLFT0001",
+  "vin": "LVTDB24B7TD172962",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/奢享版-鎏金棕-5座/鎏金棕内饰/曜石黑外观/5座",
   "invoice_date": "2026-03-31",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "M7201UNBWFH0006",
+  "vin": "LVVDC24B3SDJ56650",
   "material": "奇瑞/艾瑞泽8 2.0T/2025/2.0T-8AT国六/御+流沙棕内饰/珍珠白/RDE",
   "invoice_date": "2025-11-13",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T64706TBWJW0007",
+  "vin": "LVTDB21B3TDM91750",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-23",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "E71502XSJPN0017",
+  "vin": "LNNACDFP6TD078017",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航豪华版（新）/极光绿/黑棕内饰",
   "invoice_date": "2026-01-15",
   "dealer": "北京福铃鑫瑞"
  },
  {
-  "vin": "T6480FZBXMH0001",
+  "vin": "LNNBBDEE7TG043685",
   "material": "风云/风云T9/2025/1.5T-DHT国六/120KM长续航尊贵型云墨黑内饰5座/浮光白/RDE",
   "invoice_date": "2026-06-25",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T6480VGKVFH0043",
+  "vin": "LVTDB24B2SG142507",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/流光银外观/5座",
   "invoice_date": "2025-12-18",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6473SYULME0019",
+  "vin": "LVTDB21B6TD161584",
   "material": "奇瑞/瑞虎8PRO 非凡冠军/2027款/1.6T-7DCT/豪华版 5座 棕色内饰/棕色内饰/时光灰外观/5座",
   "invoice_date": "2026-03-22",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "M7160DFBWJW0103",
+  "vin": "LVVDC21B5SDJ43421",
   "material": "奇瑞/艾瑞泽8/2025/1.6T-7DCT国六/智沧海灰内饰/珍珠白/RDE",
   "invoice_date": "2025-11-06",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6490KDKVKS0001",
+  "vin": "LVTDD24B9TD276430",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-鲲鹏8AT-四驱/猎鹰500版-鎏金棕-5座/鎏金棕内饰/钛晶银外观/5座",
   "invoice_date": "2026-07-22",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6450LPBWFR0023",
+  "vin": "LVTDB21B5TDD55252",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/畅享型/黑棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-04-18",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T71506JZEMH0002",
+  "vin": "LVUGTBHD2SDJ54787",
   "material": "奇瑞/OMODA 5/暂无年款/1.5T-CVT/其他型号/其他颜色内饰/晚莓黑外观/5座",
   "invoice_date": "2025-11-11",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T7151MABWJV0001",
+  "vin": "LVTDB21B2TDL53939",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/智尚型/黑棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-04-14",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "E65208XCLNS0142",
+  "vin": "LNNBDDEZ6SDM17328",
   "material": "风云/风云T11/2026款/1.5T-双电机(四驱)/220km四驱全家乐/琥珀棕内饰/墨石黑外观/6座",
   "invoice_date": "2025-12-22",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "T6473SYBWME0019",
+  "vin": "LVTDB21B7TD191743",
   "material": "奇瑞/瑞虎8PRO 非凡冠军/2027款/1.6T-7DCT/豪华版 5座 棕色内饰/棕色内饰/珍珠白外观/5座",
   "invoice_date": "2026-04-17",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T7000MTK1TA0024",
+  "vin": "LURJCVS29TA373495",
   "material": "QQ/全新QQ3/2026款/310Km/310热爱版/丛林绿内饰/月剑银外观/5座",
   "invoice_date": "2026-07-14",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T7000CSNZAX0063",
+  "vin": "LNNACDGK9TDH12488",
   "material": "风云/风云A9/2026款/BEV/655 MAX/紫灰内饰/海棠红外观/5座/运动包",
   "invoice_date": "2026-07-12",
   "dealer": "北京鑫佰荟"
  },
  {
-  "vin": "T7152SBBWKL0005",
+  "vin": "LVVDB21B5TC131019",
   "material": "奇瑞/瑞虎5x/2025款/1.5L-CVT国六B/深色内饰/CVT卓越型/皓月白/RDE",
   "invoice_date": "2026-05-07",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T7000CSCLAX0064",
+  "vin": "LNNACDGK5TDH17459",
   "material": "风云/风云A9/2026款/BEV/655 MAX/紫黑内饰/墨石黑外观/5座/运动包",
   "invoice_date": "2026-08-08",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "M7160DFKXJW0103",
+  "vin": "LVVDC21B2SDJ54618",
   "material": "奇瑞/艾瑞泽8/2025/1.6T-7DCT国六/智沧海灰内饰/钻石银/RDE",
   "invoice_date": "2025-11-11",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "M7160DFBWJW0103",
+  "vin": "LVVDC21B4SD567303",
   "material": "奇瑞/艾瑞泽8/2025/1.6T-7DCT国六/智沧海灰内饰/珍珠白/RDE",
   "invoice_date": "2025-09-29",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T64706TKUJW0013",
+  "vin": "LVTDB21BXTDM84391",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/月光银外观/5座",
   "invoice_date": "2026-07-29",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T6480VGBXFH0039",
+  "vin": "LVTDB24B6SG129002",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/豪华版-新棕黑-5座/新棕黑内饰/奇瑞白外观/5座",
   "invoice_date": "2025-11-18",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "E71502XUVPN0053",
+  "vin": "LNNACDFP6TD255178",
   "material": "风云/风云A9L/2027/1.5T-DHT/260 ULTRA/玄武灰/米棕内饰/5座",
   "invoice_date": "2026-07-10",
   "dealer": "北京福铃鑫瑞"
  },
  {
-  "vin": "T6490KBCLFT0001",
+  "vin": "LVTDB24BXTD194860",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/奢享版-鎏金棕-5座/鎏金棕内饰/曜石黑外观/5座",
   "invoice_date": "2026-04-21",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7150BCNLFR0146",
+  "vin": "LVUASF224TD151673",
   "material": "奇瑞/OMODA 5/2022款/1.5T-CVT/豪华型-黑黑内饰/其他颜色内饰/其他颜色外观/5座-物流国际质损车",
   "invoice_date": "2026-06-30",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "M7160DFBWJW0129",
+  "vin": "LVVDC21B2SDJ52013",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/豪华型-黑黑内饰/珍珠白/RDE",
   "invoice_date": "2025-11-08",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6490LMUUSH0017",
+  "vin": "LNNBBDGH3TDJ08525",
   "material": "风云/风云T9L/2026款/1.5T-DHT/230 Pro/暖霞金橙内饰/石林灰外观/5座",
   "invoice_date": "2026-04-16",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "M7160DFKXJW0107",
+  "vin": "LVVDC21B9TD081765",
   "material": "奇瑞/艾瑞泽8/2025/1.6T-7DCT国六/睿沧海灰内饰/钻石银/RDE",
   "invoice_date": "2026-01-12",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T7000CSUEAX0075",
+  "vin": "LNNACDGK9TDH14810",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-24",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "T64706TBWJW0013",
+  "vin": "LVTDB21B4TDM50804",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-06-14",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "E71502XCLPN0028",
+  "vin": "LNNACDFP3SDJ83886",
   "material": "风云/风云A9L/2025/1.5T-DHT/260伯牙智领版/墨石黑/黑棕内饰/20寸轮毂（品牌轮胎）+零重力座椅",
   "invoice_date": "2025-12-20",
   "dealer": "北京福铃"
  },
  {
-  "vin": "T7150BCBWFR0124",
+  "vin": "LVVDB21B4TD127568",
   "material": "奇瑞/瑞虎5x高能版/2025款/1.5T-CVT/豪华型-黑色内饰/珍珠白/RDE",
   "invoice_date": "2026-02-12",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "M7150PPBWKL0002",
+  "vin": "LVVDC21BXTDH13451",
   "material": "奇瑞/2025款艾瑞泽5卓越版/2025款/1.5L-CVT/风尚型/黑黑内饰/珍珠白外观",
   "invoice_date": "2026-07-16",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T64706TUUJW0007",
+  "vin": "LVTDB21B4TDM40211",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/深空灰外观/5座",
   "invoice_date": "2026-06-05",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T64706TBWJW0007",
+  "vin": "LVTDB21B2TDM81260",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-14",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6450QABWJV0002",
+  "vin": "LVTDB21BXTD184480",
   "material": "奇瑞/瑞虎5运动版/2026款/1.5T-6DCT/潮玩型/瓦青内饰/珍珠白外观/5座",
   "invoice_date": "2026-04-11",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T6480VGBXFH0043",
+  "vin": "LVTDB24B6SG129209",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/奇瑞白外观/5座",
   "invoice_date": "2025-11-18",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T7000KPBWSV0024",
+  "vin": "LURJCVBE9TA379601",
   "material": "QQ/全新QQ3/2026款/420Km/420热爱版/质感黑内饰/翎羽白外观/5座",
   "invoice_date": "2026-07-23",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T6481KFUUMH0005",
+  "vin": "LNNBBDEE8TG049835",
   "material": "风云/风云T9长续航/2026/1.5T-DHT国六/220长续航尊荣型胡桃棕内饰5座/石林灰/RDE",
   "invoice_date": "2026-07-13",
   "dealer": "北京甲源子智行"
  },
  {
-  "vin": "T6450QAKXJV0002",
+  "vin": "LVTDB21B8TD166656",
   "material": "奇瑞/瑞虎5运动版/2026款/1.5T-6DCT/潮玩型/瓦青内饰/钻石银外观/5座",
   "invoice_date": "2026-03-25",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "T7000CSQSAX0064",
+  "vin": "LNNACDGK4TDH13872",
   "material": "风云/风云A9/2026款/BEV/655 MAX/紫黑内饰/云粉米外观/5座/运动包",
   "invoice_date": "2026-07-22",
   "dealer": "北京卓远"
  },
  {
-  "vin": "T7000CSUEAX0076",
+  "vin": "LNNACDGK4TDH16013",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫黑内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-03",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "T6450LPBWFR0023",
+  "vin": "LVTDB21B6TDM06528",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/畅享型/黑棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-12",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "M7163PSKXJW0005",
+  "vin": "LVVDC21B3TD172532",
   "material": "奇瑞/艾瑞泽8/2027款/1.6T-7DCT（R）/睿/黑棕内饰/钻石银外观/5座",
   "invoice_date": "2026-03-29",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T7000KPBWSV0020",
+  "vin": "LURJCVBE3TA344004",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/丛林绿内饰/翎羽白外观/5座",
   "invoice_date": "2026-05-13",
   "dealer": "北京福瑞祥驰"
  },
  {
-  "vin": "T64706TCLJW0013",
+  "vin": "LVTDB21B1TDM82254",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-16",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "M7160DFBWJW0134",
+  "vin": "LVVDC21B8TD159226",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/豪华型+选装包-黑黑内饰/珍珠白/RDE",
   "invoice_date": "2026-03-21",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T7000CSUEAX0076",
+  "vin": "LNNACDGK5TDH14982",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫黑内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-26",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "T64706TBWJW0013",
+  "vin": "LVTDB21BXTDM62276",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-06-27",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "M7163PSKXJW0012",
+  "vin": "LVVDC21B4TD269741",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/1.6T-7DCT/豪华型/黑棕内饰/钻石银外观/5座",
   "invoice_date": "2026-07-16",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6480FZBXMH0001",
+  "vin": "LNNBBDEE4TG043675",
   "material": "风云/风云T9/2025/1.5T-DHT国六/120KM长续航尊贵型云墨黑内饰5座/浮光白/RDE",
   "invoice_date": "2026-06-25",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "M7203PTCLLB0010",
+  "vin": "LVVDC24B5TD278167",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/2.0T-7DCT/猎鹰500尊享型/黑红内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-26",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "A7150MABWGW0009",
+  "vin": "LVVDB21B8TE049709",
   "material": "奇瑞/瑞虎3x/1.5L-CVT国六B/深色内饰/卓越版/水仙白/RDE",
   "invoice_date": "2026-05-23",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "M7160DFBWJW0127",
+  "vin": "LVVDC21B9TD070006",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/舒适型-黑黑内饰/珍珠白/RDE",
   "invoice_date": "2026-01-06",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T64706TUKJW0013",
+  "vin": "LVTDB21B7TDM83120",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/磨砂灰(新)外观/5座",
   "invoice_date": "2026-07-17",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21B8TDM59909",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-06-25",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T7000KPBWSV0023",
+  "vin": "LURJCVBE8TA387026",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版+选装L2+17寸铝圈/丛林绿内饰/翎羽白外观/5座",
   "invoice_date": "2026-08-10",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21B2TDM48484",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-06-14",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "T64706TCLJW0007",
+  "vin": "LVTDB21B5TDL99149",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/石墨黑外观/5座",
   "invoice_date": "2026-05-26",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "E71502XSJPN0020",
+  "vin": "LNNACDFP6SDJ74101",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/极光绿/米棕内饰",
   "invoice_date": "2025-12-01",
   "dealer": "北京福铃鑫瑞"
  },
  {
-  "vin": "T7000KPQSSV0027",
+  "vin": "LURJCVBE6TA376879",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/质感黑内饰/云粉米外观/5座",
   "invoice_date": "2026-07-18",
   "dealer": "北京卓远"
  },
  {
-  "vin": "M7200LWBWKG0002",
+  "vin": "LVVDC24B5TD077014",
   "material": "奇瑞/艾瑞泽8 2.0T/2025/2.0T-7DCT国六/劲沧海灰内饰/珍珠白/RDE",
   "invoice_date": "2026-01-09",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6473SYBWME0019",
+  "vin": "LVTDB21B7TD151355",
   "material": "奇瑞/瑞虎8PRO 非凡冠军/2027款/1.6T-7DCT/豪华版 5座 棕色内饰/棕色内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-16",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6472WHCLJW0039",
+  "vin": "LVTDB21B9TD169047",
   "material": "奇瑞/全新瑞虎8PLUS 非凡冠军/2027款/1.6T-7DCT-两驱/豪华版 5座 棕色内饰/棕色内饰/石墨黑外观/5座",
   "invoice_date": "2026-03-27",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T6481KGCLFT0055",
+  "vin": "LVTDB24B8SD535381",
   "material": "奇瑞/瑞虎9/2025款/2.0T-7DCT-两驱/黑武士版-黑黑-5座/黑色内饰/石墨黑外观/5座",
   "invoice_date": "2025-09-16",
   "dealer": "北京名车伯乐"
  },
  {
-  "vin": "T7000KPK1SV0024",
+  "vin": "LURJCVBEXTA319035",
   "material": "QQ/全新QQ3/2026款/420Km/420热爱版/质感黑内饰/月剑银外观/5座",
   "invoice_date": "2026-04-08",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T6490KDBWKS0001",
+  "vin": "LVTDD24B8TD283773",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-鲲鹏8AT-四驱/猎鹰500版-鎏金棕-5座/鎏金棕内饰/皓钻白外观/5座",
   "invoice_date": "2026-08-05",
   "dealer": "北京京风创瑞"
  },
  {
-  "vin": "E71502XUVPN0053",
+  "vin": "LNNACDFP0TD254804",
   "material": "风云/风云A9L/2027/1.5T-DHT/260 ULTRA/玄武灰/米棕内饰/5座",
   "invoice_date": "2026-07-09",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "E71502XCLPN0020",
+  "vin": "LNNACDFP9SDJ24261",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/墨石黑/米棕内饰",
   "invoice_date": "2025-10-25",
   "dealer": "北京福铃"
  },
  {
-  "vin": "T7000CSQSAX0075",
+  "vin": "LNNACDGK4TDH16402",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/云粉米外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-08",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "T7151MABWJV0001",
+  "vin": "LVTDB21B4TDL40593",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/智尚型/黑棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-29",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7160USZNMH0006",
+  "vin": "LNNBBDEE5SC188598",
   "material": "奇瑞/探索06四驱发现版/2025款/1.6T-7DCT-4WD/舒适型-极地黑/黑内饰/上新云墨黑下冰川银外观/5座",
   "invoice_date": "2025-07-13",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T6473SYULME0019",
+  "vin": "LVTDB21B3TD144676",
   "material": "奇瑞/瑞虎8PRO 非凡冠军/2027款/1.6T-7DCT/豪华版 5座 棕色内饰/棕色内饰/时光灰外观/5座",
   "invoice_date": "2026-03-10",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6450LPCLFR0023",
+  "vin": "LVTDB21B6TDD70827",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/畅享型/黑棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-05-29",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T64706TCLJW0007",
+  "vin": "LVTDB21B5TDM86386",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-20",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T6450QABWJV0002",
+  "vin": "LVTDB21BXTD162026",
   "material": "奇瑞/瑞虎5运动版/2026款/1.5T-6DCT/潮玩型/瓦青内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-22",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7151MAKUJV0001",
+  "vin": "LVTDB21B8TDL58224",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/智尚型/黑棕内饰/月光银外观/5座",
   "invoice_date": "2026-04-20",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T6490LMUUSH0017",
+  "vin": "LNNBBDGH4TDJ04824",
   "material": "风云/风云T9L/2026款/1.5T-DHT/230 Pro/暖霞金橙内饰/石林灰外观/5座",
   "invoice_date": "2026-03-30",
   "dealer": "北京福铃鑫瑞"
  },
  {
-  "vin": "T7000MTQSTA0018",
+  "vin": "LURJCVS26TA358453",
   "material": "QQ/全新QQ3/2026款/310Km/310分享版/质感黑内饰/云粉米外观/5座",
   "invoice_date": "2026-06-11",
   "dealer": "北京福瑞祥驰"
  },
  {
-  "vin": "E71502DNMPL0015",
+  "vin": "LNNAJDFR0SD471100",
   "material": "风云/风云A9L/1.5T-DHT-四驱/四驱高能巅峰版/车厘子红/米棕内饰/带副驾零重力座椅",
   "invoice_date": "2025-08-23",
   "dealer": "北京华日菱"
  },
  {
-  "vin": "T64706TBWJW0015",
+  "vin": "LVTDB21B9TDL27998",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-16",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7000MTK1TA0019",
+  "vin": "LURJCVS21TA348493",
   "material": "QQ/全新QQ3/2026款/310Km/310分享版/丛林绿内饰/月剑银外观/5座",
   "invoice_date": "2026-05-20",
   "dealer": "北京福瑞祥驰"
  },
  {
-  "vin": "T7000CSUEAX0076",
+  "vin": "LNNACDGKXTDH15156",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫黑内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-28",
   "dealer": "北京卓远"
  },
  {
-  "vin": "M7160DFUMJW0129",
+  "vin": "LVVDC21B1TD103435",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/豪华型-黑黑内饰/青竹灰/RDE",
   "invoice_date": "2026-01-24",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "M7163PSBWJW0002",
+  "vin": "LVVDC21BXTD180370",
   "material": "奇瑞/艾瑞泽8/2027款/1.6T-7DCT（R）/智/黑灰内饰/珍珠白外观/5座",
   "invoice_date": "2026-04-10",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T7000CSUEAX0076",
+  "vin": "LNNACDGK4TDH14973",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫黑内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-26",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "T7000MTK1TA0023",
+  "vin": "LURJCVS20TA379363",
   "material": "QQ/全新QQ3/2026款/310Km/310热爱版/质感黑内饰/月剑银外观/5座",
   "invoice_date": "2026-07-23",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T6450LPUUFR0023",
+  "vin": "LVTDB21B9TDD79800",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/畅享型/黑棕内饰/深空灰外观/5座",
   "invoice_date": "2026-06-23",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7000CSUEAX0076",
+  "vin": "LNNACDGK9TDH15973",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫黑内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-03",
   "dealer": "北京华日菱"
  },
  {
-  "vin": "M7200LWBWKG0002",
+  "vin": "LVVDC24B6SDJ85138",
   "material": "奇瑞/艾瑞泽8 2.0T/2025/2.0T-7DCT国六/劲沧海灰内饰/珍珠白/RDE",
   "invoice_date": "2025-12-23",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6490LMSFSH0019",
+  "vin": "LNNBBDGH8TDJ05135",
   "material": "风云/风云T9L/2026款/1.5T-DHT/230 Max/水墨霁蓝内饰/鸣沙翠外观/5座",
   "invoice_date": "2026-03-31",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "E65208XSJNS0048",
+  "vin": "LNNBDDEZXSDM11676",
   "material": "风云/风云T11/2026款/1.5T-双电机(四驱)/220km四驱双IMAX影院版/羊脂米内饰/极光绿外观/6座",
   "invoice_date": "2025-11-29",
   "dealer": "北京立信惠达"
  },
  {
-  "vin": "T6490KBKVFT0003",
+  "vin": "LVTDB24BXTD165973",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/豪享版-鎏金棕-5座/鎏金棕内饰/钛晶银外观/5座",
   "invoice_date": "2026-03-26",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "M7163PSKXJW0002",
+  "vin": "LVVDC21B5TD185024",
   "material": "奇瑞/艾瑞泽8/2027款/1.6T-7DCT（R）/智/黑灰内饰/钻石银外观/5座",
   "invoice_date": "2026-04-11",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6490LMJYSH0019",
+  "vin": "LNNBBDGH7TDJ09600",
   "material": "风云/风云T9L/2026款/1.5T-DHT/230 Max/水墨霁蓝内饰/丹霞黑外观/5座",
   "invoice_date": "2026-04-27",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "T7000KPK1SV0020",
+  "vin": "LURJCVBE2TA378709",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/丛林绿内饰/月剑银外观/5座",
   "invoice_date": "2026-07-22",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T7000CSUEAX0076",
+  "vin": "LNNACDGK2TDH15961",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫黑内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-07",
   "dealer": "北京环耀盛鑫"
  },
  {
-  "vin": "T6450LPURFR0024",
+  "vin": "LVTDB21B2TDD48078",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/悦享型/黑棕内饰/浅云灰外观/5座",
   "invoice_date": "2026-03-28",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T6490KBCLFT0001",
+  "vin": "LVTDB24B6TD172905",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/奢享版-鎏金棕-5座/鎏金棕内饰/曜石黑外观/5座",
   "invoice_date": "2026-03-31",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T7000CSUEAX0075",
+  "vin": "LNNACDGK3TDH14608",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-28",
   "dealer": "北京华日菱"
  },
  {
-  "vin": "T6460RMN2UK0001",
+  "vin": "LNNBBDGK5TD277988",
   "material": "风云/风云T7/2026款/BEV/600km智享版/温暖黑棕内饰/炽焰橙外观/5座",
   "invoice_date": "2026-07-26",
   "dealer": "北京福铃"
  },
  {
-  "vin": "T7151LZCLJV0001",
+  "vin": "LVTDB21B8TDL52813",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/尊尚型（滑移屏女王包）/黑棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-04-16",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "M7163PSCLJW0009",
+  "vin": "LVVDC21B5TD236599",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/1.6T-7DCT/舒适型/黑黑内饰/石墨黑外观/5座",
   "invoice_date": "2026-06-09",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7151MBBWJV0001",
+  "vin": "LVTDB21B8TDL29032",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/尊尚型/黑棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-19",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "T6490LMSFSH0017",
+  "vin": "LNNBBDGH6TDJ06218",
   "material": "风云/风云T9L/2026款/1.5T-DHT/230 Pro/暖霞金橙内饰/鸣沙翠外观/5座",
   "invoice_date": "2026-03-29",
   "dealer": "北京福铃"
  },
  {
-  "vin": "M7163PSBWJW0002",
+  "vin": "LVVDC21BXTD177582",
   "material": "奇瑞/艾瑞泽8/2027款/1.6T-7DCT（R）/智/黑灰内饰/珍珠白外观/5座",
   "invoice_date": "2026-04-03",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6480VGCMFH0039",
+  "vin": "LVTDB24B2SG130504",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/豪华版-新棕黑-5座/新棕黑内饰/松墨黑外观/5座",
   "invoice_date": "2025-11-20",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7000CSUEAX0076",
+  "vin": "LNNACDGK5TDH14383",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫黑内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-22",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "T64706TCLJW0016",
+  "vin": "LVTDB21B9SDH98017",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/旗舰型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2025-12-13",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6470S3UMMH0007",
+  "vin": "LNNBBDEE9SD192096",
   "material": "风云/风云T8/2025/1.5T-DHT国六/豪华版云墨黑内饰5座/青竹灰/RDE",
   "invoice_date": "2025-03-13",
   "dealer": "北京龙腾新景"
  },
  {
-  "vin": "E65208XSJNS0048",
+  "vin": "LNNBDDEZ7SDM11702",
   "material": "风云/风云T11/2026款/1.5T-双电机(四驱)/220km四驱双IMAX影院版/羊脂米内饰/极光绿外观/6座",
   "invoice_date": "2025-11-29",
   "dealer": "北京立信惠达"
  },
  {
-  "vin": "T6490LMSFSH0017",
+  "vin": "LNNBBDGH9TDJ06195",
   "material": "风云/风云T9L/2026款/1.5T-DHT/230 Pro/暖霞金橙内饰/鸣沙翠外观/5座",
   "invoice_date": "2026-03-29",
   "dealer": "北京福铃"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21B7TDM85546",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-07-18",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "E71502XCLPN0051",
+  "vin": "LNNACDFP2TD278439",
   "material": "风云/风云A9L/2027/1.5T-DHT/260 MAX/墨石黑/米棕内饰/5座",
   "invoice_date": "2026-07-25",
   "dealer": "北京京风创瑞"
  },
  {
-  "vin": "T7000MTQSTA0019",
+  "vin": "LURJCVS2XTA369827",
   "material": "QQ/全新QQ3/2026款/310Km/310分享版/丛林绿内饰/云粉米外观/5座",
   "invoice_date": "2026-07-07",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "M7204PUSWFH0003",
+  "vin": "LVVDC24B8TD220280",
   "material": "奇瑞/艾瑞泽8/2027款/2.0T-8AT（R）/御/黑棕内饰/芰荷翠外观/5座",
   "invoice_date": "2026-05-21",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T7000KPBWSV0027",
+  "vin": "LURJCVBE7TA365440",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/质感黑内饰/翎羽白外观/5座",
   "invoice_date": "2026-06-29",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "M7200LWBWKG0005",
+  "vin": "LVVDC24B5SDJ85938",
   "material": "奇瑞/艾瑞泽8 2.0T/2025/2.0T-7DCT国六/劲流沙棕内饰/珍珠白/RDE",
   "invoice_date": "2025-12-23",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6473SYBWME0019",
+  "vin": "LVTDB21B4TD162491",
   "material": "奇瑞/瑞虎8PRO 非凡冠军/2027款/1.6T-7DCT/豪华版 5座 棕色内饰/棕色内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-22",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "M7160DFBWJW0129",
+  "vin": "LVVDC21B6SD461015",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/豪华型-黑黑内饰/珍珠白/RDE",
   "invoice_date": "2025-08-15",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T64706TCLJW0007",
+  "vin": "LVTDB21B6TDL85101",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/石墨黑外观/5座",
   "invoice_date": "2026-05-13",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T6481KFUUMH0001",
+  "vin": "LNNBBDEEXTG026945",
   "material": "风云/风云T9长续航/2026/1.5T-DHT国六/220长续航旗舰型胡桃棕内饰5座/石林灰/RDE",
   "invoice_date": "2026-03-29",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "E65208XCLNS0142",
+  "vin": "LNNBDDEZ8SDM17282",
   "material": "风云/风云T11/2026款/1.5T-双电机(四驱)/220km四驱全家乐/琥珀棕内饰/墨石黑外观/6座",
   "invoice_date": "2025-12-22",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "E71502XGVPN0020",
+  "vin": "LNNACDFP2SDJ75987",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/云烟紫/米棕内饰",
   "invoice_date": "2025-12-02",
   "dealer": "北京福铃鑫瑞"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21B3TDM59896",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-06-25",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "M7150PPBWKL0002",
+  "vin": "LVVDC21B4TDH04082",
   "material": "奇瑞/2025款艾瑞泽5卓越版/2025款/1.5L-CVT/风尚型/黑黑内饰/珍珠白外观",
   "invoice_date": "2026-01-20",
   "dealer": "北京名车伯乐"
  },
  {
-  "vin": "T6490KBBWFT0001",
+  "vin": "LVTDB24B8TD171724",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/奢享版-鎏金棕-5座/鎏金棕内饰/皓钻白外观/5座",
   "invoice_date": "2026-03-28",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "E71502XK2PN0019",
+  "vin": "LNNACDFPXSD583735",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/星瀚银/黑棕内饰",
   "invoice_date": "2025-10-10",
   "dealer": "北京华日菱"
  },
  {
-  "vin": "T7000CSQSAX0075",
+  "vin": "LNNACDGK8TDH15205",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/云粉米外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-29",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "T6490KBBWFT0001",
+  "vin": "LVTDB24B1TD169894",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/奢享版-鎏金棕-5座/鎏金棕内饰/皓钻白外观/5座",
   "invoice_date": "2026-03-27",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T7000KPQSSV0025",
+  "vin": "LURJCVBE4TA363080",
   "material": "QQ/全新QQ3/2026款/420Km/420热爱版/丛林绿内饰/云粉米外观/5座",
   "invoice_date": "2026-06-24",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T6470BFCLHK0038",
+  "vin": "LVTDD24B5RD563434",
   "material": "奇瑞/其他车型///其他动总/其他型号/其他颜色内饰/其他颜色外观/5座",
   "invoice_date": "2024-05-26",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T64706TUUJW0007",
+  "vin": "LVTDB21B9TDM87587",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/深空灰外观/5座",
   "invoice_date": "2026-07-20",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T7000MTJVTA0024",
+  "vin": "LURJCVS28TA380745",
   "material": "QQ/全新QQ3/2026款/310Km/310热爱版/丛林绿内饰/飘逸紫外观/5座",
   "invoice_date": "2026-07-25",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T7151MBKUJV0001",
+  "vin": "LVTDB21B7TDL54777",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/尊尚型/黑棕内饰/月光银外观/5座",
   "invoice_date": "2026-04-15",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T64706TCLJW0007",
+  "vin": "LVTDB21BXTDM91647",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-23",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T7000KPBWSV0025",
+  "vin": "LURJCVBE4TA366528",
   "material": "QQ/全新QQ3/2026款/420Km/420热爱版/丛林绿内饰/翎羽白外观/5座",
   "invoice_date": "2026-07-02",
   "dealer": "北京卓远"
  },
  {
-  "vin": "T6450QAW3JV0002",
+  "vin": "LVTDB21B7TD202031",
   "material": "奇瑞/瑞虎5运动版/2026款/1.5T-6DCT/潮玩型/瓦青内饰/蓝波万外观/5座",
   "invoice_date": "2026-04-27",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T6480VGKVFH0039",
+  "vin": "LVTDB24B2SG132625",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/豪华版-新棕黑-5座/新棕黑内饰/流光银外观/5座",
   "invoice_date": "2025-11-30",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T7000CSUEAX0075",
+  "vin": "LNNACDGK5TDH16988",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-09",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "T6490LMSFSH0019",
+  "vin": "LNNBBDGH8TDJ05085",
   "material": "风云/风云T9L/2026款/1.5T-DHT/230 Max/水墨霁蓝内饰/鸣沙翠外观/5座",
   "invoice_date": "2026-03-31",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "T7000KPQSSV0023",
+  "vin": "LURJCVBE1TA387076",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版+选装L2+17寸铝圈/丛林绿内饰/云粉米外观/5座",
   "invoice_date": "2026-08-10",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T6490LMJUSH0017",
+  "vin": "LNNBBDGH3TDJ05446",
   "material": "风云/风云T9L/2026款/1.5T-DHT/230 Pro/暖霞金橙内饰/山烟紫外观/5座",
   "invoice_date": "2026-03-29",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T7000CSQSAX0075",
+  "vin": "LNNACDGK6TDH16675",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/云粉米外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-09",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "E65208XCLNS0142",
+  "vin": "LNNBDDEZ5TDJ00156",
   "material": "风云/风云T11/2026款/1.5T-双电机(四驱)/220km四驱全家乐/琥珀棕内饰/墨石黑外观/6座",
   "invoice_date": "2026-01-25",
   "dealer": "北京卓远"
  },
  {
-  "vin": "T6480VGUEFH0039",
+  "vin": "LVTDB24B6SG100762",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/豪华版-新棕黑-5座/新棕黑内饰/磨砂灰外观/5座",
   "invoice_date": "2025-10-07",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T6490LMB1SH0019",
+  "vin": "LNNBBDGH3TDJ06824",
   "material": "风云/风云T9L/2026款/1.5T-DHT/230 Max/水墨霁蓝内饰/雪岭白外观/5座",
   "invoice_date": "2026-04-02",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "T7151MBCLJV0001",
+  "vin": "LVTDB21BXTDL32613",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/尊尚型/黑棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-03-21",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T6473SYBWME0019",
+  "vin": "LVTDB21B4TD193546",
   "material": "奇瑞/瑞虎8PRO 非凡冠军/2027款/1.6T-7DCT/豪华版 5座 棕色内饰/棕色内饰/珍珠白外观/5座",
   "invoice_date": "2026-04-20",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T6480VGKVFH0039",
+  "vin": "LVTDB24B1SG140005",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/豪华版-新棕黑-5座/新棕黑内饰/流光银外观/5座",
   "invoice_date": "2025-12-12",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T7000KPQSSV0020",
+  "vin": "LURJCVBE8TA380299",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/丛林绿内饰/云粉米外观/5座",
   "invoice_date": "2026-07-24",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T7161LWUUJW0001",
+  "vin": "LVTDB21B2TDL98797",
   "material": "奇瑞/瑞虎7L/2026款/1.6TGDI-7DCT/尊尚型+/黑棕内饰/深空灰外观/5座",
   "invoice_date": "2026-05-26",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6480VGKVFH0039",
+  "vin": "LVTDB24B4SG127359",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/豪华版-新棕黑-5座/新棕黑内饰/流光银外观/5座",
   "invoice_date": "2025-11-14",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "A7150MAGTGW0009",
+  "vin": "LVVDB21B4SE057028",
   "material": "奇瑞/瑞虎3x/1.5L-CVT国六B/深色内饰/卓越版/玉簪灰/RDE",
   "invoice_date": "2025-10-09",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T7000CSUEAX0075",
+  "vin": "LNNACDGK8TDH17245",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-09",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "M7163PSKXJW0004",
+  "vin": "LVVDC21B7TD190189",
   "material": "奇瑞/艾瑞泽8/2027款/1.6T-7DCT（R）/睿/黑灰内饰/钻石银外观/5座",
   "invoice_date": "2026-04-16",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T6450LPUUFR0024",
+  "vin": "LVTDB21B1TDD48685",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/悦享型/黑棕内饰/深空灰外观/5座",
   "invoice_date": "2026-03-29",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T7161LWUKJW0001",
+  "vin": "LVTDB21B6TDL56729",
   "material": "奇瑞/瑞虎7L/2026款/1.6TGDI-7DCT/尊尚型+/黑棕内饰/磨砂灰外观/5座",
   "invoice_date": "2026-04-18",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "E71502XUVPN0019",
+  "vin": "LNNACDFP4SDJ22255",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/玄武灰/黑棕内饰",
   "invoice_date": "2025-10-24",
   "dealer": "北京华日菱"
  },
  {
-  "vin": "M7200LWCLKG0002",
+  "vin": "LVVDC24B5SD334851",
   "material": "奇瑞/艾瑞泽8 2.0T/2025/2.0T-7DCT国六/劲沧海灰内饰/石墨黑/RDE",
   "invoice_date": "2025-06-05",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T7161LWJNJW0001",
+  "vin": "LVTDB21B7TDL88864",
   "material": "奇瑞/瑞虎7L/2026款/1.6TGDI-7DCT/尊尚型+/黑棕内饰/流光紫外观/5座",
   "invoice_date": "2026-05-18",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T6472WHCLJW0039",
+  "vin": "LVTDB21BXTD169753",
   "material": "奇瑞/全新瑞虎8PLUS 非凡冠军/2027款/1.6T-7DCT-两驱/豪华版 5座 棕色内饰/棕色内饰/石墨黑外观/5座",
   "invoice_date": "2026-03-28",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T7000KPQSSV0020",
+  "vin": "LURJCVBE8TA375376",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/丛林绿内饰/云粉米外观/5座",
   "invoice_date": "2026-07-16",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T7000CSUEAX0075",
+  "vin": "LNNACDGK3TDH16875",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-07",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "E71502XUVPN0019",
+  "vin": "LNNACDFP1SDJ22262",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/玄武灰/黑棕内饰",
   "invoice_date": "2025-10-25",
   "dealer": "北京华日菱"
  },
  {
-  "vin": "T64706TUUJW0007",
+  "vin": "LVTDB21B0TDM91737",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/深空灰外观/5座",
   "invoice_date": "2026-07-23",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T6490KBCLFT0003",
+  "vin": "LVTDB24B5TD173530",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/豪享版-鎏金棕-5座/鎏金棕内饰/曜石黑外观/5座",
   "invoice_date": "2026-03-31",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T64706TCLJW0007",
+  "vin": "LVTDB21BXTDM86481",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-19",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "M7150PPBWKL0002",
+  "vin": "LVVDC21B4TDH13977",
   "material": "奇瑞/2025款艾瑞泽5卓越版/2025款/1.5L-CVT/风尚型/黑黑内饰/珍珠白外观",
   "invoice_date": "2026-07-23",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T64706TBWJW0013",
+  "vin": "LVTDB21B1TDL63037",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-04-24",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6460RMN2UK0001",
+  "vin": "LNNBBDGK1TD277972",
   "material": "风云/风云T7/2026款/BEV/600km智享版/温暖黑棕内饰/炽焰橙外观/5座",
   "invoice_date": "2026-07-28",
   "dealer": "北京甲源子智行"
  },
  {
-  "vin": "E71502XUVPN0020",
+  "vin": "LNNACDFP8SDJ09573",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/玄武灰/米棕内饰",
   "invoice_date": "2025-10-20",
   "dealer": "北京福铃"
  },
  {
-  "vin": "T6460RMN2UK0001",
+  "vin": "LNNBBDGK7TD278608",
   "material": "风云/风云T7/2026款/BEV/600km智享版/温暖黑棕内饰/炽焰橙外观/5座",
   "invoice_date": "2026-07-26",
   "dealer": "北京鑫佰荟"
  },
  {
-  "vin": "T7150BCBWFR0147",
+  "vin": "LVVDB21B3TD125763",
   "material": "奇瑞/瑞虎5x高能版/2025款/1.5T-CVT/舒适型-黑色内饰/珍珠白/RDE",
   "invoice_date": "2026-02-11",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T7000MTJVTA0019",
+  "vin": "LURJCVS27TA358106",
   "material": "QQ/全新QQ3/2026款/310Km/310分享版/丛林绿内饰/飘逸紫外观/5座",
   "invoice_date": "2026-06-10",
   "dealer": "北京福瑞祥驰"
  },
  {
-  "vin": "T7000CSUEAX0063",
+  "vin": "LNNACDGK8TDH13289",
   "material": "风云/风云A9/2026款/BEV/655 MAX/紫灰内饰/玄武灰外观/5座/运动包",
   "invoice_date": "2026-07-17",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "E71502XCLPN0018",
+  "vin": "LNNACDFP2TD194069",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航豪华版（新）/墨石黑/米棕内饰",
   "invoice_date": "2026-04-25",
   "dealer": "北京福铃鑫瑞"
  },
  {
-  "vin": "M7150PPBWKL0002",
+  "vin": "LVVDC21B7TDH15464",
   "material": "奇瑞/2025款艾瑞泽5卓越版/2025款/1.5L-CVT/风尚型/黑黑内饰/珍珠白外观",
   "invoice_date": "2026-07-31",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T7000CSQSAX0075",
+  "vin": "LNNACDGK2TDH15183",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/云粉米外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-29",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "M7160DFBWJW0127",
+  "vin": "LVVDC21B8TD069901",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/舒适型-黑黑内饰/珍珠白/RDE",
   "invoice_date": "2026-01-06",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T64706TBWJW0015",
+  "vin": "LVTDB21B2TDL28040",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-16",
   "dealer": "北京名车伯乐"
  },
  {
-  "vin": "T7000CSUEAX0075",
+  "vin": "LNNACDGK9TDH17397",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-09",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "E65208XSJNS0048",
+  "vin": "LNNBDDEZ4SDM11706",
   "material": "风云/风云T11/2026款/1.5T-双电机(四驱)/220km四驱双IMAX影院版/羊脂米内饰/极光绿外观/6座",
   "invoice_date": "2025-11-28",
   "dealer": "北京立信惠达"
  },
  {
-  "vin": "M7163PSKXJW0002",
+  "vin": "LVVDC21B1TD185053",
   "material": "奇瑞/艾瑞泽8/2027款/1.6T-7DCT（R）/智/黑灰内饰/钻石银外观/5座",
   "invoice_date": "2026-04-11",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T64706TUUJW0007",
+  "vin": "LVTDB21BXTDL92391",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/深空灰外观/5座",
   "invoice_date": "2026-05-19",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "M7163PSSWJW0005",
+  "vin": "LVVDC21B4TD186861",
   "material": "奇瑞/艾瑞泽8/2027款/1.6T-7DCT（R）/睿/黑棕内饰/芰荷翠外观/5座",
   "invoice_date": "2026-04-12",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T64706TCLJW0013",
+  "vin": "LVTDB21B1TDM87616",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-20",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T6473SYCLME0019",
+  "vin": "LVTDB21B1TD198588",
   "material": "奇瑞/瑞虎8PRO 非凡冠军/2027款/1.6T-7DCT/豪华版 5座 棕色内饰/棕色内饰/石墨黑外观/5座",
   "invoice_date": "2026-04-23",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "E71502XUVPN0019",
+  "vin": "LNNACDFP0SDJ17988",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/玄武灰/黑棕内饰",
   "invoice_date": "2025-10-23",
   "dealer": "北京华日菱"
  },
  {
-  "vin": "T7000KPK1SV0025",
+  "vin": "LURJCVBEXTA359003",
   "material": "QQ/全新QQ3/2026款/420Km/420热爱版/丛林绿内饰/月剑银外观/5座",
   "invoice_date": "2026-06-12",
   "dealer": "北京福瑞祥驰"
  },
  {
-  "vin": "T64706TCLJW0013",
+  "vin": "LVTDB21B2TDM82330",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-17",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T6450LPBWFR0023",
+  "vin": "LVTDB21B1TDM06548",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/畅享型/黑棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-12",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T6450LPCLFR0024",
+  "vin": "LVTDB21B9TDD45825",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/悦享型/黑棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-03-22",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T6480VGCMFH0039",
+  "vin": "LVTDB24B4SG130360",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/豪华版-新棕黑-5座/新棕黑内饰/松墨黑外观/5座",
   "invoice_date": "2025-11-20",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "M7200LWKXKG0005",
+  "vin": "LVVDC24B4TD090465",
   "material": "奇瑞/艾瑞泽8 2.0T/2025/2.0T-7DCT国六/劲流沙棕内饰/钻石银/RDE",
   "invoice_date": "2026-01-16",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T7151Y1GVMH0005",
+  "vin": "LNNBBDATXTDD50082",
   "material": "奇瑞/全新瑞虎7 C-DM/2025款/1.5T-DHT/御-黑色/黑色内饰/磨砂灰外观/5座",
   "invoice_date": "2026-04-02",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T7000KPBWSV0020",
+  "vin": "LURJCVBE0TA335924",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/丛林绿内饰/翎羽白外观/5座",
   "invoice_date": "2026-05-04",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T7000KPQSSV0024",
+  "vin": "LURJCVBE6TA316164",
   "material": "QQ/全新QQ3/2026款/420Km/420热爱版/质感黑内饰/云粉米外观/5座",
   "invoice_date": "2026-04-01",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T6473SYCLME0019",
+  "vin": "LVTDB21B6TD153839",
   "material": "奇瑞/瑞虎8PRO 非凡冠军/2027款/1.6T-7DCT/豪华版 5座 棕色内饰/棕色内饰/石墨黑外观/5座",
   "invoice_date": "2026-03-17",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6450QABWJV0002",
+  "vin": "LVTDB21B2TD161209",
   "material": "奇瑞/瑞虎5运动版/2026款/1.5T-6DCT/潮玩型/瓦青内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-22",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T6480VGCMFH0043",
+  "vin": "LVTDB24B4SG142654",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/松墨黑外观/5座",
   "invoice_date": "2025-12-18",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T6473SYCLME0020",
+  "vin": "LVTDB21B2TD161646",
   "material": "奇瑞/瑞虎8PRO 非凡冠军/2027款/1.6T-7DCT/豪华版 7座 棕色内饰/棕色内饰/石墨黑外观/7座",
   "invoice_date": "2026-03-21",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T7000KPBWSV0020",
+  "vin": "LURJCVBE2TA367242",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/丛林绿内饰/翎羽白外观/5座",
   "invoice_date": "2026-07-01",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T7000CSBWAX0075",
+  "vin": "LNNACDGK4TDH16819",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/雪岭白外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-08",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "S643017BWQR0001",
+  "vin": "LURMCVB37SA154717",
   "material": "风云/X3/2025款/纯电/401雅尚版/松弛绿内饰/直白外观/5座",
   "invoice_date": "2025-08-07",
   "dealer": "北京龙腾新景"
  },
  {
-  "vin": "E71502XCLPN0018",
+  "vin": "LNNACDFP6TD194074",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航豪华版（新）/墨石黑/米棕内饰",
   "invoice_date": "2026-04-25",
   "dealer": "北京福铃鑫瑞"
  },
  {
-  "vin": "T7000CSQSAX0075",
+  "vin": "LNNACDGK9TDH16475",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/云粉米外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-05",
   "dealer": "北京甲源子智行"
  },
  {
-  "vin": "M7150PPBWKL0002",
+  "vin": "LVVDC21B0TDH15466",
   "material": "奇瑞/2025款艾瑞泽5卓越版/2025款/1.5L-CVT/风尚型/黑黑内饰/珍珠白外观",
   "invoice_date": "2026-07-31",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "M7203PTCLLB0001",
+  "vin": "LVVDC24B8TD272086",
   "material": "奇瑞/艾瑞泽8/2027款/2.0T-7DCT（R）/劲/黑棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-17",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "E71502XSJPN0050",
+  "vin": "LNNACDFPXTD281346",
   "material": "风云/风云A9L/2027/1.5T-DHT/260 MAX/极光绿/黑棕内饰/5座",
   "invoice_date": "2026-08-06",
   "dealer": "北京京风创瑞"
  },
  {
-  "vin": "T7000MTQSTA0024",
+  "vin": "LURJCVS21TA364290",
   "material": "QQ/全新QQ3/2026款/310Km/310热爱版/丛林绿内饰/云粉米外观/5座",
   "invoice_date": "2026-06-26",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T64706TBWJW0013",
+  "vin": "LVTDB21B4TDM62290",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-06-27",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T7000CSBWAX0064",
+  "vin": "LNNACDGK1TDH14509",
   "material": "风云/风云A9/2026款/BEV/655 MAX/紫黑内饰/雪岭白外观/5座/运动包",
   "invoice_date": "2026-07-23",
   "dealer": "北京鑫佰荟"
  },
  {
-  "vin": "T6473SYCLME0019",
+  "vin": "LVTDB21B9TD154922",
   "material": "奇瑞/瑞虎8PRO 非凡冠军/2027款/1.6T-7DCT/豪华版 5座 棕色内饰/棕色内饰/石墨黑外观/5座",
   "invoice_date": "2026-03-18",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T6450LPURFR0023",
+  "vin": "LVTDB21B3TDD50535",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/畅享型/黑棕内饰/浅云灰外观/5座",
   "invoice_date": "2026-04-02",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T64706TBWJW0013",
+  "vin": "LVTDB21B7TDM83764",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-17",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T7000MTQSTA0023",
+  "vin": "LURJCVS28TA377389",
   "material": "QQ/全新QQ3/2026款/310Km/310热爱版/质感黑内饰/云粉米外观/5座",
   "invoice_date": "2026-07-23",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T64706TBWJW0015",
+  "vin": "LVTDB21B2TDL28071",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-16",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6472WHCLJW0039",
+  "vin": "LVTDB21B6TD164923",
   "material": "奇瑞/全新瑞虎8PLUS 非凡冠军/2027款/1.6T-7DCT-两驱/豪华版 5座 棕色内饰/棕色内饰/石墨黑外观/5座",
   "invoice_date": "2026-03-24",
   "dealer": "北京名车伯乐"
  },
  {
-  "vin": "E71502XK2PN0019",
+  "vin": "LNNACDFP9SDJ13213",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/星瀚银/黑棕内饰",
   "invoice_date": "2025-10-23",
   "dealer": "北京福铃"
  },
  {
-  "vin": "T64706TCLJW0013",
+  "vin": "LVTDB21B0TDM85484",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-19",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T64706TBWJW0014",
+  "vin": "LVTDB21B6TDM68298",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/旗舰型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-03",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T7151MBBWJV0001",
+  "vin": "LVTDB21B9TDL29010",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/尊尚型/黑棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-19",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "T7000KPBWSV0020",
+  "vin": "LURJCVBE1TA365403",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/丛林绿内饰/翎羽白外观/5座",
   "invoice_date": "2026-06-29",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T6480VGKVFH0039",
+  "vin": "LVTDB24B3SG129684",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/豪华版-新棕黑-5座/新棕黑内饰/流光银外观/5座",
   "invoice_date": "2025-11-20",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T7000CSUEAX0075",
+  "vin": "LNNACDGK1TDH16633",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-05",
   "dealer": "北京京风创瑞"
  },
  {
-  "vin": "T64706TCLJW0007",
+  "vin": "LVTDB21B4TDM86461",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-19",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6480FZBXMH0001",
+  "vin": "LNNBBDEE2TG043691",
   "material": "风云/风云T9/2025/1.5T-DHT国六/120KM长续航尊贵型云墨黑内饰5座/浮光白/RDE",
   "invoice_date": "2026-06-25",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "E71502XSJPN0019",
+  "vin": "LNNACDFP4SDJ63176",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/极光绿/黑棕内饰",
   "invoice_date": "2025-11-18",
   "dealer": "北京福铃"
  },
  {
-  "vin": "M7203PTCLLB0010",
+  "vin": "LVVDC24B4TD273820",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/2.0T-7DCT/猎鹰500尊享型/黑红内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-21",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "M7150PPBWKL0002",
+  "vin": "LVVDC21B7TDH02326",
   "material": "奇瑞/2025款艾瑞泽5卓越版/2025款/1.5L-CVT/风尚型/黑黑内饰/珍珠白外观",
   "invoice_date": "2026-01-07",
   "dealer": "北京名车伯乐"
  },
  {
-  "vin": "E6520GUSJNH0111",
+  "vin": "LNNBBDEM8TDJ14286",
   "material": "风云/风云T11/2026款/1.5T-单电机(后置两驱)/220km后驱伯牙巨幕奢享版/琥珀棕内饰/极光绿外观/6座",
   "invoice_date": "2026-07-28",
   "dealer": "北京甲源子智行"
  },
  {
-  "vin": "T64706TBWJW0013",
+  "vin": "LVTDB21BXTDM62262",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-06-27",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T6480VGCMFH0043",
+  "vin": "LVTDB24B6SG122454",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/松墨黑外观/5座",
   "invoice_date": "2025-11-07",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T7000KPQSSV0025",
+  "vin": "LURJCVBE3TA362941",
   "material": "QQ/全新QQ3/2026款/420Km/420热爱版/丛林绿内饰/云粉米外观/5座",
   "invoice_date": "2026-06-24",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T6473SYCLME0019",
+  "vin": "LVTDB21BXTD153620",
   "material": "奇瑞/瑞虎8PRO 非凡冠军/2027款/1.6T-7DCT/豪华版 5座 棕色内饰/棕色内饰/石墨黑外观/5座",
   "invoice_date": "2026-03-17",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7000MTK1TA0019",
+  "vin": "LURJCVS25TA348500",
   "material": "QQ/全新QQ3/2026款/310Km/310分享版/丛林绿内饰/月剑银外观/5座",
   "invoice_date": "2026-05-20",
   "dealer": "北京福瑞祥驰"
  },
  {
-  "vin": "T6481KGBWFT0045",
+  "vin": "LVTDB24B2SDJ21173",
   "material": "奇瑞/瑞虎9/2025款/2.0T-7DCT-两驱/豪享版-黑黑-5座/珍珠白/RDE",
   "invoice_date": "2025-10-24",
   "dealer": "北京名车伯乐"
  },
  {
-  "vin": "M7160DFUMJW0127",
+  "vin": "LVVDC21B0TD094680",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/舒适型-黑黑内饰/青竹灰/RDE",
   "invoice_date": "2026-01-19",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T5141UDCLMM0001",
+  "vin": "LVVDB21B3SC041947",
   "material": "奇瑞/T1E/2025款/1.5T-CVT+48V全黑内饰/全黑内饰/其他动总内饰/其他颜色外观/5座",
   "invoice_date": "2024-12-28",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T64706TCLJW0013",
+  "vin": "LVTDB21B1TDM85512",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-19",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "M7160DFKXJW0107",
+  "vin": "LVVDC21B3TD144374",
   "material": "奇瑞/艾瑞泽8/2025/1.6T-7DCT国六/睿沧海灰内饰/钻石银/RDE",
   "invoice_date": "2026-03-08",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "A7150MAGTGW0009",
+  "vin": "LVVDB21B5TE035962",
   "material": "奇瑞/瑞虎3x/1.5L-CVT国六B/深色内饰/卓越版/玉簪灰/RDE",
   "invoice_date": "2026-01-20",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T6450LPCLFR0023",
+  "vin": "LVTDB21B8TDD79836",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/畅享型/黑棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-06-23",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6490KBKVFT0001",
+  "vin": "LVTDB24B7TD176543",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/奢享版-鎏金棕-5座/鎏金棕内饰/钛晶银外观/5座",
   "invoice_date": "2026-04-02",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "E71502DNMPL0015",
+  "vin": "LNNAJDFR9SD471046",
   "material": "风云/风云A9L/1.5T-DHT-四驱/四驱高能巅峰版/车厘子红/米棕内饰/带副驾零重力座椅",
   "invoice_date": "2025-08-23",
   "dealer": "北京华日菱"
  },
  {
-  "vin": "M7200LWGXKG0005",
+  "vin": "LVVDC24B4TD077683",
   "material": "奇瑞/艾瑞泽8 2.0T/2025/2.0T-7DCT国六/劲流沙棕内饰/晶钻灰/RDE",
   "invoice_date": "2026-01-10",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T64706TBWJW0013",
+  "vin": "LVTDB21B6TDL62935",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-04-24",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T7000CSQSAX0063",
+  "vin": "LNNACDGK1TDH14428",
   "material": "风云/风云A9/2026款/BEV/655 MAX/紫灰内饰/云粉米外观/5座/运动包",
   "invoice_date": "2026-07-22",
   "dealer": "北京鑫佰荟"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21B7TDM85580",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-07-19",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7000MTK1TA0024",
+  "vin": "LURJCVS29TA361508",
   "material": "QQ/全新QQ3/2026款/310Km/310热爱版/丛林绿内饰/月剑银外观/5座",
   "invoice_date": "2026-06-18",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T7000CSCLAX0075",
+  "vin": "LNNACDGKXTDH17165",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/墨石黑外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-08",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "T64706TCLJW0007",
+  "vin": "LVTDB21B9TDM43301",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/石墨黑外观/5座",
   "invoice_date": "2026-06-08",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T7000KPBWSV0020",
+  "vin": "LURJCVBE8TA352406",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/丛林绿内饰/翎羽白外观/5座",
   "invoice_date": "2026-05-26",
   "dealer": "北京福瑞祥驰"
  },
  {
-  "vin": "T7000MTQSTA0024",
+  "vin": "LURJCVS20TA385440",
   "material": "QQ/全新QQ3/2026款/310Km/310热爱版/丛林绿内饰/云粉米外观/5座",
   "invoice_date": "2026-08-07",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "M7201UNBWFH0006",
+  "vin": "LVVDC24B0SDJ56654",
   "material": "奇瑞/艾瑞泽8 2.0T/2025/2.0T-8AT国六/御+流沙棕内饰/珍珠白/RDE",
   "invoice_date": "2025-11-12",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T7152SBBWKL0005",
+  "vin": "LVVDB21B0TC081257",
   "material": "奇瑞/瑞虎5x/2025款/1.5L-CVT国六B/深色内饰/CVT卓越型/皓月白/RDE",
   "invoice_date": "2026-02-08",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "M7160DFCLJW0127",
+  "vin": "LVVDC21B7TD171836",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/舒适型-黑黑内饰/石墨黑/RDE",
   "invoice_date": "2026-03-28",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T7000KPQSSV0020",
+  "vin": "LURJCVBE6TA376770",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/丛林绿内饰/云粉米外观/5座",
   "invoice_date": "2026-07-18",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T64706TBWJW0007",
+  "vin": "LVTDB21B5TDM81298",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-14",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "E71502XUVPN0020",
+  "vin": "LNNACDFP7SDJ09578",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/玄武灰/米棕内饰",
   "invoice_date": "2025-10-20",
   "dealer": "北京福铃"
  },
  {
-  "vin": "T64706TBWJW0007",
+  "vin": "LVTDB21B8TDM62339",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/珍珠白外观/5座",
   "invoice_date": "2026-06-27",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T7000KPBWSV0020",
+  "vin": "LURJCVBE6TA324619",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/丛林绿内饰/翎羽白外观/5座",
   "invoice_date": "2026-04-16",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T64706TCLJW0007",
+  "vin": "LVTDB21B4TDM86475",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-19",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T6480VGBXFH0039",
+  "vin": "LVTDB24B6SG126925",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/豪华版-新棕黑-5座/新棕黑内饰/奇瑞白外观/5座",
   "invoice_date": "2025-11-13",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21B8TDM85586",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-07-18",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "E71502XUVPN0053",
+  "vin": "LNNACDFPXTD261128",
   "material": "风云/风云A9L/2027/1.5T-DHT/260 ULTRA/玄武灰/米棕内饰/5座",
   "invoice_date": "2026-07-17",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T64706TBWJW0007",
+  "vin": "LVTDB21B2TDM81274",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-14",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T64706TCLJW0007",
+  "vin": "LVTDB21B7TDM60775",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/石墨黑外观/5座",
   "invoice_date": "2026-06-27",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "J7000HMBKSJ0002",
+  "vin": "LURJAVBA5SD180352",
   "material": "QQ/奇瑞冰淇淋/2026款/220km/甜趣版/米棕内饰/椰子白外观/4座",
   "invoice_date": "2025-12-19",
   "dealer": "北京福瑞祥驰"
  },
  {
-  "vin": "T64706TCLJW0007",
+  "vin": "LVTDB21B1TDM86353",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-19",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "E71502XUVPN0053",
+  "vin": "LNNACDFP0TD254785",
   "material": "风云/风云A9L/2027/1.5T-DHT/260 ULTRA/玄武灰/米棕内饰/5座",
   "invoice_date": "2026-07-09",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "T64706TBWJW0013",
+  "vin": "LVTDB21B2TDL61510",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-04-25",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T7000CSQSAX0075",
+  "vin": "LNNACDGK1TDH17569",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/云粉米外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-09",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "T7000MTBWTA0019",
+  "vin": "LURJCVS2XTA340148",
   "material": "QQ/全新QQ3/2026款/310Km/310分享版/丛林绿内饰/翎羽白外观/5座",
   "invoice_date": "2026-05-07",
   "dealer": "北京福瑞祥驰"
  },
  {
-  "vin": "T64706TUKJW0013",
+  "vin": "LVTDB21B2TDL02313",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/磨砂灰(新)外观/5座",
   "invoice_date": "2026-02-09",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "M7160DFBWJW0110",
+  "vin": "LVVDC21B5SD134718",
   "material": "奇瑞/艾瑞泽8/2025款/1.6T-7DCT（R）/卓越版沧海灰内饰/沧海灰内饰/珍珠白外观/5座",
   "invoice_date": "2025-02-11",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "E71502XCLPN0017",
+  "vin": "LNNACDFP8TD079945",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航豪华版（新）/墨石黑/黑棕内饰",
   "invoice_date": "2026-01-22",
   "dealer": "北京福铃鑫瑞"
  },
  {
-  "vin": "T64706TBWJW0015",
+  "vin": "LVTDB21B0TDL28084",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-16",
   "dealer": "北京名车伯乐"
  },
  {
-  "vin": "T7000CSQSAX0047",
+  "vin": "LNNACDGK7TDH08746",
   "material": "风云/风云A9/2026款/BEV/展示版型/展示色内饰/展示色外观/5座",
   "invoice_date": "2026-04-25",
   "dealer": "北京环耀盛鑫"
  },
  {
-  "vin": "T7000CSQSAX0075",
+  "vin": "LNNACDGK7TDH15180",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/云粉米外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-29",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "A7150MABWGW0009",
+  "vin": "LVVDB21B7TE035638",
   "material": "奇瑞/瑞虎3x/1.5L-CVT国六B/深色内饰/卓越版/水仙白/RDE",
   "invoice_date": "2026-01-16",
   "dealer": "北京名车伯乐"
  },
  {
-  "vin": "T6472WHUMJW0039",
+  "vin": "LVTDB21B2TD166863",
   "material": "奇瑞/全新瑞虎8PLUS 非凡冠军/2027款/1.6T-7DCT-两驱/豪华版 5座 棕色内饰/棕色内饰/青竹灰外观/5座",
   "invoice_date": "2026-03-28",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21B8TDM59926",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-06-25",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T6480VGUEFH0043",
+  "vin": "LVTDB24B3SG119527",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/磨砂灰外观/5座",
   "invoice_date": "2025-11-03",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "M7201UNBWFH0006",
+  "vin": "LVVDC24B5SD472826",
   "material": "奇瑞/艾瑞泽8 2.0T/2025/2.0T-8AT国六/御+流沙棕内饰/珍珠白/RDE",
   "invoice_date": "2025-08-20",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "M7163PSCLJW0012",
+  "vin": "LVVDC21B0TD274712",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/1.6T-7DCT/豪华型/黑棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-22",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T64706TUUJW0007",
+  "vin": "LVTDB21B8TDM87483",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/深空灰外观/5座",
   "invoice_date": "2026-07-20",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7000MTK1TA0019",
+  "vin": "LURJCVS20TA374406",
   "material": "QQ/全新QQ3/2026款/310Km/310分享版/丛林绿内饰/月剑银外观/5座",
   "invoice_date": "2026-07-14",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21B5TDL69200",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-04-29",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T64706TBWJW0015",
+  "vin": "LVTDB21B5TDL28033",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-16",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T7151MAUUJV0001",
+  "vin": "LVTDB21B2TDL55853",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/智尚型/黑棕内饰/深空灰外观/5座",
   "invoice_date": "2026-04-16",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6472WHBWJW0039",
+  "vin": "LVTDB21B1TD165607",
   "material": "奇瑞/全新瑞虎8PLUS 非凡冠军/2027款/1.6T-7DCT-两驱/豪华版 5座 棕色内饰/棕色内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-25",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T6450LPBWFR0024",
+  "vin": "LVTDB21B6TDD57477",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/悦享型/黑棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-04-24",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7150U5GVNG0010",
+  "vin": "LNNBBDEG9SC188735",
   "material": "奇瑞/瑞虎5x/2025款/1.5L-CVT/CVT卓越型/其他颜色内饰/新卡其白外观/5座",
   "invoice_date": "2025-07-14",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T7150U5GVNG0010",
+  "vin": "LNNBBDEG7SC188734",
   "material": "奇瑞/瑞虎5x/2025款/1.5L-CVT/CVT卓越型/其他颜色内饰/新卡其白外观/5座",
   "invoice_date": "2025-07-14",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "A7150MABWGW0009",
+  "vin": "LVVDB21B6SE059461",
   "material": "奇瑞/瑞虎3x/1.5L-CVT国六B/深色内饰/卓越版/水仙白/RDE",
   "invoice_date": "2025-10-28",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T64706TCLJW0013",
+  "vin": "LVTDB21B8TDM82333",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-17",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T6450LPURFR0024",
+  "vin": "LVTDB21BXTDD52105",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/悦享型/黑棕内饰/浅云灰外观/5座",
   "invoice_date": "2026-04-09",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T7000KPBWSV0020",
+  "vin": "LURJCVBE2TA352403",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/丛林绿内饰/翎羽白外观/5座",
   "invoice_date": "2026-05-26",
   "dealer": "北京福瑞祥驰"
  },
  {
-  "vin": "T64706TBWJW0013",
+  "vin": "LVTDB21B9TDM84561",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-17",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T64706TCLJW0015",
+  "vin": "LVTDB21B2TDM33242",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-05-29",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T6450LPCLFR0023",
+  "vin": "LVTDB21B5TDM06455",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/畅享型/黑棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-11",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21B4TDM48485",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-06-12",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "M7160DFCLJW0107",
+  "vin": "LVVDC21B0SDJ82093",
   "material": "奇瑞/艾瑞泽8/2025/1.6T-7DCT国六/睿沧海灰内饰/石墨黑/RDE",
   "invoice_date": "2025-12-16",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T6450QABWJV0001",
+  "vin": "LVTDB21B4TD163561",
   "material": "奇瑞/瑞虎5运动版/2026款/1.5T-6DCT/潮酷型/瓦青内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-23",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "T6450LPCLFR0023",
+  "vin": "LVTDB21B6TDM06464",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/畅享型/黑棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-11",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21B6TDM50061",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-06-14",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T71604AGVMM0004",
+  "vin": "LVVDB21B5SDJ64496",
   "material": "奇瑞/OMODA 5/2023款/1.6T-7DCT/尊贵型-黑黑内饰/其他颜色内饰/果影灰外观/5座",
   "invoice_date": "2025-11-18",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T7151MABWJV0001",
+  "vin": "LVTDB21B4TDL39833",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/智尚型/黑棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-29",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "E71502XCLPN0019",
+  "vin": "LNNACDFP1SDJ67508",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/墨石黑/黑棕内饰",
   "invoice_date": "2025-11-21",
   "dealer": "北京福铃鑫瑞"
  },
  {
-  "vin": "T7151LZBWJV0001",
+  "vin": "LVTDB21B3TDL56638",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/尊尚型（滑移屏女王包）/黑棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-04-17",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T7000CSQSAX0075",
+  "vin": "LNNACDGK4TDH14097",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/云粉米外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-21",
   "dealer": "北京京风创瑞"
  },
  {
-  "vin": "E71502XCLPN0017",
+  "vin": "LNNACDFP6TD197752",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航豪华版（新）/墨石黑/黑棕内饰",
   "invoice_date": "2026-04-23",
   "dealer": "北京福铃"
  },
  {
-  "vin": "E71502XCLPN0025",
+  "vin": "LNNACDFP6TD265242",
   "material": "风云/风云A9L/2025款/1.5T-DHT/公务致享版/黑黑内饰/新碳晶黑外观/5座",
   "invoice_date": "2026-07-18",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T7150R4ZEJV0002",
+  "vin": "LVVDB21B5SD215706",
   "material": "奇瑞/OMODA 5/2023款/1.5T-CVT/舒适型-黑黑内饰/其他颜色内饰/其他颜色外观/5座",
   "invoice_date": "2025-04-03",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T6480VGKVFH0039",
+  "vin": "LVTDB24B2SG139493",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/豪华版-新棕黑-5座/新棕黑内饰/流光银外观/5座",
   "invoice_date": "2025-12-12",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7000CSNZAX0075",
+  "vin": "LNNACDGK1TDH17135",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/海棠红外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-07",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T7000CSNZAX0063",
+  "vin": "LNNACDGK3TDH12518",
   "material": "风云/风云A9/2026款/BEV/655 MAX/紫灰内饰/海棠红外观/5座/运动包",
   "invoice_date": "2026-07-12",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "T6490KBCLFT0003",
+  "vin": "LVTDB24B4TD173728",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/豪享版-鎏金棕-5座/鎏金棕内饰/曜石黑外观/5座",
   "invoice_date": "2026-03-31",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "M7203PTBWLB0001",
+  "vin": "LVVDC24B0TD263141",
   "material": "奇瑞/艾瑞泽8/2027款/2.0T-7DCT（R）/劲/黑棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-11",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T7000MTBWTA0023",
+  "vin": "LURJCVS26TA373924",
   "material": "QQ/全新QQ3/2026款/310Km/310热爱版/质感黑内饰/翎羽白外观/5座",
   "invoice_date": "2026-07-14",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T6490KBCLFT0001",
+  "vin": "LVTDB24B5TD177819",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/奢享版-鎏金棕-5座/鎏金棕内饰/曜石黑外观/5座",
   "invoice_date": "2026-04-07",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "T7000CSJUAX0076",
+  "vin": "LNNACDGK7TDH14921",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫黑内饰/山烟紫外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-28",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "T64706TUUJW0007",
+  "vin": "LVTDB21B9TDM43234",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/深空灰外观/5座",
   "invoice_date": "2026-06-08",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "E71502XCLPN0019",
+  "vin": "LNNACDFP0SDJ67533",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/墨石黑/黑棕内饰",
   "invoice_date": "2025-11-21",
   "dealer": "北京福铃鑫瑞"
  },
  {
-  "vin": "E71502XUVPN0020",
+  "vin": "LNNACDFP6SDJ09538",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/玄武灰/米棕内饰",
   "invoice_date": "2025-10-21",
   "dealer": "北京华日菱"
  },
  {
-  "vin": "T64706TBWJW0007",
+  "vin": "LVTDB21B0TDM91799",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-23",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "M7160DFBWJW0129",
+  "vin": "LVVDC21B7TD102693",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/豪华型-黑黑内饰/珍珠白/RDE",
   "invoice_date": "2026-01-23",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7161LWUKJW0001",
+  "vin": "LVTDB21B5TDL56723",
   "material": "奇瑞/瑞虎7L/2026款/1.6TGDI-7DCT/尊尚型+/黑棕内饰/磨砂灰外观/5座",
   "invoice_date": "2026-04-18",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T6472WHURJW0039",
+  "vin": "LVTDB21B7TD165773",
   "material": "奇瑞/全新瑞虎8PLUS 非凡冠军/2027款/1.6T-7DCT-两驱/豪华版 5座 棕色内饰/棕色内饰/浅云灰外观/5座",
   "invoice_date": "2026-03-25",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T6490KDWZKS0001",
+  "vin": "LVTDD24B3TD269635",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-鲲鹏8AT-四驱/猎鹰500版-鎏金棕-5座/鎏金棕内饰/碧玺蓝外观/5座",
   "invoice_date": "2026-07-16",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T6490KBCLFT0001",
+  "vin": "LVTDB24B0TD172950",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/奢享版-鎏金棕-5座/鎏金棕内饰/曜石黑外观/5座",
   "invoice_date": "2026-03-31",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T6480VGBXFH0043",
+  "vin": "LVTDB24B3SG124713",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/奇瑞白外观/5座",
   "invoice_date": "2025-11-10",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T7000CSQSAX0076",
+  "vin": "LNNACDGK7TDH14305",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫黑内饰/云粉米外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-28",
   "dealer": "北京卓远"
  },
  {
-  "vin": "A7150MABWGW0009",
+  "vin": "LVVDB21B1SE049999",
   "material": "奇瑞/瑞虎3x/1.5L-CVT国六B/深色内饰/卓越版/水仙白/RDE",
   "invoice_date": "2025-07-31",
   "dealer": "北京名车伯乐"
  },
  {
-  "vin": "T6450LPBWFR0023",
+  "vin": "LVTDB21B6TDD54997",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/畅享型/黑棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-04-17",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T6470S3UMMH0008",
+  "vin": "LNNBBDEE7SD194378",
   "material": "风云/风云T8/2025/1.5T-DHT国六/豪华版云墨黑内饰7座/青竹灰/RDE",
   "invoice_date": "2025-03-14",
   "dealer": "北京龙腾新景"
  },
  {
-  "vin": "T6472WHURJW0039",
+  "vin": "LVTDB21B7TD165756",
   "material": "奇瑞/全新瑞虎8PLUS 非凡冠军/2027款/1.6T-7DCT-两驱/豪华版 5座 棕色内饰/棕色内饰/浅云灰外观/5座",
   "invoice_date": "2026-03-29",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T6450QAKXJV0002",
+  "vin": "LVTDB21B1TD167339",
   "material": "奇瑞/瑞虎5运动版/2026款/1.5T-6DCT/潮玩型/瓦青内饰/钻石银外观/5座",
   "invoice_date": "2026-03-25",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T7000MTQSTA0019",
+  "vin": "LURJCVS24TA374523",
   "material": "QQ/全新QQ3/2026款/310Km/310分享版/丛林绿内饰/云粉米外观/5座",
   "invoice_date": "2026-07-15",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T6450QAKXJV0001",
+  "vin": "LVTDB21BXTD188626",
   "material": "奇瑞/瑞虎5运动版/2026款/1.5T-6DCT/潮酷型/瓦青内饰/钻石银外观/5座",
   "invoice_date": "2026-04-13",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "A7150MABWGW0009",
+  "vin": "LVVDB21B2TE046465",
   "material": "奇瑞/瑞虎3x/1.5L-CVT国六B/深色内饰/卓越版/水仙白/RDE",
   "invoice_date": "2026-04-23",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "E71502XSJPN0019",
+  "vin": "LNNACDFP9SDJ74058",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/极光绿/黑棕内饰",
   "invoice_date": "2025-12-01",
   "dealer": "北京福铃"
  },
  {
-  "vin": "M7200LWGXKG0002",
+  "vin": "LVVDC24B2SD493956",
   "material": "奇瑞/艾瑞泽8 2.0T/2025/2.0T-7DCT国六/劲沧海灰内饰/晶钻灰/RDE",
   "invoice_date": "2025-08-29",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6490KBKVFT0001",
+  "vin": "LVTDB24B1TD176683",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/奢享版-鎏金棕-5座/鎏金棕内饰/钛晶银外观/5座",
   "invoice_date": "2026-04-02",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T6450LPUUFR0024",
+  "vin": "LVTDB21B6TDD54658",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/悦享型/黑棕内饰/深空灰外观/5座",
   "invoice_date": "2026-04-17",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "E71502XSJPN0018",
+  "vin": "LNNACDFP9TD069859",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航豪华版（新）/极光绿/米棕内饰",
   "invoice_date": "2026-01-10",
   "dealer": "北京福铃"
  },
  {
-  "vin": "T7000KPBWSV0020",
+  "vin": "LURJCVBE2TA375289",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/丛林绿内饰/翎羽白外观/5座",
   "invoice_date": "2026-07-16",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T64706TCLJW0013",
+  "vin": "LVTDB21BXTDM66098",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-01",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "M7160DFCLJW0103",
+  "vin": "LVVDC21B2TD130983",
   "material": "奇瑞/艾瑞泽8/2025/1.6T-7DCT国六/智沧海灰内饰/石墨黑/RDE",
   "invoice_date": "2026-02-27",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "A7150MAGTGW0009",
+  "vin": "LVVDB21B5TE046251",
   "material": "奇瑞/瑞虎3x/1.5L-CVT国六B/深色内饰/卓越版/玉簪灰/RDE",
   "invoice_date": "2026-04-23",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T64706TBWJW0007",
+  "vin": "LVTDB21BXTDM81300",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-14",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "M7160DFCLJW0107",
+  "vin": "LVVDC21B1TD133647",
   "material": "奇瑞/艾瑞泽8/2025/1.6T-7DCT国六/睿沧海灰内饰/石墨黑/RDE",
   "invoice_date": "2026-02-27",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "M7160DFGXJW0103",
+  "vin": "LVVDC21B6TD114799",
   "material": "奇瑞/艾瑞泽8/2025/1.6T-7DCT国六/智沧海灰内饰/晶钻灰/RDE",
   "invoice_date": "2026-02-02",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T7000CSQSAX0075",
+  "vin": "LNNACDGK5TDH15193",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/云粉米外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-29",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "T6450LPUUFR0023",
+  "vin": "LVTDB21B2TDD54060",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/畅享型/黑棕内饰/深空灰外观/5座",
   "invoice_date": "2026-04-15",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T7000KPK1SV0025",
+  "vin": "LURJCVBE3TA359005",
   "material": "QQ/全新QQ3/2026款/420Km/420热爱版/丛林绿内饰/月剑银外观/5座",
   "invoice_date": "2026-06-12",
   "dealer": "北京福瑞祥驰"
  },
  {
-  "vin": "T64706TCLJW0007",
+  "vin": "LVTDB21B3TDM91649",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-23",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T6450LPBWFR0023",
+  "vin": "LVTDB21B0TDD56258",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/畅享型/黑棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-04-20",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T64706TCLJW0013",
+  "vin": "LVTDB21B1TDM82352",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-16",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T64706TCLJW0015",
+  "vin": "LVTDB21B8TDM93073",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-24",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "M7160DFCLJW0127",
+  "vin": "LVVDC21BXTD127040",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/舒适型-黑黑内饰/石墨黑/RDE",
   "invoice_date": "2026-02-12",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "T6472WHBWJW0039",
+  "vin": "LVTDB21B9TD165614",
   "material": "奇瑞/全新瑞虎8PLUS 非凡冠军/2027款/1.6T-7DCT-两驱/豪华版 5座 棕色内饰/棕色内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-25",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6480VGBXFH0040",
+  "vin": "LVTDB24B5SG098440",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/豪华版-新棕黑-7座/新棕黑内饰/奇瑞白外观/7座",
   "invoice_date": "2025-10-04",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T64706TCLJW0013",
+  "vin": "LVTDB21B0TDM85646",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-19",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6472WHUMJW0039",
+  "vin": "LVTDB21B3TD180013",
   "material": "奇瑞/全新瑞虎8PLUS 非凡冠军/2027款/1.6T-7DCT-两驱/豪华版 5座 棕色内饰/棕色内饰/青竹灰外观/5座",
   "invoice_date": "2026-04-09",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T64706TCLJW0013",
+  "vin": "LVTDB21B1TDL57626",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-04-20",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T7161LWBWJW0001",
+  "vin": "LVTDB21B6TDL98754",
   "material": "奇瑞/瑞虎7L/2026款/1.6TGDI-7DCT/尊尚型+/黑棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-05-25",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T6480VGCMFH0043",
+  "vin": "LVTDB24B3SG134156",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/松墨黑外观/5座",
   "invoice_date": "2025-12-28",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "E65208XSJNS0142",
+  "vin": "LNNBDDEZ3SDM17108",
   "material": "风云/风云T11/2026款/1.5T-双电机(四驱)/220km四驱全家乐/琥珀棕内饰/极光绿外观/6座",
   "invoice_date": "2025-12-22",
   "dealer": "北京环耀盛鑫"
  },
  {
-  "vin": "T6481KFUUMH0005",
+  "vin": "LNNBBDEE1TG052995",
   "material": "风云/风云T9长续航/2026/1.5T-DHT国六/220长续航尊荣型胡桃棕内饰5座/石林灰/RDE",
   "invoice_date": "2026-07-24",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "T64706TUKJW0013",
+  "vin": "LVTDB21B4TDL32302",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/磨砂灰(新)外观/5座",
   "invoice_date": "2026-03-21",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6473SYBWME0019",
+  "vin": "LVTDB21B6TD156725",
   "material": "奇瑞/瑞虎8PRO 非凡冠军/2027款/1.6T-7DCT/豪华版 5座 棕色内饰/棕色内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-19",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T64706TBWJW0015",
+  "vin": "LVTDB21B5TDL28047",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-16",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21B5TDM59897",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-06-27",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "M7163PSBWJW0004",
+  "vin": "LVVDC21BXTD190980",
   "material": "奇瑞/艾瑞泽8/2027款/1.6T-7DCT（R）/睿/黑灰内饰/珍珠白外观/5座",
   "invoice_date": "2026-04-16",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "E65208XSJNS0048",
+  "vin": "LNNBDDEZ8SDM12129",
   "material": "风云/风云T11/2026款/1.5T-双电机(四驱)/220km四驱双IMAX影院版/羊脂米内饰/极光绿外观/6座",
   "invoice_date": "2025-11-30",
   "dealer": "北京立信惠达"
  },
  {
-  "vin": "T6480VGKVFH0043",
+  "vin": "LVTDB24B6SG142493",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/流光银外观/5座",
   "invoice_date": "2025-12-17",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T6481KFCMMH0005",
+  "vin": "LNNBBDEE3TG049807",
   "material": "风云/风云T9长续航/2026/1.5T-DHT国六/220长续航尊荣型胡桃棕内饰5座/星夜黑/RDE",
   "invoice_date": "2026-07-13",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "M7163PSBWJW0012",
+  "vin": "LVVDC21B7TD268664",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/1.6T-7DCT/豪华型/黑棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-17",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6473SYCLME0019",
+  "vin": "LVTDB21B9TD145489",
   "material": "奇瑞/瑞虎8PRO 非凡冠军/2027款/1.6T-7DCT/豪华版 5座 棕色内饰/棕色内饰/石墨黑外观/5座",
   "invoice_date": "2026-03-13",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6480VGBXFH0039",
+  "vin": "LVTDB24B6SG104441",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/豪华版-新棕黑-5座/新棕黑内饰/奇瑞白外观/5座",
   "invoice_date": "2025-10-17",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T64706TBWJW0015",
+  "vin": "LVTDB21B0TDL28053",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-16",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "M7160DFCLJW0129",
+  "vin": "LVVDC21B3TD122066",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/豪华型-黑黑内饰/石墨黑/RDE",
   "invoice_date": "2026-02-08",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T6490KBBWFT0001",
+  "vin": "LVTDB24B7TD169852",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/奢享版-鎏金棕-5座/鎏金棕内饰/皓钻白外观/5座",
   "invoice_date": "2026-03-27",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T6490KBKVFT0001",
+  "vin": "LVTDB24B6TD196234",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/奢享版-鎏金棕-5座/鎏金棕内饰/钛晶银外观/5座",
   "invoice_date": "2026-04-22",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "M7200LWKXKG0002",
+  "vin": "LVVDC24B0SDJ85796",
   "material": "奇瑞/艾瑞泽8 2.0T/2025/2.0T-7DCT国六/劲沧海灰内饰/钻石银/RDE",
   "invoice_date": "2025-12-24",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "A7150MABWGW0009",
+  "vin": "LVVDB21B6TE036246",
   "material": "奇瑞/瑞虎3x/1.5L-CVT国六B/深色内饰/卓越版/水仙白/RDE",
   "invoice_date": "2026-01-22",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7000KPBWSV0020",
+  "vin": "LURJCVBE7TA352414",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/丛林绿内饰/翎羽白外观/5座",
   "invoice_date": "2026-05-26",
   "dealer": "北京福瑞祥驰"
  },
  {
-  "vin": "T6450QAGVJV0001",
+  "vin": "LVTDB21B7TD188177",
   "material": "奇瑞/瑞虎5运动版/2026款/1.5T-6DCT/潮酷型/瓦青内饰/量子灰外观/5座",
   "invoice_date": "2026-04-13",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "M7203PTCLLB0001",
+  "vin": "LVVDC24B3TD272111",
   "material": "奇瑞/艾瑞泽8/2027款/2.0T-7DCT（R）/劲/黑棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-17",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T64706TCLJW0015",
+  "vin": "LVTDB21B3TDM32777",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-05-28",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T6490KDCLKS0001",
+  "vin": "LVTDD24B9TD276329",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-鲲鹏8AT-四驱/猎鹰500版-鎏金棕-5座/鎏金棕内饰/曜石黑外观/5座",
   "invoice_date": "2026-07-22",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T7000CSQSAX0063",
+  "vin": "LNNACDGK1TDH14445",
   "material": "风云/风云A9/2026款/BEV/655 MAX/紫灰内饰/云粉米外观/5座/运动包",
   "invoice_date": "2026-07-21",
   "dealer": "北京甲源子智行"
  },
  {
-  "vin": "M7203PTBWLB0010",
+  "vin": "LVVDC24B9TD278284",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/2.0T-7DCT/猎鹰500尊享型/黑红内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-25",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T7000CSQSAX0076",
+  "vin": "LNNACDGK2TDH16270",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫黑内饰/云粉米外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-05",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "T7000KPK1SV0025",
+  "vin": "LURJCVBE9TA374964",
   "material": "QQ/全新QQ3/2026款/420Km/420热爱版/丛林绿内饰/月剑银外观/5座",
   "invoice_date": "2026-07-16",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T64706TUKJW0015",
+  "vin": "LVTDB21B5TDM68129",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/磨砂灰(新)外观/5座",
   "invoice_date": "2026-07-02",
   "dealer": "北京名车伯乐"
  },
  {
-  "vin": "T6480VGUEFH0043",
+  "vin": "LVTDB24B3SG119530",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/磨砂灰外观/5座",
   "invoice_date": "2025-11-03",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T7000MTJVTA0019",
+  "vin": "LURJCVS23TA345059",
   "material": "QQ/全新QQ3/2026款/310Km/310分享版/丛林绿内饰/飘逸紫外观/5座",
   "invoice_date": "2026-05-14",
   "dealer": "北京福瑞祥驰"
  },
  {
-  "vin": "T70002HBWMY0006",
+  "vin": "LNNABDCX3SD316833",
   "material": "奇瑞/OMODA 5/暂无年款/1.5L-CVT/其他型号/其他颜色内饰/其他颜色外观/5座",
   "invoice_date": "2025-05-24",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T6470BFGXHK0042",
+  "vin": "LVTDD24B3RD549077",
   "material": "奇瑞/其他车型///其他动总/其他型号/其他颜色内饰/其他颜色外观/5座",
   "invoice_date": "2024-05-19",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T7000KPBWSV0020",
+  "vin": "LURJCVBE6TA344000",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/丛林绿内饰/翎羽白外观/5座",
   "invoice_date": "2026-05-13",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "E71502XCLPN0018",
+  "vin": "LNNACDFP4TD197801",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航豪华版（新）/墨石黑/米棕内饰",
   "invoice_date": "2026-04-25",
   "dealer": "北京福铃鑫瑞"
  },
  {
-  "vin": "T64706TCLJW0007",
+  "vin": "LVTDB21B8TDM90982",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-23",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "M7160DFBWJW0103",
+  "vin": "LVVDC21B1SDJ01277",
   "material": "奇瑞/艾瑞泽8/2025/1.6T-7DCT国六/智沧海灰内饰/珍珠白/RDE",
   "invoice_date": "2025-10-16",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7000CSUEAX0075",
+  "vin": "LNNACDGK5TDH17428",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-09",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "T64706TBWJW0007",
+  "vin": "LVTDB21B0TDM47673",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/珍珠白外观/5座",
   "invoice_date": "2026-06-12",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T6480VGKVFH0039",
+  "vin": "LVTDB24B4SG129709",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/豪华版-新棕黑-5座/新棕黑内饰/流光银外观/5座",
   "invoice_date": "2025-11-20",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "E71502XK2PN0020",
+  "vin": "LNNACDFP5SDJ02886",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/星瀚银/米棕内饰",
   "invoice_date": "2025-10-17",
   "dealer": "北京华日菱"
  },
  {
-  "vin": "E65208XSJNS0046",
+  "vin": "LNNBDDEZ3SDM13690",
   "material": "风云/风云T11/2026款/1.5T-双电机(四驱)/220km四驱双IMAX影院版/琥珀棕内饰/极光绿外观/6座",
   "invoice_date": "2025-12-03",
   "dealer": "北京立信惠达"
  },
  {
-  "vin": "T7000CSUEAX0063",
+  "vin": "LNNACDGK5TDH15663",
   "material": "风云/风云A9/2026款/BEV/655 MAX/紫灰内饰/玄武灰外观/5座/运动包",
   "invoice_date": "2026-08-04",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "T6450LPCLFR0024",
+  "vin": "LVTDB21B1TDM00765",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/悦享型/黑棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-06-26",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T6450LPUUFR0023",
+  "vin": "LVTDB21B4TDD54092",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/畅享型/黑棕内饰/深空灰外观/5座",
   "invoice_date": "2026-04-16",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "M7160DFBWJW0127",
+  "vin": "LVVDC21B4TD126496",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/舒适型-黑黑内饰/珍珠白/RDE",
   "invoice_date": "2026-02-11",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "M7200LWKXKG0005",
+  "vin": "LVVDC24B7TD174912",
   "material": "奇瑞/艾瑞泽8 2.0T/2025/2.0T-7DCT国六/劲流沙棕内饰/钻石银/RDE",
   "invoice_date": "2026-03-31",
   "dealer": "北京名车伯乐"
  },
  {
-  "vin": "T7000KPQSSV0020",
+  "vin": "LURJCVBE9TA373250",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/丛林绿内饰/云粉米外观/5座",
   "invoice_date": "2026-07-14",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T7000CSUEAX0075",
+  "vin": "LNNACDGK6TDH14585",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-24",
   "dealer": "北京鑫佰荟"
  },
  {
-  "vin": "T7152SBBWKL0005",
+  "vin": "LVVDB21B0TC102415",
   "material": "奇瑞/瑞虎5x/2025款/1.5L-CVT国六B/深色内饰/CVT卓越型/皓月白/RDE",
   "invoice_date": "2026-03-25",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T7000CSUEAX0076",
+  "vin": "LNNACDGK3TDH15015",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫黑内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-29",
   "dealer": "北京甲源子智行"
  },
  {
-  "vin": "T64706TCLJW0013",
+  "vin": "LVTDB21B6TDM87613",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-20",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "E71502XCLPN0018",
+  "vin": "LNNACDFP5TD194082",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航豪华版（新）/墨石黑/米棕内饰",
   "invoice_date": "2026-04-25",
   "dealer": "北京福铃鑫瑞"
  },
  {
-  "vin": "T6490JKSFSH0017",
+  "vin": "LNNBDDGJXTDJ14447",
   "material": "风云/风云T9L/2026款/1.5T-DHT/200 四驱超能超舒适/暖霞金橙内饰/鸣沙翠外观/5座",
   "invoice_date": "2026-07-25",
   "dealer": "北京福铃"
  },
  {
-  "vin": "T7000CSUEAX0075",
+  "vin": "LNNACDGK2TDH14695",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-29",
   "dealer": "北京甲源子智行"
  },
  {
-  "vin": "T7000CSUEAX0075",
+  "vin": "LNNACDGK6TDH12786",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-14",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "T64706TCLJW0013",
+  "vin": "LVTDB21B3TDM59087",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-06-24",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "T7000CSBWAX0075",
+  "vin": "LNNACDGKXTDH16839",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/雪岭白外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-06",
   "dealer": "北京京风创瑞"
  },
  {
-  "vin": "E6520GUSJNH0088",
+  "vin": "LNNBBDEM7TDJ00234",
   "material": "风云/风云T11/2026款/1.5T-单电机(后置两驱)/220km后驱双IMAX影院版/琥珀棕内饰/极光绿外观/6座",
   "invoice_date": "2026-01-25",
   "dealer": "北京甲源子智行"
  },
  {
-  "vin": "T6472WHBWJW0039",
+  "vin": "LVTDB21B1TD165686",
   "material": "奇瑞/全新瑞虎8PLUS 非凡冠军/2027款/1.6T-7DCT-两驱/豪华版 5座 棕色内饰/棕色内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-24",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "M7200LWKXKG0005",
+  "vin": "LVVDC24BXSDJ86437",
   "material": "奇瑞/艾瑞泽8 2.0T/2025/2.0T-7DCT国六/劲流沙棕内饰/钻石银/RDE",
   "invoice_date": "2025-12-24",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6460RMJIUK0001",
+  "vin": "LNNBBDGK1TD278975",
   "material": "风云/风云T7/2026款/BEV/600km智享版/温暖黑棕内饰/山烟紫外观/5座",
   "invoice_date": "2026-07-29",
   "dealer": "北京卓远"
  },
  {
-  "vin": "T7000CSUEAX0075",
+  "vin": "LNNACDGK5TDH16764",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-06",
   "dealer": "北京立信惠达"
  },
  {
-  "vin": "T7000CSQSAX0047",
+  "vin": "LNNACDGK3TDH08694",
   "material": "风云/风云A9/2026款/BEV/展示版型/展示色内饰/展示色外观/5座",
   "invoice_date": "2026-04-25",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "T64706TUUJW0014",
+  "vin": "LVTDB21B3TDM77167",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/旗舰型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-07-12",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6490KDKVKS0001",
+  "vin": "LVTDD24B1TD276440",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-鲲鹏8AT-四驱/猎鹰500版-鎏金棕-5座/鎏金棕内饰/钛晶银外观/5座",
   "invoice_date": "2026-07-26",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7000MTK1TA0019",
+  "vin": "LURJCVS28TA358406",
   "material": "QQ/全新QQ3/2026款/310Km/310分享版/丛林绿内饰/月剑银外观/5座",
   "invoice_date": "2026-06-11",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T64706TCLJW0015",
+  "vin": "LVTDB21B2TDM33256",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-05-29",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T64706TBWJW0007",
+  "vin": "LVTDB21B9TDL04706",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/珍珠白外观/5座",
   "invoice_date": "2026-02-12",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "E71502XGVPN0020",
+  "vin": "LNNACDFP1SDJ33679",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/云烟紫/米棕内饰",
   "invoice_date": "2025-10-30",
   "dealer": "北京华日菱"
  },
  {
-  "vin": "T6450QAJIJV0002",
+  "vin": "LVTDB21B8TD165314",
   "material": "奇瑞/瑞虎5运动版/2026款/1.5T-6DCT/潮玩型/瓦青内饰/紫定行外观/5座",
   "invoice_date": "2026-03-27",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T64706TCLJW0013",
+  "vin": "LVTDB21B4TDM85469",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-19",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6490KBBWFT0003",
+  "vin": "LVTDB24B4TD192781",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/豪享版-鎏金棕-5座/鎏金棕内饰/皓钻白外观/5座",
   "invoice_date": "2026-04-17",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "E71502XNMPN0015",
+  "vin": "LNNACDFP7SD569677",
   "material": "风云/风云A9L/1.5T-DHT/260伯牙奢享版/车厘子红/米棕内饰/20吋轮辋（品牌轮胎）+零重力座椅",
   "invoice_date": "2025-09-30",
   "dealer": "北京华日菱"
  },
  {
-  "vin": "T6460RMN2UK0001",
+  "vin": "LNNBBDGK1TD277552",
   "material": "风云/风云T7/2026款/BEV/600km智享版/温暖黑棕内饰/炽焰橙外观/5座",
   "invoice_date": "2026-07-28",
   "dealer": "北京京风创瑞"
  },
  {
-  "vin": "T64706TUUJW0007",
+  "vin": "LVTDB21B1TDM81508",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/深空灰外观/5座",
   "invoice_date": "2026-07-14",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6472WHBWJW0039",
+  "vin": "LVTDB21B9TD165659",
   "material": "奇瑞/全新瑞虎8PLUS 非凡冠军/2027款/1.6T-7DCT-两驱/豪华版 5座 棕色内饰/棕色内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-24",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "M7160DFCLJW0107",
+  "vin": "LVVDC21B8SDJ82004",
   "material": "奇瑞/艾瑞泽8/2025/1.6T-7DCT国六/睿沧海灰内饰/石墨黑/RDE",
   "invoice_date": "2025-12-16",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T6480VGCMFH0039",
+  "vin": "LVTDB24B0SG148323",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/豪华版-新棕黑-5座/新棕黑内饰/松墨黑外观/5座",
   "invoice_date": "2025-12-27",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T6460RMJIUK0001",
+  "vin": "LNNBBDGK0TD273413",
   "material": "风云/风云T7/2026款/BEV/600km智享版/温暖黑棕内饰/山烟紫外观/5座",
   "invoice_date": "2026-07-28",
   "dealer": "北京京风创瑞"
  },
  {
-  "vin": "T64706TKUJW0013",
+  "vin": "LVTDB21B5TDM35373",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/月光银外观/5座",
   "invoice_date": "2026-06-01",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T64706TCLJW0013",
+  "vin": "LVTDB21B8TDM85670",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-19",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6480VGKVFH0040",
+  "vin": "LVTDB24B8SG133276",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/豪华版-新棕黑-7座/新棕黑内饰/流光银外观/7座",
   "invoice_date": "2025-12-28",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "E65208XSJNS0046",
+  "vin": "LNNBDDEZ6SDM16972",
   "material": "风云/风云T11/2026款/1.5T-双电机(四驱)/220km四驱双IMAX影院版/琥珀棕内饰/极光绿外观/6座",
   "invoice_date": "2025-12-19",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "T6480VGBXFH0039",
+  "vin": "LVTDB24B0SG092271",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/豪华版-新棕黑-5座/新棕黑内饰/奇瑞白外观/5座",
   "invoice_date": "2025-09-25",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T6450QAGVJV0002",
+  "vin": "LVTDB21B1TD166255",
   "material": "奇瑞/瑞虎5运动版/2026款/1.5T-6DCT/潮玩型/瓦青内饰/量子灰外观/5座",
   "invoice_date": "2026-03-25",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "E71502XSJPN0019",
+  "vin": "LNNACDFPXSDJ03211",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/极光绿/黑棕内饰",
   "invoice_date": "2025-10-17",
   "dealer": "北京福铃鑫瑞"
  },
  {
-  "vin": "T6472WHBWJW0039",
+  "vin": "LVTDB21B5TD165643",
   "material": "奇瑞/全新瑞虎8PLUS 非凡冠军/2027款/1.6T-7DCT-两驱/豪华版 5座 棕色内饰/棕色内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-25",
   "dealer": "北京名车伯乐"
  },
  {
-  "vin": "T6450LPBWFR0023",
+  "vin": "LVTDB21B9TDD55531",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/畅享型/黑棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-04-18",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "E71502XK2PN0020",
+  "vin": "LNNACDFP5SDJ18442",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/星瀚银/米棕内饰",
   "invoice_date": "2025-10-23",
   "dealer": "北京华日菱"
  },
  {
-  "vin": "T64706TS2JW0015",
+  "vin": "LVTDB21B5TDL26962",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/丛林绿外观/5座",
   "invoice_date": "2026-03-15",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7000KPBWSV0025",
+  "vin": "LURJCVBE2TA374935",
   "material": "QQ/全新QQ3/2026款/420Km/420热爱版/丛林绿内饰/翎羽白外观/5座",
   "invoice_date": "2026-07-15",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "E65208XCLNS0048",
+  "vin": "LNNBDDEZ0SDM12982",
   "material": "风云/风云T11/2026款/1.5T-双电机(四驱)/220km四驱双IMAX影院版/羊脂米内饰/墨石黑外观/6座",
   "invoice_date": "2025-12-03",
   "dealer": "北京立信惠达"
  },
  {
-  "vin": "E71502XSJPN0018",
+  "vin": "LNNACDFP6SDJ38361",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航豪华版（新）/极光绿/米棕内饰",
   "invoice_date": "2025-10-31",
   "dealer": "北京福铃鑫瑞"
  },
  {
-  "vin": "T7000KPNWSV0020",
+  "vin": "LURJCVBE6TA320585",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/丛林绿内饰/赤焰红外观/5座",
   "invoice_date": "2026-04-10",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T6473SYCLME0019",
+  "vin": "LVTDB21B7TD153610",
   "material": "奇瑞/瑞虎8PRO 非凡冠军/2027款/1.6T-7DCT/豪华版 5座 棕色内饰/棕色内饰/石墨黑外观/5座",
   "invoice_date": "2026-03-17",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T64706TCLJW0013",
+  "vin": "LVTDB21B4TDM70888",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-06",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "M7203PTKXLB0010",
+  "vin": "LVVDC24B3TD273811",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/2.0T-7DCT/猎鹰500尊享型/黑红内饰/钻石银外观/5座",
   "invoice_date": "2026-07-21",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6490LMB1SH0017",
+  "vin": "LNNBBDGH1TDJ07132",
   "material": "风云/风云T9L/2026款/1.5T-DHT/230 Pro/暖霞金橙内饰/雪岭白外观/5座",
   "invoice_date": "2026-04-08",
   "dealer": "北京卓远"
  },
  {
-  "vin": "E71502XNMPN0020",
+  "vin": "LNNACDFP0SDJ21863",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/车厘子红/米棕内饰",
   "invoice_date": "2025-10-25",
   "dealer": "北京华日菱"
  },
  {
-  "vin": "E71502XGVPN0020",
+  "vin": "LNNACDFP5SDJ68516",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/云烟紫/米棕内饰",
   "invoice_date": "2025-11-23",
   "dealer": "北京福铃鑫瑞"
  },
  {
-  "vin": "T7000MTK1TA0024",
+  "vin": "LURJCVS27TA371857",
   "material": "QQ/全新QQ3/2026款/310Km/310热爱版/丛林绿内饰/月剑银外观/5座",
   "invoice_date": "2026-07-11",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "E65208XSJNS0142",
+  "vin": "LNNBDDEZ3SDM05265",
   "material": "风云/风云T11/2026款/1.5T-双电机(四驱)/220km四驱全家乐/琥珀棕内饰/极光绿外观/6座",
   "invoice_date": "2025-12-05",
   "dealer": "北京环耀盛鑫"
  },
  {
-  "vin": "E71502XGVPN0020",
+  "vin": "LNNACDFP3SDJ75996",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/云烟紫/米棕内饰",
   "invoice_date": "2025-12-02",
   "dealer": "北京福铃鑫瑞"
  },
  {
-  "vin": "E65208XCLNS0142",
+  "vin": "LNNBDDEZ5SDM17272",
   "material": "风云/风云T11/2026款/1.5T-双电机(四驱)/220km四驱全家乐/琥珀棕内饰/墨石黑外观/6座",
   "invoice_date": "2025-12-22",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "T6481KGCLFT0055",
+  "vin": "LVTDB24B0SD486175",
   "material": "奇瑞/瑞虎9/2025款/2.0T-7DCT-两驱/黑武士版-黑黑-5座/黑色内饰/石墨黑外观/5座",
   "invoice_date": "2025-08-26",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T71503CGVFR0001",
+  "vin": "LVUGTB226SD837065",
   "material": "奇瑞/欧萌达守护版/2023款/1.5T-CVT/守护PRO-花木蓝内饰/黑黑内饰/幻影灰外观/5座",
   "invoice_date": "2025-06-19",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T7152SBBWKL0005",
+  "vin": "LVVDB21B8TC064464",
   "material": "奇瑞/瑞虎5x/2025款/1.5L-CVT国六B/深色内饰/CVT卓越型/皓月白/RDE",
   "invoice_date": "2026-01-21",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T6480VGCMFH0043",
+  "vin": "LVTDB24B5SG140427",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/松墨黑外观/5座",
   "invoice_date": "2025-12-13",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "M7163PSBWJW0005",
+  "vin": "LVVDC21B3TD191209",
   "material": "奇瑞/艾瑞泽8/2027款/1.6T-7DCT（R）/睿/黑棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-04-16",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7000KPJVSV0020",
+  "vin": "LURJCVBE7TA378477",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/丛林绿内饰/飘逸紫外观/5座",
   "invoice_date": "2026-07-25",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T64706TCLJW0013",
+  "vin": "LVTDB21B9TDM59269",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-06-25",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "T7000MTBWTA0024",
+  "vin": "LURJCVS27TA361393",
   "material": "QQ/全新QQ3/2026款/310Km/310热爱版/丛林绿内饰/翎羽白外观/5座",
   "invoice_date": "2026-06-18",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T64706TCLJW0013",
+  "vin": "LVTDB21B1TDM82321",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-16",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T6450QAGVJV0001",
+  "vin": "LVTDB21B3TD186099",
   "material": "奇瑞/瑞虎5运动版/2026款/1.5T-6DCT/潮酷型/瓦青内饰/量子灰外观/5座",
   "invoice_date": "2026-04-12",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "E65208XSJNS0046",
+  "vin": "LNNBDDEZ1SDM12165",
   "material": "风云/风云T11/2026款/1.5T-双电机(四驱)/220km四驱双IMAX影院版/琥珀棕内饰/极光绿外观/6座",
   "invoice_date": "2025-11-29",
   "dealer": "北京立信惠达"
  },
  {
-  "vin": "T64706TBWJW0013",
+  "vin": "LVTDB21B2TDL70322",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-05-04",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T7000CSBWAX0063",
+  "vin": "LNNACDGK8TDH14457",
   "material": "风云/风云A9/2026款/BEV/655 MAX/紫灰内饰/雪岭白外观/5座/运动包",
   "invoice_date": "2026-07-22",
   "dealer": "北京鑫佰荟"
  },
  {
-  "vin": "T64706TCLJW0013",
+  "vin": "LVTDB21B2TDM85499",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-18",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T7151MBKUJV0001",
+  "vin": "LVTDB21B4TDL54770",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/尊尚型/黑棕内饰/月光银外观/5座",
   "invoice_date": "2026-04-15",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "E71502XSJPN0019",
+  "vin": "LNNACDFP0SDJ63059",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/极光绿/黑棕内饰",
   "invoice_date": "2025-11-18",
   "dealer": "北京福铃"
  },
  {
-  "vin": "M7203PTBWLB0010",
+  "vin": "LVVDC24B5TD266617",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/2.0T-7DCT/猎鹰500尊享型/黑红内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-14",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T64706TBWJW0015",
+  "vin": "LVTDB21B5TDL28050",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-16",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T64706TBWJW0007",
+  "vin": "LVTDB21B8TDL95712",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/珍珠白外观/5座",
   "invoice_date": "2026-05-22",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "S6450JVK1QR0002",
+  "vin": "LURMCVJ21SA162613",
   "material": "风云/X3L/2025款/增程/215智行版/清醒黑内饰/躺银外观/5座",
   "invoice_date": "2025-12-25",
   "dealer": "北京卓远"
  },
  {
-  "vin": "T64706TCLJW0015",
+  "vin": "LVTDB21B1TDM93044",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-24",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T6480VGCMFH0039",
+  "vin": "LVTDB24B3SG139292",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/豪华版-新棕黑-5座/新棕黑内饰/松墨黑外观/5座",
   "invoice_date": "2025-12-11",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "A7150MAGTGW0009",
+  "vin": "LVVDB21B1SE070691",
   "material": "奇瑞/瑞虎3x/1.5L-CVT国六B/深色内饰/卓越版/玉簪灰/RDE",
   "invoice_date": "2025-11-21",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T7000CSUEAX0075",
+  "vin": "LNNACDGK1TDH17426",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-09",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "T7000CSUEAX0076",
+  "vin": "LNNACDGK2TDH15040",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫黑内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-28",
   "dealer": "北京卓远"
  },
  {
-  "vin": "T6473SYULME0019",
+  "vin": "LVTDB21B8TD158847",
   "material": "奇瑞/瑞虎8PRO 非凡冠军/2027款/1.6T-7DCT/豪华版 5座 棕色内饰/棕色内饰/时光灰外观/5座",
   "invoice_date": "2026-03-20",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T64706TBWJW0015",
+  "vin": "LVTDB21B1TDL27056",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-15",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T7161LWCLJW0001",
+  "vin": "LVTDB21B4TDL58169",
   "material": "奇瑞/瑞虎7L/2026款/1.6TGDI-7DCT/尊尚型+/黑棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-04-18",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "M7160DFUMJW0129",
+  "vin": "LVVDC21B2SD461822",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/豪华型-黑黑内饰/青竹灰/RDE",
   "invoice_date": "2025-08-15",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "M7203PTKXLB0004",
+  "vin": "LVVDC24BXTD278164",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/2.0T-7DCT/豪华型/黑棕内饰/钻石银外观/5座",
   "invoice_date": "2026-07-26",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T7161LWCLJW0001",
+  "vin": "LVTDB21B4TDL58172",
   "material": "奇瑞/瑞虎7L/2026款/1.6TGDI-7DCT/尊尚型+/黑棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-04-18",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T6450LPBWFR0023",
+  "vin": "LVTDB21B9TDD56100",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/畅享型/黑棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-04-20",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T64706TBWJW0007",
+  "vin": "LVTDB21B8TDM62325",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/珍珠白外观/5座",
   "invoice_date": "2026-06-27",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T7000CSNZAX0075",
+  "vin": "LNNACDGK9TDH14905",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/海棠红外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-26",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "T64706TUUJW0014",
+  "vin": "LVTDB21B8TDM83028",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/旗舰型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-07-16",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T70002WWSMY0006",
+  "vin": "LVUGTBAD3SDH73671",
   "material": "奇瑞/OMODA 5/2023款/1.5T-CVT/舒适型-黑黑内饰/黑内饰/冰川银外观/5座",
   "invoice_date": "2025-10-24",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T7150BCX4FR0146",
+  "vin": "LVUASF225TD151097",
   "material": "奇瑞/OMODA 5/2022款/1.5T-CVT/豪华型-黑黑内饰/其他颜色内饰/其他颜色外观/5座 物流国际质损车",
   "invoice_date": "2026-06-30",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T6490LMJUSH0019",
+  "vin": "LNNBBDGH9TDJ03460",
   "material": "风云/风云T9L/2026款/1.5T-DHT/230 Max/水墨霁蓝内饰/山烟紫外观/5座",
   "invoice_date": "2026-03-30",
   "dealer": "北京福铃鑫瑞"
  },
  {
-  "vin": "T64706TBWJW0015",
+  "vin": "LVTDB21B1TDM90256",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-22",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T7000CSUEAX0075",
+  "vin": "LNNACDGK3TDH14141",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-20",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "T6481ZACLLX0026",
+  "vin": "LNNBDDEH3TD146639",
   "material": "奇瑞/瑞虎9/2023款/2.0T-8AT-两驱/尊贵版-黑黑-5座/其他颜色内饰/松墨黑外观/5座",
   "invoice_date": "2026-05-09",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T6480VGKVFH0039",
+  "vin": "LVTDB24B2SG127344",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/豪华版-新棕黑-5座/新棕黑内饰/流光银外观/5座",
   "invoice_date": "2025-11-14",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "T6490LMUUSH0017",
+  "vin": "LNNBBDGH9TDJ04821",
   "material": "风云/风云T9L/2026款/1.5T-DHT/230 Pro/暖霞金橙内饰/石林灰外观/5座",
   "invoice_date": "2026-03-30",
   "dealer": "北京福铃"
  },
  {
-  "vin": "T70003MZEMY0002",
+  "vin": "LNNABDCX2SD326415",
   "material": "奇瑞/OMODA 5/暂无年款/1.5L-CVT/其他型号/其他颜色内饰/其他颜色外观/5座",
   "invoice_date": "2025-05-31",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "E65208XCLNS0144",
+  "vin": "LNNBDDEZ8SDM04340",
   "material": "风云/风云T11/2026款/1.5T-双电机(四驱)/220km四驱全家乐/羊脂米内饰/墨石黑外观/6座",
   "invoice_date": "2025-11-12",
   "dealer": "北京龙腾新景"
  },
  {
-  "vin": "T6470S3BWMH0007",
+  "vin": "LNNBBDEE2SD492868",
   "material": "风云/风云T8/2025/1.5T-DHT国六/豪华版云墨黑内饰5座/珍珠白/RDE",
   "invoice_date": "2025-08-29",
   "dealer": "北京龙腾新景"
  },
  {
-  "vin": "T64706TUKJW0013",
+  "vin": "LVTDB21B3TDL35627",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/磨砂灰(新)外观/5座",
   "invoice_date": "2026-03-25",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6481KFUUMH0001",
+  "vin": "LNNBBDEE7TG026787",
   "material": "风云/风云T9长续航/2026/1.5T-DHT国六/220长续航旗舰型胡桃棕内饰5座/石林灰/RDE",
   "invoice_date": "2026-03-30",
   "dealer": "北京立信惠达"
  },
  {
-  "vin": "T6490KDCLKS0001",
+  "vin": "LVTDD24B6TD276367",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-鲲鹏8AT-四驱/猎鹰500版-鎏金棕-5座/鎏金棕内饰/曜石黑外观/5座",
   "invoice_date": "2026-07-23",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "E65208XCLNS0046",
+  "vin": "LNNBDDEZ0TDJ01165",
   "material": "风云/风云T11/2026款/1.5T-双电机(四驱)/220km四驱双IMAX影院版/琥珀棕内饰/墨石黑外观/6座",
   "invoice_date": "2026-02-26",
   "dealer": "北京卓远"
  },
  {
-  "vin": "E71502XK2PN0020",
+  "vin": "LNNACDFP5SDJ18697",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/星瀚银/米棕内饰",
   "invoice_date": "2025-10-24",
   "dealer": "北京福铃鑫瑞"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21B9TDM59885",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-06-25",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "M7160DFBWJW0134",
+  "vin": "LVVDC21B6TD159211",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/豪华型+选装包-黑黑内饰/珍珠白/RDE",
   "invoice_date": "2026-03-21",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21B2TDL70272",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-04-29",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6450QABWJV0002",
+  "vin": "LVTDB21B3TD165186",
   "material": "奇瑞/瑞虎5运动版/2026款/1.5T-6DCT/潮玩型/瓦青内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-24",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T6472T7SJMH0004",
+  "vin": "LNNBBDEE1SD586630",
   "material": "风云/风云T8/2024款/1.5T-DHT/标准型黑黑内饰5座/云墨黑内饰/薄雾绿外观/5座",
   "invoice_date": "2026-07-10",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "J7000HMQGSJ0002",
+  "vin": "LURJAVBA7SD180725",
   "material": "QQ/奇瑞冰淇淋/2026款/220km/甜趣版/米棕内饰/浅藕色外观/4座",
   "invoice_date": "2025-12-23",
   "dealer": "北京福瑞祥驰"
  },
  {
-  "vin": "M7160DFKXJW0129",
+  "vin": "LVVDC21B1SDJ52388",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/豪华型-黑黑内饰/钻石银/RDE",
   "invoice_date": "2025-11-09",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7000MTK1TA0023",
+  "vin": "LURJCVS29TA379359",
   "material": "QQ/全新QQ3/2026款/310Km/310热爱版/质感黑内饰/月剑银外观/5座",
   "invoice_date": "2026-07-23",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "M7203PTBWLB0010",
+  "vin": "LVVDC24B3TD266616",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/2.0T-7DCT/猎鹰500尊享型/黑红内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-13",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6481KFBXMH0005",
+  "vin": "LNNBBDEEXTG027271",
   "material": "风云/风云T9长续航/2026/1.5T-DHT国六/220长续航尊荣型胡桃棕内饰5座/浮光白/RDE",
   "invoice_date": "2026-03-30",
   "dealer": "北京立信惠达"
  },
  {
-  "vin": "T7151MACLJV0001",
+  "vin": "LVTDB21B5TDL31661",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/智尚型/黑棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-03-21",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "T64706TUUJW0007",
+  "vin": "LVTDB21B5TDM81513",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/深空灰外观/5座",
   "invoice_date": "2026-07-14",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T64706TCLJW0015",
+  "vin": "LVTDB21B0TDM93116",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-24",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T6450QAKXJV0002",
+  "vin": "LVTDB21B9TD167329",
   "material": "奇瑞/瑞虎5运动版/2026款/1.5T-6DCT/潮玩型/瓦青内饰/钻石银外观/5座",
   "invoice_date": "2026-03-26",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T6472WHBWJW0039",
+  "vin": "LVTDB21B8TD165815",
   "material": "奇瑞/全新瑞虎8PLUS 非凡冠军/2027款/1.6T-7DCT-两驱/豪华版 5座 棕色内饰/棕色内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-25",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7152SBBWKL0005",
+  "vin": "LVVDB21B5TC113197",
   "material": "奇瑞/瑞虎5x/2025款/1.5L-CVT国六B/深色内饰/CVT卓越型/皓月白/RDE",
   "invoice_date": "2026-04-15",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T7000CSQSAX0075",
+  "vin": "LNNACDGK2TDH15216",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/云粉米外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-29",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "A7150MABWGW0009",
+  "vin": "LVVDB21B3SE059336",
   "material": "奇瑞/瑞虎3x/1.5L-CVT国六B/深色内饰/卓越版/水仙白/RDE",
   "invoice_date": "2025-10-28",
   "dealer": "北京名车伯乐"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21B7TDM59920",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-06-25",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T6450LPCLFR0024",
+  "vin": "LVTDB21BXTDM00764",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/悦享型/黑棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-06-26",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "M7160DFKXJW0129",
+  "vin": "LVVDC21B6SDJ79070",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/豪华型-黑黑内饰/钻石银/RDE",
   "invoice_date": "2025-12-09",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T71604ABWMM0004",
+  "vin": "LVVDB21B7SD425997",
   "material": "奇瑞/OMODA 5/暂无年款/1.5L-CVT/其他型号/其他颜色内饰/其他颜色外观/5座",
   "invoice_date": "2025-07-28",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T7150BCBWFR0124",
+  "vin": "LVVDB21B2TD127553",
   "material": "奇瑞/瑞虎5x高能版/2025款/1.5T-CVT/豪华型-黑色内饰/珍珠白/RDE",
   "invoice_date": "2026-02-12",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T7000CSUEAX0075",
+  "vin": "LNNACDGK2TDH14602",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-24",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "T6480VGKVFH0043",
+  "vin": "LVTDB24B1SG144846",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/流光银外观/5座",
   "invoice_date": "2025-12-22",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T7151MBUUJV0001",
+  "vin": "LVTDB21B8TDL33386",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/尊尚型/黑棕内饰/深空灰外观/5座",
   "invoice_date": "2026-03-24",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "E71502XSJPN0019",
+  "vin": "LNNACDFP6SDJ63146",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/极光绿/黑棕内饰",
   "invoice_date": "2025-11-18",
   "dealer": "北京福铃"
  },
  {
-  "vin": "T7000CSQSAX0076",
+  "vin": "LNNACDGK2TDH14311",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫黑内饰/云粉米外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-21",
   "dealer": "北京甲源子智行"
  },
  {
-  "vin": "T6481KFCMMH0005",
+  "vin": "LNNBBDEE0TG055886",
   "material": "风云/风云T9长续航/2026/1.5T-DHT国六/220长续航尊荣型胡桃棕内饰5座/星夜黑/RDE",
   "invoice_date": "2026-08-10",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "M7163PSKXJW0004",
+  "vin": "LVVDC21B6TD188885",
   "material": "奇瑞/艾瑞泽8/2027款/1.6T-7DCT（R）/睿/黑灰内饰/钻石银外观/5座",
   "invoice_date": "2026-04-15",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T7150U5NLNG0010",
+  "vin": "LNNBBDEG0SC188736",
   "material": "奇瑞/瑞虎5x/2025款/1.5L-CVT/CVT卓越型/其他颜色内饰/其他颜色外观/5座",
   "invoice_date": "2025-07-13",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T7160USCLMH0006",
+  "vin": "LNNBBDEE0SC188590",
   "material": "奇瑞/探索06四驱发现版/2025款/1.6T-7DCT-4WD/舒适型-极地黑/黑内饰/上新云墨黑下冰川银外观/5座",
   "invoice_date": "2025-07-14",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "A7150MABWGW0009",
+  "vin": "LVVDB21B0SE059276",
   "material": "奇瑞/瑞虎3x/1.5L-CVT国六B/深色内饰/卓越版/水仙白/RDE",
   "invoice_date": "2025-10-28",
   "dealer": "北京名车伯乐"
  },
  {
-  "vin": "E71502XCLPN0017",
+  "vin": "LNNACDFP7TD194116",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航豪华版（新）/墨石黑/黑棕内饰",
   "invoice_date": "2026-04-23",
   "dealer": "北京福铃"
  },
  {
-  "vin": "T7000CSBWAX0075",
+  "vin": "LNNACDGK3TDH14270",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/雪岭白外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-20",
   "dealer": "北京立信惠达"
  },
  {
-  "vin": "T64706TS2JW0015",
+  "vin": "LVTDB21B9TDL65621",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/丛林绿外观/5座",
   "invoice_date": "2026-04-26",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T6490KBBWFT0001",
+  "vin": "LVTDB24B5TD170031",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/奢享版-鎏金棕-5座/鎏金棕内饰/皓钻白外观/5座",
   "invoice_date": "2026-03-27",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T7151MACLJV0001",
+  "vin": "LVTDB21BXTDL31235",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/智尚型/黑棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-03-21",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6450QABWJV0001",
+  "vin": "LVTDB21B6TD188090",
   "material": "奇瑞/瑞虎5运动版/2026款/1.5T-6DCT/潮酷型/瓦青内饰/珍珠白外观/5座",
   "invoice_date": "2026-04-13",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T6480PGKVKJ0017",
+  "vin": "LVTDD24BXSD591364",
   "material": "奇瑞/瑞虎9/2025款/2.0T-8AT-四驱/臻享版-黑黑-5座/流光银/RDE",
   "invoice_date": "2025-10-12",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "M7160DFUMJW0134",
+  "vin": "LVVDC21B2SD491807",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/豪华型+选装包-黑黑内饰/青竹灰/RDE",
   "invoice_date": "2025-08-30",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T6490KBCLFT0001",
+  "vin": "LVTDB24B2TD177843",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/奢享版-鎏金棕-5座/鎏金棕内饰/曜石黑外观/5座",
   "invoice_date": "2026-04-07",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T7000CSUEAX0064",
+  "vin": "LNNACDGK9TDH13897",
   "material": "风云/风云A9/2026款/BEV/655 MAX/紫黑内饰/玄武灰外观/5座/运动包",
   "invoice_date": "2026-07-25",
   "dealer": "北京鑫佰荟"
  },
  {
-  "vin": "M7203PTUMLB0006",
+  "vin": "LVVDC24B0TD274026",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/2.0T-7DCT/猎鹰500豪华型/黑棕内饰/青竹灰外观/5座",
   "invoice_date": "2026-07-24",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T6490KDBWKS0001",
+  "vin": "LVTDD24B8TD250370",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-鲲鹏8AT-四驱/猎鹰500版-鎏金棕-5座/鎏金棕内饰/皓钻白外观/5座",
   "invoice_date": "2026-06-27",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6450LPCLFR0024",
+  "vin": "LVTDB21B1TDD46001",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/悦享型/黑棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-03-23",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T64706TCLJW0013",
+  "vin": "LVTDB21B9TDL57678",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-04-20",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T7000CSBWAX0076",
+  "vin": "LNNACDGK2TDH14406",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫黑内饰/雪岭白外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-25",
   "dealer": "北京鑫佰荟"
  },
  {
-  "vin": "T6460RMJIUK0001",
+  "vin": "LNNBBDGK4TD278341",
   "material": "风云/风云T7/2026款/BEV/600km智享版/温暖黑棕内饰/山烟紫外观/5座",
   "invoice_date": "2026-07-26",
   "dealer": "北京福铃"
  },
  {
-  "vin": "T6473SYULME0019",
+  "vin": "LVTDB21BXTD144576",
   "material": "奇瑞/瑞虎8PRO 非凡冠军/2027款/1.6T-7DCT/豪华版 5座 棕色内饰/棕色内饰/时光灰外观/5座",
   "invoice_date": "2026-03-09",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T64706TS2JW0015",
+  "vin": "LVTDB21B3TDL26037",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/丛林绿外观/5座",
   "invoice_date": "2026-03-14",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6480VGUEFH0040",
+  "vin": "LVTDB24B6SG128870",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/豪华版-新棕黑-7座/新棕黑内饰/磨砂灰外观/7座",
   "invoice_date": "2025-11-19",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T64706TBWJW0013",
+  "vin": "LVTDB21B6TDM62274",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-06-27",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T64706TCLJW0013",
+  "vin": "LVTDB21B8TDM52281",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-06-16",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T6480VGCMFH0043",
+  "vin": "LVTDB24B1SG140313",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/松墨黑外观/5座",
   "invoice_date": "2025-12-13",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T6490KBBWFT0001",
+  "vin": "LVTDB24BXTD169876",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/奢享版-鎏金棕-5座/鎏金棕内饰/皓钻白外观/5座",
   "invoice_date": "2026-03-27",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "M7200LWCLKG0005",
+  "vin": "LVVDC24B0TD174928",
   "material": "奇瑞/艾瑞泽8 2.0T/2025/2.0T-7DCT国六/劲流沙棕内饰/石墨黑/RDE",
   "invoice_date": "2026-03-30",
   "dealer": "北京名车伯乐"
  },
  {
-  "vin": "T6481KFUUMH0001",
+  "vin": "LNNBBDEEXTG046953",
   "material": "风云/风云T9长续航/2026/1.5T-DHT国六/220长续航旗舰型胡桃棕内饰5座/石林灰/RDE",
   "invoice_date": "2026-07-06",
   "dealer": "北京甲源子智行"
  },
  {
-  "vin": "T64706TCLJW0015",
+  "vin": "LVTDB21BXTDM33232",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-05-29",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "M7163PSCLJW0002",
+  "vin": "LVVDC21B7TD182254",
   "material": "奇瑞/艾瑞泽8/2027款/1.6T-7DCT（R）/智/黑灰内饰/石墨黑外观/5座",
   "invoice_date": "2026-04-09",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T64706TBWJW0014",
+  "vin": "LVTDB21B3TDM83034",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/旗舰型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-16",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T6480VGBXFH0043",
+  "vin": "LVTDB24B2SG129210",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/奇瑞白外观/5座",
   "invoice_date": "2025-11-18",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T7000CSBWAX0076",
+  "vin": "LNNACDGK7TDH16314",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫黑内饰/雪岭白外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-05",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "T7000CSNZAX0075",
+  "vin": "LNNACDGK1TDH14526",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/海棠红外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-23",
   "dealer": "北京京风创瑞"
  },
  {
-  "vin": "T7000MTK1TA0019",
+  "vin": "LURJCVS29TA358415",
   "material": "QQ/全新QQ3/2026款/310Km/310分享版/丛林绿内饰/月剑银外观/5座",
   "invoice_date": "2026-06-11",
   "dealer": "北京福瑞祥驰"
  },
  {
-  "vin": "T6490KBCLFT0001",
+  "vin": "LVTDB24BXTD177928",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/奢享版-鎏金棕-5座/鎏金棕内饰/曜石黑外观/5座",
   "invoice_date": "2026-04-07",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "M7160DFBWJW0129",
+  "vin": "LVVDC21B7SD461041",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/豪华型-黑黑内饰/珍珠白/RDE",
   "invoice_date": "2025-08-15",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "M7203PTBWLB0010",
+  "vin": "LVVDC24B4TD266611",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/2.0T-7DCT/猎鹰500尊享型/黑红内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-13",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T7151MACLJV0001",
+  "vin": "LVTDB21B4TDL35300",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/智尚型/黑棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-03-24",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7000CSUEAX0075",
+  "vin": "LNNACDGK6TDH14845",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-29",
   "dealer": "北京甲源子智行"
  },
  {
-  "vin": "E65208XCLNS0046",
+  "vin": "LNNBDDEZ7TDJ01213",
   "material": "风云/风云T11/2026款/1.5T-双电机(四驱)/220km四驱双IMAX影院版/琥珀棕内饰/墨石黑外观/6座",
   "invoice_date": "2026-03-07",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T64706TBWJW0015",
+  "vin": "LVTDB21B7TDL28065",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-16",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T7000KPBWSV0020",
+  "vin": "LURJCVBE2TA365426",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/丛林绿内饰/翎羽白外观/5座",
   "invoice_date": "2026-06-29",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T6480VGKVFH0043",
+  "vin": "LVTDB24B5SG124762",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/流光银外观/5座",
   "invoice_date": "2025-11-12",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T6490KBBWFT0002",
+  "vin": "LVTDB24B0TD166078",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/奢享版-鎏金棕-7座/鎏金棕内饰/皓钻白外观/7座",
   "invoice_date": "2026-03-25",
   "dealer": "北京名车伯乐"
  },
  {
-  "vin": "M7163PSUMJW0012",
+  "vin": "LVVDC21B8TD277485",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/1.6T-7DCT/豪华型/黑棕内饰/青竹灰外观/5座",
   "invoice_date": "2026-07-25",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T64706TBWJW0013",
+  "vin": "LVTDB21BXTDL62999",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-04-24",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T7150VNCLFR0004",
+  "vin": "LVVDB21B0SC266987",
   "material": "奇瑞/瑞虎5x/2025款/1.5L-CVT/CVT卓越型/黑黑内饰/碳晶黑外观/5座",
   "invoice_date": "2025-10-27",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "E65208XSJNS0046",
+  "vin": "LNNBDDEZ3SDM05363",
   "material": "风云/风云T11/2026款/1.5T-双电机(四驱)/220km四驱双IMAX影院版/琥珀棕内饰/极光绿外观/6座",
   "invoice_date": "2025-11-15",
   "dealer": "北京龙腾新景"
  },
  {
-  "vin": "T7000CSQSAX0075",
+  "vin": "LNNACDGK1TDH15207",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/云粉米外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-29",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "T6480VGCMFH0043",
+  "vin": "LVTDB24B0SG140206",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/松墨黑外观/5座",
   "invoice_date": "2025-12-13",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T6472WHUMJW0039",
+  "vin": "LVTDB21B6TD166915",
   "material": "奇瑞/全新瑞虎8PLUS 非凡冠军/2027款/1.6T-7DCT-两驱/豪华版 5座 棕色内饰/棕色内饰/青竹灰外观/5座",
   "invoice_date": "2026-03-29",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T64706TCLJW0007",
+  "vin": "LVTDB21B9TDM60793",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/石墨黑外观/5座",
   "invoice_date": "2026-06-26",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "S643017GOQR0002",
+  "vin": "LURMCVB34SA154612",
   "material": "风云/X3/2025款/纯电/401雅尚版/自由灰内饰/灰谐外观/5座",
   "invoice_date": "2025-08-12",
   "dealer": "北京龙腾新景"
  },
  {
-  "vin": "T64706TUUJW0007",
+  "vin": "LVTDB21B8TDM81487",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/深空灰外观/5座",
   "invoice_date": "2026-07-14",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6481KGBWFT0047",
+  "vin": "LVTDB24B6SDJ13464",
   "material": "奇瑞/瑞虎9/2025款/2.0T-7DCT-两驱/豪享版-黑紫-5座/珍珠白/RDE",
   "invoice_date": "2025-10-21",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "M7163PSBWJW0004",
+  "vin": "LVVDC21B6TD202722",
   "material": "奇瑞/艾瑞泽8/2027款/1.6T-7DCT（R）/睿/黑灰内饰/珍珠白外观/5座",
   "invoice_date": "2026-05-07",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21B8TDM50062",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-06-14",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T64706TCLJW0015",
+  "vin": "LVTDB21BXTDM33277",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-05-29",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "E65208XCLNS0142",
+  "vin": "LNNBDDEZ5SDM17269",
   "material": "风云/风云T11/2026款/1.5T-双电机(四驱)/220km四驱全家乐/琥珀棕内饰/墨石黑外观/6座",
   "invoice_date": "2025-12-22",
   "dealer": "北京立信惠达"
  },
  {
-  "vin": "T6472WHURJW0039",
+  "vin": "LVTDB21B6TD165778",
   "material": "奇瑞/全新瑞虎8PLUS 非凡冠军/2027款/1.6T-7DCT-两驱/豪华版 5座 棕色内饰/棕色内饰/浅云灰外观/5座",
   "invoice_date": "2026-03-25",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "A7150MABWGW0009",
+  "vin": "LVVDB21B9SE059454",
   "material": "奇瑞/瑞虎3x/1.5L-CVT国六B/深色内饰/卓越版/水仙白/RDE",
   "invoice_date": "2025-10-28",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T64706TCLJW0013",
+  "vin": "LVTDB21B5TDM82306",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-16",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7151MAUUJV0001",
+  "vin": "LVTDB21B1TDL32791",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/智尚型/黑棕内饰/深空灰外观/5座",
   "invoice_date": "2026-03-22",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T6473SYBWME0019",
+  "vin": "LVTDB21B2TD151280",
   "material": "奇瑞/瑞虎8PRO 非凡冠军/2027款/1.6T-7DCT/豪华版 5座 棕色内饰/棕色内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-17",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T6480VGBXFH0043",
+  "vin": "LVTDB24B5SG124700",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/奇瑞白外观/5座",
   "invoice_date": "2025-11-10",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T6472WHUMJW0037",
+  "vin": "LVTDB21B8TD251626",
   "material": "奇瑞/全新瑞虎8PLUS 非凡冠军/2027款/1.6T-7DCT-两驱/猎鹰500版 5座 棕色内饰/棕色内饰/青竹灰外观/5座",
   "invoice_date": "2026-06-30",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "E71502XUVPN0019",
+  "vin": "LNNACDFP6SDJ22242",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/玄武灰/黑棕内饰",
   "invoice_date": "2025-10-25",
   "dealer": "北京华日菱"
  },
  {
-  "vin": "T7000MTJVTA0019",
+  "vin": "LURJCVS27TA373463",
   "material": "QQ/全新QQ3/2026款/310Km/310分享版/丛林绿内饰/飘逸紫外观/5座",
   "invoice_date": "2026-07-13",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T6490KBKVFT0002",
+  "vin": "LVTDB24B0TD167652",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/奢享版-鎏金棕-7座/鎏金棕内饰/钛晶银外观/7座",
   "invoice_date": "2026-03-26",
   "dealer": "北京名车伯乐"
  },
  {
-  "vin": "T64706TBWJW0007",
+  "vin": "LVTDB21B1TDL96958",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/珍珠白外观/5座",
   "invoice_date": "2026-05-23",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "T71508VZEMH0004",
+  "vin": "LVUGTBHDXVD011283",
   "material": "奇瑞/OMODA 5/2022款/1.5T-CVT/尊贵型-黑黑内饰/加仑黑内饰/其他颜色外观/5座 物流质损车国际",
   "invoice_date": "2026-06-30",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "M7160DFBWJW0134",
+  "vin": "LVVDC21B5SD507434",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/豪华型+选装包-黑黑内饰/珍珠白/RDE",
   "invoice_date": "2025-09-05",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T6481KFUUMH0001",
+  "vin": "LNNBBDEE7TG043492",
   "material": "风云/风云T9长续航/2026/1.5T-DHT国六/220长续航旗舰型胡桃棕内饰5座/石林灰/RDE",
   "invoice_date": "2026-06-18",
   "dealer": "北京卓远"
  },
  {
-  "vin": "T6490KBWZFT0001",
+  "vin": "LVTDB24B4TD192571",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/奢享版-鎏金棕-5座/鎏金棕内饰/碧玺蓝外观/5座",
   "invoice_date": "2026-04-20",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21BXTDM48488",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-06-12",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7000CSUEAX0076",
+  "vin": "LNNACDGK5TDH15999",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫黑内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-08",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "T6480VGCMFH0043",
+  "vin": "LVTDB24B9SG142553",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/松墨黑外观/5座",
   "invoice_date": "2025-12-18",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T7000KPQSSV0020",
+  "vin": "LURJCVBE1TA367636",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/丛林绿内饰/云粉米外观/5座",
   "invoice_date": "2026-07-02",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T7000CSQSAX0064",
+  "vin": "LNNACDGK9TDH15648",
   "material": "风云/风云A9/2026款/BEV/655 MAX/紫黑内饰/云粉米外观/5座/运动包",
   "invoice_date": "2026-08-03",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "T64706TCLJW0007",
+  "vin": "LVTDB21B4TDM86430",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-20",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6460RMJIUK0001",
+  "vin": "LNNBBDGK3TD279397",
   "material": "风云/风云T7/2026款/BEV/600km智享版/温暖黑棕内饰/山烟紫外观/5座",
   "invoice_date": "2026-07-28",
   "dealer": "北京甲源子智行"
  },
  {
-  "vin": "T7000MTQSTA0024",
+  "vin": "LURJCVS24TA370455",
   "material": "QQ/全新QQ3/2026款/310Km/310热爱版/丛林绿内饰/云粉米外观/5座",
   "invoice_date": "2026-07-08",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T7160F5ZKMH0010",
+  "vin": "LNNBBDEEXTC012857",
   "material": "奇瑞/其他车型///1.6T-7DCT/新潮MAX版/其他颜色内饰/其他颜色外观/5座",
   "invoice_date": "2025-06-10",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T64706TUKJW0010",
+  "vin": "LVTDB21B0TDM36821",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/磨砂灰(新)外观/5座",
   "invoice_date": "2026-06-01",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T6473SYCLME0019",
+  "vin": "LVTDB21B7TD153865",
   "material": "奇瑞/瑞虎8PRO 非凡冠军/2027款/1.6T-7DCT/豪华版 5座 棕色内饰/棕色内饰/石墨黑外观/5座",
   "invoice_date": "2026-03-17",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "M7160DFBWJW0129",
+  "vin": "LVVDC21BXTD087462",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/豪华型-黑黑内饰/珍珠白/RDE",
   "invoice_date": "2026-01-15",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T64706TBWJW0015",
+  "vin": "LVTDB21B4TDL28072",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-16",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "M7160DFUMJW0129",
+  "vin": "LVVDC21B5SD521902",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/豪华型-黑黑内饰/青竹灰/RDE",
   "invoice_date": "2025-09-10",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T70003MX4MY0008",
+  "vin": "LNNABDCX4TD012525",
   "material": "奇瑞/OMODA 5/暂无年款/1.5L-CVT/其他型号/其他颜色内饰/其他颜色外观/5座",
   "invoice_date": "2025-05-31",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T6450QAKXJV0002",
+  "vin": "LVTDB21B3TD166211",
   "material": "奇瑞/瑞虎5运动版/2026款/1.5T-6DCT/潮玩型/瓦青内饰/钻石银外观/5座",
   "invoice_date": "2026-03-25",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7000KPQSSV0020",
+  "vin": "LURJCVBE5TA341525",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/丛林绿内饰/云粉米外观/5座",
   "invoice_date": "2026-05-09",
   "dealer": "北京福瑞祥驰"
  },
  {
-  "vin": "T64706TCLJW0014",
+  "vin": "LVTDB21B6TDM83044",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/旗舰型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-16",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "A7150MABWGW0009",
+  "vin": "LVVDB21BXTE036640",
   "material": "奇瑞/瑞虎3x/1.5L-CVT国六B/深色内饰/卓越版/水仙白/RDE",
   "invoice_date": "2026-01-24",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6450QAKXJV0002",
+  "vin": "LVTDB21B8TD167421",
   "material": "奇瑞/瑞虎5运动版/2026款/1.5T-6DCT/潮玩型/瓦青内饰/钻石银外观/5座",
   "invoice_date": "2026-03-26",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T7000CSUEAX0075",
+  "vin": "LNNACDGK0TDH16994",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-08",
   "dealer": "北京立信惠达"
  },
  {
-  "vin": "T6480VGKVFH0043",
+  "vin": "LVTDB24B8SG102447",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/流光银外观/5座",
   "invoice_date": "2025-10-10",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T7000KPJVSV0023",
+  "vin": "LURJCVBE9TA386516",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版+选装L2+17寸铝圈/丛林绿内饰/飘逸紫外观/5座",
   "invoice_date": "2026-08-09",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T6490KBBWFT0001",
+  "vin": "LVTDB24B7TD169818",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/奢享版-鎏金棕-5座/鎏金棕内饰/皓钻白外观/5座",
   "invoice_date": "2026-03-27",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T6490KDWZKS0001",
+  "vin": "LVTDD24BXTD269504",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-鲲鹏8AT-四驱/猎鹰500版-鎏金棕-5座/鎏金棕内饰/碧玺蓝外观/5座",
   "invoice_date": "2026-07-16",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T7000CSJUAX0075",
+  "vin": "LNNACDGK7TDH14918",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/山烟紫外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-28",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "T6450LPUUFR0024",
+  "vin": "LVTDB21B3TDD54438",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/悦享型/黑棕内饰/深空灰外观/5座",
   "invoice_date": "2026-04-22",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6473SYBWME0019",
+  "vin": "LVTDB21B4TD151524",
   "material": "奇瑞/瑞虎8PRO 非凡冠军/2027款/1.6T-7DCT/豪华版 5座 棕色内饰/棕色内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-16",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6473SYBWME0019",
+  "vin": "LVTDB21B4TD162488",
   "material": "奇瑞/瑞虎8PRO 非凡冠军/2027款/1.6T-7DCT/豪华版 5座 棕色内饰/棕色内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-22",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T6480VGCMFH0043",
+  "vin": "LVTDB24B1SG140490",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/松墨黑外观/5座",
   "invoice_date": "2025-12-13",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T64706TS2JW0010",
+  "vin": "LVTDB21B9TDL63447",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/丛林绿外观/5座",
   "invoice_date": "2026-04-23",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T7000CSUEAX0075",
+  "vin": "LNNACDGK1TDH16616",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-08",
   "dealer": "北京甲源子智行"
  },
  {
-  "vin": "T6460RMN2UK0001",
+  "vin": "LNNBBDGK9TD276617",
   "material": "风云/风云T7/2026款/BEV/600km智享版/温暖黑棕内饰/炽焰橙外观/5座",
   "invoice_date": "2026-07-28",
   "dealer": "北京卓远"
  },
  {
-  "vin": "M7160DFKXJW0127",
+  "vin": "LVVDC21B3TD126599",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/舒适型-黑黑内饰/钻石银/RDE",
   "invoice_date": "2026-02-12",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T7000CSQSAX0064",
+  "vin": "LNNACDGK0TDH13884",
   "material": "风云/风云A9/2026款/BEV/655 MAX/紫黑内饰/云粉米外观/5座/运动包",
   "invoice_date": "2026-07-19",
   "dealer": "北京卓远"
  },
  {
-  "vin": "M7150YJGXMA0028",
+  "vin": "LNNACDEE9SD073263",
   "material": "风云/风云A8L/2025款/1.5T-DHT/豪华型-黑黑内饰-5座/晶钻灰/RDE",
   "invoice_date": "2025-01-06",
   "dealer": "北京华日菱"
  },
  {
-  "vin": "T6450LPBWFR0023",
+  "vin": "LVTDB21B7TDD55530",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/畅享型/黑棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-04-18",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T64706TCLJW0014",
+  "vin": "LVTDB21B8TDM86222",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/旗舰型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-26",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T6472WHBWJW0039",
+  "vin": "LVTDB21B1TD165591",
   "material": "奇瑞/全新瑞虎8PLUS 非凡冠军/2027款/1.6T-7DCT-两驱/豪华版 5座 棕色内饰/棕色内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-24",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T64706TBWJW0013",
+  "vin": "LVTDB21B9TDM83796",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-17",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T7151MBUUJV0001",
+  "vin": "LVTDB21B3TDL32811",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/尊尚型/黑棕内饰/深空灰外观/5座",
   "invoice_date": "2026-03-22",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T6473SYBWME0019",
+  "vin": "LVTDB21BXTD151513",
   "material": "奇瑞/瑞虎8PRO 非凡冠军/2027款/1.6T-7DCT/豪华版 5座 棕色内饰/棕色内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-16",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21BXTDL68270",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-04-29",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "M7203PTBWLB0010",
+  "vin": "LVVDC24B1TD266615",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/2.0T-7DCT/猎鹰500尊享型/黑红内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-14",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "M7200LWBWKG0005",
+  "vin": "LVVDC24BXSDJ79472",
   "material": "奇瑞/艾瑞泽8 2.0T/2025/2.0T-7DCT国六/劲流沙棕内饰/珍珠白/RDE",
   "invoice_date": "2025-12-10",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T7000CSUEAX0076",
+  "vin": "LNNACDGK6TDH15039",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫黑内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-28",
   "dealer": "北京鑫佰荟"
  },
  {
-  "vin": "T64706TUKJW0007",
+  "vin": "LVTDB21B1TDM48217",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/磨砂灰(新)外观/5座",
   "invoice_date": "2026-06-12",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T7000CSUEAX0076",
+  "vin": "LNNACDGK2TDH16110",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫黑内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-04",
   "dealer": "北京环耀盛鑫"
  },
  {
-  "vin": "T64706TBWJW0013",
+  "vin": "LVTDB21B2TDM62269",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-06-27",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T6490LMJUSH0017",
+  "vin": "LNNBBDGH8TDJ05443",
   "material": "风云/风云T9L/2026款/1.5T-DHT/230 Pro/暖霞金橙内饰/山烟紫外观/5座",
   "invoice_date": "2026-03-31",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T715032X4FR0002",
+  "vin": "LVVDB21B5TD013854",
   "material": "奇瑞/其他车型///1.5T-CVT/新潮PRO版/其他颜色内饰/其他颜色外观/5座",
   "invoice_date": "2025-06-18",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "M7160DFKXJW0127",
+  "vin": "LVVDC21B2TD168570",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/舒适型-黑黑内饰/钻石银/RDE",
   "invoice_date": "2026-03-26",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T6450QABWJV0001",
+  "vin": "LVTDB21B6TD163478",
   "material": "奇瑞/瑞虎5运动版/2026款/1.5T-6DCT/潮酷型/瓦青内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-23",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T7000KPBWSV0020",
+  "vin": "LURJCVBE6TA365428",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/丛林绿内饰/翎羽白外观/5座",
   "invoice_date": "2026-06-29",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T71604ABWMM0004",
+  "vin": "LVVDB21B3SD328540",
   "material": "奇瑞/OMODA 5/暂无年款/1.5L-CVT/其他型号/其他颜色内饰/其他颜色外观/5座",
   "invoice_date": "2025-05-31",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T7161LWUKJW0001",
+  "vin": "LVTDB21B4TDL57331",
   "material": "奇瑞/瑞虎7L/2026款/1.6TGDI-7DCT/尊尚型+/黑棕内饰/磨砂灰外观/5座",
   "invoice_date": "2026-04-17",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6450LPBWFR0023",
+  "vin": "LVTDB21B8TDD55522",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/畅享型/黑棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-04-18",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T64706TBWJW0013",
+  "vin": "LVTDB21B5TDM88672",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-25",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7000MTBWTA0024",
+  "vin": "LURJCVS2XTA361355",
   "material": "QQ/全新QQ3/2026款/310Km/310热爱版/丛林绿内饰/翎羽白外观/5座",
   "invoice_date": "2026-06-18",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T64706TBWJW0014",
+  "vin": "LVTDB21B9TDM77173",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/旗舰型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-11",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T7000CSUEAX0075",
+  "vin": "LNNACDGKXTDH16727",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-09",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "T6450QAGVJV0001",
+  "vin": "LVTDB21B3TD164040",
   "material": "奇瑞/瑞虎5运动版/2026款/1.5T-6DCT/潮酷型/瓦青内饰/量子灰外观/5座",
   "invoice_date": "2026-03-24",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "T64706TUUJW0014",
+  "vin": "LVTDB21B0TDM59855",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/旗舰型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-06-26",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T7000CSQSAX0063",
+  "vin": "LNNACDGK4TDH13144",
   "material": "风云/风云A9/2026款/BEV/655 MAX/紫灰内饰/云粉米外观/5座/运动包",
   "invoice_date": "2026-07-17",
   "dealer": "北京甲源子智行"
  },
  {
-  "vin": "T7000KPQSSV0024",
+  "vin": "LURJCVBE3TA357500",
   "material": "QQ/全新QQ3/2026款/420Km/420热爱版/质感黑内饰/云粉米外观/5座",
   "invoice_date": "2026-06-09",
   "dealer": "北京福瑞祥驰"
  },
  {
-  "vin": "M7163PSKXJW0012",
+  "vin": "LVVDC21B7TD274660",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/1.6T-7DCT/豪华型/黑棕内饰/钻石银外观/5座",
   "invoice_date": "2026-07-26",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T64706TBWJW0013",
+  "vin": "LVTDB21B4TDL62948",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-04-24",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T64706TCLJW0007",
+  "vin": "LVTDB21B9TDM80803",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-14",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6480VGUEFH0039",
+  "vin": "LVTDB24B1SG095941",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/豪华版-新棕黑-5座/新棕黑内饰/磨砂灰外观/5座",
   "invoice_date": "2025-09-29",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T7000CSQSAX0063",
+  "vin": "LNNACDGK2TDH13160",
   "material": "风云/风云A9/2026款/BEV/655 MAX/紫灰内饰/云粉米外观/5座/运动包",
   "invoice_date": "2026-07-15",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "T64706TS2JW0016",
+  "vin": "LVTDB21B7TDE74419",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/旗舰型-琥珀棕/琥珀棕内饰/丛林绿外观/5座",
   "invoice_date": "2026-01-05",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T7000CSBWAX0075",
+  "vin": "LNNACDGK6TDH14277",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/雪岭白外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-21",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "T7151MBBWJV0001",
+  "vin": "LVTDB21B5TDL35242",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/尊尚型/黑棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-24",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7000KPQSSV0025",
+  "vin": "LURJCVBE2TA373140",
   "material": "QQ/全新QQ3/2026款/420Km/420热爱版/丛林绿内饰/云粉米外观/5座",
   "invoice_date": "2026-07-13",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T7151MBBWJV0001",
+  "vin": "LVTDB21BXTDL32000",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/尊尚型/黑棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-21",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "M7200LWBWKG0005",
+  "vin": "LVVDC24B4SDJ85929",
   "material": "奇瑞/艾瑞泽8 2.0T/2025/2.0T-7DCT国六/劲流沙棕内饰/珍珠白/RDE",
   "invoice_date": "2025-12-23",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7151MBUUJV0001",
+  "vin": "LVTDB21B9TDL32845",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/尊尚型/黑棕内饰/深空灰外观/5座",
   "invoice_date": "2026-03-22",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "M7204PUCLFH0003",
+  "vin": "LVVDC24B6TD291073",
   "material": "奇瑞/艾瑞泽8/2027款/2.0T-8AT（R）/御/黑棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-08-10",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T64706TBWJW0013",
+  "vin": "LVTDB21B3TDM62281",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-06-27",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T64706TS2JW0015",
+  "vin": "LVTDB21B4TDL65624",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/丛林绿外观/5座",
   "invoice_date": "2026-04-25",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T64706TBWJW0013",
+  "vin": "LVTDB21B0TDM62268",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-06-27",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21B0TDM85596",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-07-19",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6480VGCMFH0039",
+  "vin": "LVTDB24B8SG146920",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/豪华版-新棕黑-5座/新棕黑内饰/松墨黑外观/5座",
   "invoice_date": "2025-12-24",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T6490KDBWKS0001",
+  "vin": "LVTDD24B4TD250365",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-鲲鹏8AT-四驱/猎鹰500版-鎏金棕-5座/鎏金棕内饰/皓钻白外观/5座",
   "invoice_date": "2026-06-26",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "S643017SJQR0001",
+  "vin": "LURMCVB33SA155153",
   "material": "风云/X3/2025款/纯电/401雅尚版/松弛绿内饰/无忧绿外观/5座",
   "invoice_date": "2025-08-18",
   "dealer": "北京龙腾新景"
  },
  {
-  "vin": "M7203PTCLLB0010",
+  "vin": "LVVDC24B7TD266750",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/2.0T-7DCT/猎鹰500尊享型/黑红内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-14",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "E71502XUVPN0019",
+  "vin": "LNNACDFP7SDJ22301",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/玄武灰/黑棕内饰",
   "invoice_date": "2025-10-25",
   "dealer": "北京华日菱"
  },
  {
-  "vin": "T71604NBWMH0011",
+  "vin": "LNNBBDEE3SC230671",
   "material": "奇瑞/探索06 C-DM/2024款/1.5T-DHT/尊贵型-灰内饰/黑内饰/冰川银外观/5座",
   "invoice_date": "2025-09-06",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T6472WHUMJW0039",
+  "vin": "LVTDB21B5TD166310",
   "material": "奇瑞/全新瑞虎8PLUS 非凡冠军/2027款/1.6T-7DCT-两驱/豪华版 5座 棕色内饰/棕色内饰/青竹灰外观/5座",
   "invoice_date": "2026-03-27",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "E65208XCLNS0142",
+  "vin": "LNNBDDEZ4SDM17330",
   "material": "风云/风云T11/2026款/1.5T-双电机(四驱)/220km四驱全家乐/琥珀棕内饰/墨石黑外观/6座",
   "invoice_date": "2025-12-22",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "T64706TBWJW0013",
+  "vin": "LVTDB21B1TDM83761",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-17",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "M7200LWBWKG0005",
+  "vin": "LVVDC24BXSD553806",
   "material": "奇瑞/艾瑞泽8 2.0T/2025/2.0T-7DCT国六/劲流沙棕内饰/珍珠白/RDE",
   "invoice_date": "2025-09-23",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T64706TUUJW0007",
+  "vin": "LVTDB21B5TDM81477",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/深空灰外观/5座",
   "invoice_date": "2026-07-14",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6490KBKVFT0003",
+  "vin": "LVTDB24B8TD172498",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/豪享版-鎏金棕-5座/鎏金棕内饰/钛晶银外观/5座",
   "invoice_date": "2026-04-01",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6473SYBWME0019",
+  "vin": "LVTDB21B2TD162182",
   "material": "奇瑞/瑞虎8PRO 非凡冠军/2027款/1.6T-7DCT/豪华版 5座 棕色内饰/棕色内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-22",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T6481KFCMMH0005",
+  "vin": "LNNBBDEEXTG043020",
   "material": "风云/风云T9长续航/2026/1.5T-DHT国六/220长续航尊荣型胡桃棕内饰5座/星夜黑/RDE",
   "invoice_date": "2026-06-18",
   "dealer": "北京卓远"
  },
  {
-  "vin": "T64706TCLJW0015",
+  "vin": "LVTDB21B6TDM34068",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-05-29",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "S6450JTCLSB0002",
+  "vin": "LURMCWL22TA100173",
   "material": "风云/X3L/2025款/增程/205四驱高能版/清醒黑内饰/自黑外观/5座",
   "invoice_date": "2026-03-22",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "M7160DFBWJW0127",
+  "vin": "LVVDC21B4TD126501",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/舒适型-黑黑内饰/珍珠白/RDE",
   "invoice_date": "2026-02-11",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T6473SYULME0019",
+  "vin": "LVTDB21B6TD145451",
   "material": "奇瑞/瑞虎8PRO 非凡冠军/2027款/1.6T-7DCT/豪华版 5座 棕色内饰/棕色内饰/时光灰外观/5座",
   "invoice_date": "2026-03-10",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7000CSUEAX0075",
+  "vin": "LNNACDGK5TDH12780",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-14",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "T7150BCGVFR0147",
+  "vin": "LVVDB21B1TD189221",
   "material": "奇瑞/瑞虎5x高能版/2025款/1.5T-CVT/舒适型-黑色内饰/量子灰/RDE",
   "invoice_date": "2026-04-14",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T6490KDKVKS0001",
+  "vin": "LVTDD24B3TD269439",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-鲲鹏8AT-四驱/猎鹰500版-鎏金棕-5座/鎏金棕内饰/钛晶银外观/5座",
   "invoice_date": "2026-07-17",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "M7160DFCLJW0129",
+  "vin": "LVVDC21B4TD087814",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/豪华型-黑黑内饰/石墨黑/RDE",
   "invoice_date": "2026-01-15",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "T7000CSUEAX0075",
+  "vin": "LNNACDGK2TDH16771",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-07",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "E65208XCLNS0144",
+  "vin": "LNNBDDEZ3SDM09140",
   "material": "风云/风云T11/2026款/1.5T-双电机(四驱)/220km四驱全家乐/羊脂米内饰/墨石黑外观/6座",
   "invoice_date": "2025-11-29",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "T64706TKUJW0013",
+  "vin": "LVTDB21B8TDM88214",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/月光银外观/5座",
   "invoice_date": "2026-07-20",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21B8TDL68252",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-04-28",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T64706TCLJW0013",
+  "vin": "LVTDB21B3TDM90582",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-22",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "E65208XSJNS0142",
+  "vin": "LNNBDDEZ4SDM12810",
   "material": "风云/风云T11/2026款/1.5T-双电机(四驱)/220km四驱全家乐/琥珀棕内饰/极光绿外观/6座",
   "invoice_date": "2025-12-11",
   "dealer": "北京立信惠达"
  },
  {
-  "vin": "T64706TBWJW0014",
+  "vin": "LVTDB21B7TDM77169",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/旗舰型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-12",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21B3TDL69177",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-04-29",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "E71502XCLPN0019",
+  "vin": "LNNACDFP9TD165538",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/墨石黑/黑棕内饰",
   "invoice_date": "2026-03-26",
   "dealer": "北京福铃鑫瑞"
  },
  {
-  "vin": "M7163PSKXJW0012",
+  "vin": "LVVDC21B9TD269749",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/1.6T-7DCT/豪华型/黑棕内饰/钻石银外观/5座",
   "invoice_date": "2026-07-16",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "M7163PSBWJW0002",
+  "vin": "LVVDC21B5TD177540",
   "material": "奇瑞/艾瑞泽8/2027款/1.6T-7DCT（R）/智/黑灰内饰/珍珠白外观/5座",
   "invoice_date": "2026-04-03",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7000MTJVTA0019",
+  "vin": "LURJCVS23TA352092",
   "material": "QQ/全新QQ3/2026款/310Km/310分享版/丛林绿内饰/飘逸紫外观/5座",
   "invoice_date": "2026-05-28",
   "dealer": "北京福瑞祥驰"
  },
  {
-  "vin": "T7000CSQSAX0075",
+  "vin": "LNNACDGK1TDH12081",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/云粉米外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-11",
   "dealer": "北京甲源子智行"
  },
  {
-  "vin": "T6481KFCMMH0005",
+  "vin": "LNNBBDEE8TG052881",
   "material": "风云/风云T9长续航/2026/1.5T-DHT国六/220长续航尊荣型胡桃棕内饰5座/星夜黑/RDE",
   "invoice_date": "2026-07-24",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "T6450LPCLFR0023",
+  "vin": "LVTDB21B5TDM06438",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/畅享型/黑棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-11",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "M7163PSKXJW0009",
+  "vin": "LVVDC21B4TD239350",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/1.6T-7DCT/舒适型/黑黑内饰/钻石银外观/5座",
   "invoice_date": "2026-06-23",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T6480VGKVFH0039",
+  "vin": "LVTDB24B0SG132591",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/豪华版-新棕黑-5座/新棕黑内饰/流光银外观/5座",
   "invoice_date": "2025-11-30",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "M7203PTKXLB0010",
+  "vin": "LVVDC24B0TD278190",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/2.0T-7DCT/猎鹰500尊享型/黑红内饰/钻石银外观/5座",
   "invoice_date": "2026-07-27",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21B9TDL69202",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-04-29",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6473SYBWME0019",
+  "vin": "LVTDB21B1TD151366",
   "material": "奇瑞/瑞虎8PRO 非凡冠军/2027款/1.6T-7DCT/豪华版 5座 棕色内饰/棕色内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-16",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21B6TDM89538",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-07-21",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T6482ZDSSLX0003",
+  "vin": "LNNBBDDW1SD079804",
   "material": "风云/风云T10/2024/1.5T-3DHT-两驱/210 奢享版-格调山岚绿内饰-5座/苍山绿/RDE",
   "invoice_date": "2025-01-09",
   "dealer": "北京华日菱"
  },
  {
-  "vin": "T6472WHCLJW0039",
+  "vin": "LVTDB21B8TD169069",
   "material": "奇瑞/全新瑞虎8PLUS 非凡冠军/2027款/1.6T-7DCT-两驱/豪华版 5座 棕色内饰/棕色内饰/石墨黑外观/5座",
   "invoice_date": "2026-03-27",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6472WHUMJW0039",
+  "vin": "LVTDB21B0TD166912",
   "material": "奇瑞/全新瑞虎8PLUS 非凡冠军/2027款/1.6T-7DCT-两驱/豪华版 5座 棕色内饰/棕色内饰/青竹灰外观/5座",
   "invoice_date": "2026-03-29",
   "dealer": "北京名车伯乐"
  },
  {
-  "vin": "T6481KFUUMH0001",
+  "vin": "LNNBBDEE9TG026919",
   "material": "风云/风云T9长续航/2026/1.5T-DHT国六/220长续航旗舰型胡桃棕内饰5座/石林灰/RDE",
   "invoice_date": "2026-03-29",
   "dealer": "北京卓远"
  },
  {
-  "vin": "T7151MBCLJV0001",
+  "vin": "LVTDB21B1TDL32631",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/尊尚型/黑棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-03-22",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "T7151MABWJV0001",
+  "vin": "LVTDB21B6TDL30776",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/智尚型/黑棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-19",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T6472WHBWJW0039",
+  "vin": "LVTDB21B4TD165830",
   "material": "奇瑞/全新瑞虎8PLUS 非凡冠军/2027款/1.6T-7DCT-两驱/豪华版 5座 棕色内饰/棕色内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-25",
   "dealer": "北京名车伯乐"
  },
  {
-  "vin": "T7000CSUEAX0075",
+  "vin": "LNNACDGK0TDH16882",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-07",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "T7000KPQSSV0020",
+  "vin": "LURJCVBEXTA373239",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/丛林绿内饰/云粉米外观/5座",
   "invoice_date": "2026-07-14",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "M7163PSCLJW0009",
+  "vin": "LVVDC21B0TD238065",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/1.6T-7DCT/舒适型/黑黑内饰/石墨黑外观/5座",
   "invoice_date": "2026-06-22",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T7152SBBWKL0005",
+  "vin": "LVVDB21B6TC102502",
   "material": "奇瑞/瑞虎5x/2025款/1.5L-CVT国六B/深色内饰/CVT卓越型/皓月白/RDE",
   "invoice_date": "2026-03-25",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T7000KPJVSV0024",
+  "vin": "LURJCVBE1TA357365",
   "material": "QQ/全新QQ3/2026款/420Km/420热爱版/质感黑内饰/飘逸紫外观/5座",
   "invoice_date": "2026-06-09",
   "dealer": "北京福瑞祥驰"
  },
  {
-  "vin": "M7163PSCLJW0004",
+  "vin": "LVVDC21B8TD202754",
   "material": "奇瑞/艾瑞泽8/2027款/1.6T-7DCT（R）/睿/黑灰内饰/石墨黑外观/5座",
   "invoice_date": "2026-05-08",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T7152SBBWKL0005",
+  "vin": "LVVDB21B9TC081158",
   "material": "奇瑞/瑞虎5x/2025款/1.5L-CVT国六B/深色内饰/CVT卓越型/皓月白/RDE",
   "invoice_date": "2026-02-08",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T7151MACLJV0001",
+  "vin": "LVTDB21B7TDL31208",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/智尚型/黑棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-03-21",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "T7000CSUEAX0076",
+  "vin": "LNNACDGK8TDH14975",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫黑内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-28",
   "dealer": "北京鑫佰荟"
  },
  {
-  "vin": "T7000MTQSTA0024",
+  "vin": "LURJCVS23TA359432",
   "material": "QQ/全新QQ3/2026款/310Km/310热爱版/丛林绿内饰/云粉米外观/5座",
   "invoice_date": "2026-06-15",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T6480VGUEFH0043",
+  "vin": "LVTDB24B2SG119521",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/磨砂灰外观/5座",
   "invoice_date": "2025-11-03",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T6450QAGVJV0001",
+  "vin": "LVTDB21B6TD186095",
   "material": "奇瑞/瑞虎5运动版/2026款/1.5T-6DCT/潮酷型/瓦青内饰/量子灰外观/5座",
   "invoice_date": "2026-04-11",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T64706TCLJW0013",
+  "vin": "LVTDB21B5TDM59365",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-06-27",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T7000CSQSAX0075",
+  "vin": "LNNACDGK0TDH16431",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/云粉米外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-05",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "T64706TS2JW0015",
+  "vin": "LVTDB21B3TDL65629",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/丛林绿外观/5座",
   "invoice_date": "2026-04-25",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T70003MCLMY0002",
+  "vin": "LNNABDCX1SD324560",
   "material": "奇瑞/OMODA 5/暂无年款/1.5L-CVT/其他型号/其他颜色内饰/其他颜色外观/5座",
   "invoice_date": "2025-05-28",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "M7160DFBWJW0127",
+  "vin": "LVVDC21B9SD468105",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/舒适型-黑黑内饰/珍珠白/RDE",
   "invoice_date": "2025-08-19",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T64706TBWJW0007",
+  "vin": "LVTDB21B8TDM88729",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-21",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T6490KBKVFT0001",
+  "vin": "LVTDB24B3TD196286",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/奢享版-鎏金棕-5座/鎏金棕内饰/钛晶银外观/5座",
   "invoice_date": "2026-04-22",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6460RMJIUK0001",
+  "vin": "LNNBBDGK3TD277021",
   "material": "风云/风云T7/2026款/BEV/600km智享版/温暖黑棕内饰/山烟紫外观/5座",
   "invoice_date": "2026-07-28",
   "dealer": "北京鑫佰荟"
  },
  {
-  "vin": "T64706TBWJW0013",
+  "vin": "LVTDB21BXTDM83693",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-17",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6481KFUUMH0005",
+  "vin": "LNNBBDEE1TG053015",
   "material": "风云/风云T9长续航/2026/1.5T-DHT国六/220长续航尊荣型胡桃棕内饰5座/石林灰/RDE",
   "invoice_date": "2026-07-24",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "T64706TBWJW0014",
+  "vin": "LVTDB21BXTDM83032",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/旗舰型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-16",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21B6TDM85537",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-07-18",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T6480VGBXFH0043",
+  "vin": "LVTDB24B4SG118953",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/奇瑞白外观/5座",
   "invoice_date": "2025-11-01",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T6480VGKVFH0039",
+  "vin": "LVTDB24B6SG132644",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/豪华版-新棕黑-5座/新棕黑内饰/流光银外观/5座",
   "invoice_date": "2025-11-30",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "E71502XCLPN0018",
+  "vin": "LNNACDFP5TD197807",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航豪华版（新）/墨石黑/米棕内饰",
   "invoice_date": "2026-04-25",
   "dealer": "北京福铃"
  },
  {
-  "vin": "T64706TBWJW0013",
+  "vin": "LVTDB21B3TDM62264",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-06-27",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T7150BCZEFR0146",
+  "vin": "LVUASF227TD040700",
   "material": "奇瑞/OMODA 5/暂无年款/1.5L-CVT/其他型号/其他颜色内饰/其他颜色外观/5座",
   "invoice_date": "2025-11-18",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "E65208XSJNS0046",
+  "vin": "LNNBDDEZ4SDM13679",
   "material": "风云/风云T11/2026款/1.5T-双电机(四驱)/220km四驱双IMAX影院版/琥珀棕内饰/极光绿外观/6座",
   "invoice_date": "2025-12-03",
   "dealer": "北京华日菱"
  },
  {
-  "vin": "T64706TCLJW0013",
+  "vin": "LVTDB21B2TDM82327",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-17",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21B0TDL57598",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-04-19",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6480VGCMFH0043",
+  "vin": "LVTDB24B1SG143390",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/松墨黑外观/5座",
   "invoice_date": "2025-12-19",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "A7150MABWGW0009",
+  "vin": "LVVDB21B6TE046503",
   "material": "奇瑞/瑞虎3x/1.5L-CVT国六B/深色内饰/卓越版/水仙白/RDE",
   "invoice_date": "2026-04-23",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T6480FZBXMH0001",
+  "vin": "LNNBBDEE7TG033674",
   "material": "风云/风云T9/2025/1.5T-DHT国六/120KM长续航尊贵型云墨黑内饰5座/浮光白/RDE",
   "invoice_date": "2026-05-12",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T6490KBBWFT0001",
+  "vin": "LVTDB24B7TD171729",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/奢享版-鎏金棕-5座/鎏金棕内饰/皓钻白外观/5座",
   "invoice_date": "2026-03-28",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T7000CSNZAX0064",
+  "vin": "LNNACDGK0TDH17479",
   "material": "风云/风云A9/2026款/BEV/655 MAX/紫黑内饰/海棠红外观/5座/运动包",
   "invoice_date": "2026-08-09",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T6480VGKVFH0043",
+  "vin": "LVTDB24BXSG141167",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/流光银外观/5座",
   "invoice_date": "2025-12-16",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "M7160DFCLJW0127",
+  "vin": "LVVDC21B7TD171898",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/舒适型-黑黑内饰/石墨黑/RDE",
   "invoice_date": "2026-03-28",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21B1TDL69212",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-04-29",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21BXTDL57592",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-04-19",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "M7163PSCLJW0002",
+  "vin": "LVVDC21B4TD200175",
   "material": "奇瑞/艾瑞泽8/2027款/1.6T-7DCT（R）/智/黑灰内饰/石墨黑外观/5座",
   "invoice_date": "2026-04-27",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "E65208XSJNS0048",
+  "vin": "LNNBDDEZ6SDM13599",
   "material": "风云/风云T11/2026款/1.5T-双电机(四驱)/220km四驱双IMAX影院版/羊脂米内饰/极光绿外观/6座",
   "invoice_date": "2025-12-11",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "T64706TBWJW0013",
+  "vin": "LVTDB21B1TDM50792",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-06-15",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "E71502XNMPN0015",
+  "vin": "LNNACDFPXSD569964",
   "material": "风云/风云A9L/1.5T-DHT/260伯牙奢享版/车厘子红/米棕内饰/20吋轮辋（品牌轮胎）+零重力座椅",
   "invoice_date": "2025-09-30",
   "dealer": "北京华日菱"
  },
  {
-  "vin": "T6490KDCLKS0001",
+  "vin": "LVTDD24B0TD276400",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-鲲鹏8AT-四驱/猎鹰500版-鎏金棕-5座/鎏金棕内饰/曜石黑外观/5座",
   "invoice_date": "2026-07-22",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "M7160DFUMJW0127",
+  "vin": "LVVDC21B7TD127271",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/舒适型-黑黑内饰/青竹灰/RDE",
   "invoice_date": "2026-02-12",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "M7163PSBWJW0004",
+  "vin": "LVVDC21B7TD202714",
   "material": "奇瑞/艾瑞泽8/2027款/1.6T-7DCT（R）/睿/黑灰内饰/珍珠白外观/5座",
   "invoice_date": "2026-05-07",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T64706TCLJW0013",
+  "vin": "LVTDB21BXTDM85458",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-18",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T6490KBCLFT0001",
+  "vin": "LVTDB24B0TD173080",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/奢享版-鎏金棕-5座/鎏金棕内饰/曜石黑外观/5座",
   "invoice_date": "2026-03-31",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T7152SBBWKL0005",
+  "vin": "LVVDB21B9TC113168",
   "material": "奇瑞/瑞虎5x/2025款/1.5L-CVT国六B/深色内饰/CVT卓越型/皓月白/RDE",
   "invoice_date": "2026-04-13",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "M7160DFCLJW0103",
+  "vin": "LVVDC21B5TD130895",
   "material": "奇瑞/艾瑞泽8/2025/1.6T-7DCT国六/智沧海灰内饰/石墨黑/RDE",
   "invoice_date": "2026-02-25",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "M7163PSCLJW0009",
+  "vin": "LVVDC21B3TD236388",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/1.6T-7DCT/舒适型/黑黑内饰/石墨黑外观/5座",
   "invoice_date": "2026-06-09",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "E71502DNMPL0014",
+  "vin": "LNNAJDFR9SD515174",
   "material": "风云/风云A9L/1.5T-DHT-四驱/四驱高能巅峰版/车厘子红/黑红内饰/带副驾零重力座椅",
   "invoice_date": "2025-09-08",
   "dealer": "北京华日菱"
  },
  {
-  "vin": "T64706TBWJW0013",
+  "vin": "LVTDB21B0TDM62299",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-06-27",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "M7150PPBWKL0002",
+  "vin": "LVVDC21B7TDH13987",
   "material": "奇瑞/2025款艾瑞泽5卓越版/2025款/1.5L-CVT/风尚型/黑黑内饰/珍珠白外观",
   "invoice_date": "2026-07-23",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T7000KPQSSV0024",
+  "vin": "LURJCVBE5TA357501",
   "material": "QQ/全新QQ3/2026款/420Km/420热爱版/质感黑内饰/云粉米外观/5座",
   "invoice_date": "2026-06-09",
   "dealer": "北京福瑞祥驰"
  },
  {
-  "vin": "T6480VGBXFH0043",
+  "vin": "LVTDB24B9SG124697",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/奇瑞白外观/5座",
   "invoice_date": "2025-11-10",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "M7163PSCLJW0005",
+  "vin": "LVVDC21B7TD189737",
   "material": "奇瑞/艾瑞泽8/2027款/1.6T-7DCT（R）/睿/黑棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-04-19",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T7000CSUEAX0076",
+  "vin": "LNNACDGK1TDH14963",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫黑内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-28",
   "dealer": "北京卓远"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21BXTDM89560",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-07-21",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T7000CSQSAX0075",
+  "vin": "LNNACDGK3TDH16780",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/云粉米外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-07",
   "dealer": "北京卓远"
  },
  {
-  "vin": "T7151MBUUJV0001",
+  "vin": "LVTDB21B0TDL54801",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/尊尚型/黑棕内饰/深空灰外观/5座",
   "invoice_date": "2026-04-16",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21B3TDM85558",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-07-21",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T6480VGBXFH0043",
+  "vin": "LVTDB24B8SG124707",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/奇瑞白外观/5座",
   "invoice_date": "2025-11-10",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "M7163PSUMJW0009",
+  "vin": "LVVDC21B9TD275115",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/1.6T-7DCT/舒适型/黑黑内饰/青竹灰外观/5座",
   "invoice_date": "2026-07-23",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T7160USBWMH0006",
+  "vin": "LNNBBDEE7SC188540",
   "material": "奇瑞/探索06四驱发现版/2025款/1.6T-7DCT-4WD/舒适型-极地黑/黑内饰/上新云墨黑下冰川银外观/5座",
   "invoice_date": "2025-07-14",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T6480FZBXMH0001",
+  "vin": "LNNBBDEE9TG043686",
   "material": "风云/风云T9/2025/1.5T-DHT国六/120KM长续航尊贵型云墨黑内饰5座/浮光白/RDE",
   "invoice_date": "2026-06-25",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T6460RMJIUK0001",
+  "vin": "LNNBBDGK9TD275158",
   "material": "风云/风云T7/2026款/BEV/600km智享版/温暖黑棕内饰/山烟紫外观/5座",
   "invoice_date": "2026-07-28",
   "dealer": "北京福铃鑫瑞"
  },
  {
-  "vin": "M7160DFBWJW0127",
+  "vin": "LVVDC21B7TD096426",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/舒适型-黑黑内饰/珍珠白/RDE",
   "invoice_date": "2026-01-20",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7151MBUUJV0001",
+  "vin": "LVTDB21B3TDL32839",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/尊尚型/黑棕内饰/深空灰外观/5座",
   "invoice_date": "2026-03-24",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "E65208XCLNS0142",
+  "vin": "LNNBDDEZ8SDM15919",
   "material": "风云/风云T11/2026款/1.5T-双电机(四驱)/220km四驱全家乐/琥珀棕内饰/墨石黑外观/6座",
   "invoice_date": "2025-12-16",
   "dealer": "北京甲源子智行"
  },
  {
-  "vin": "T7000CSQSAX0075",
+  "vin": "LNNACDGK4TDH12639",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/云粉米外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-11",
   "dealer": "北京立信惠达"
  },
  {
-  "vin": "T7000KPQSSV0025",
+  "vin": "LURJCVBE6TA373139",
   "material": "QQ/全新QQ3/2026款/420Km/420热爱版/丛林绿内饰/云粉米外观/5座",
   "invoice_date": "2026-07-13",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T7151MBCLJV0001",
+  "vin": "LVTDB21B0TDL32605",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/尊尚型/黑棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-03-22",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "M7160DFBWJW0103",
+  "vin": "LVVDC21B2SDJ61424",
   "material": "奇瑞/艾瑞泽8/2025/1.6T-7DCT国六/智沧海灰内饰/珍珠白/RDE",
   "invoice_date": "2025-11-17",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7000CSUEAX0075",
+  "vin": "LNNACDGK5TDH16974",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-07",
   "dealer": "北京甲源子智行"
  },
  {
-  "vin": "T6490KDBWKS0001",
+  "vin": "LVTDD24B9TD276296",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-鲲鹏8AT-四驱/猎鹰500版-鎏金棕-5座/鎏金棕内饰/皓钻白外观/5座",
   "invoice_date": "2026-07-22",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T7000CSNZAX0075",
+  "vin": "LNNACDGK0TDH17188",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/海棠红外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-08",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "T7161LWBWJW0001",
+  "vin": "LVTDB21B3TDL98758",
   "material": "奇瑞/瑞虎7L/2026款/1.6TGDI-7DCT/尊尚型+/黑棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-05-25",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T64706TBWJW0013",
+  "vin": "LVTDB21B5TDM84671",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-17",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T64706TCLJW0007",
+  "vin": "LVTDB21B7TDM91637",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-23",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T64706TCLJW0013",
+  "vin": "LVTDB21B9TDM59305",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-06-25",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T7160USBWMH0006",
+  "vin": "LNNBBDEE0SC188542",
   "material": "奇瑞/探索06四驱发现版/2025款/1.6T-7DCT-4WD/舒适型-极地黑/黑内饰/上新云墨黑下冰川银外观/5座",
   "invoice_date": "2025-07-13",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "E71502XUVPN0053",
+  "vin": "LNNACDFPXTD255233",
   "material": "风云/风云A9L/2027/1.5T-DHT/260 ULTRA/玄武灰/米棕内饰/5座",
   "invoice_date": "2026-07-11",
   "dealer": "北京京风创瑞"
  },
  {
-  "vin": "T7161YTGXMM0010",
+  "vin": "LVVDB21B4TDE14640",
   "material": "奇瑞/T1E/2025款/1.5T-CVT+48V全黑内饰/全黑内饰/黑棕色内饰/深空灰外观/5座",
   "invoice_date": "2026-01-15",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T64706TCLJW0013",
+  "vin": "LVTDB21B8TDL89473",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-05-16",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "M7203PTCLLB0010",
+  "vin": "LVVDC24B8TD273819",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/2.0T-7DCT/猎鹰500尊享型/黑红内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-21",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T7000CSQSAX0047",
+  "vin": "LNNACDGK1TDH09116",
   "material": "风云/风云A9/2026款/BEV/展示版型/展示色内饰/展示色外观/5座",
   "invoice_date": "2026-04-25",
   "dealer": "北京甲源子智行"
  },
  {
-  "vin": "T6473SYBWME0019",
+  "vin": "LVTDB21B5TD191773",
   "material": "奇瑞/瑞虎8PRO 非凡冠军/2027款/1.6T-7DCT/豪华版 5座 棕色内饰/棕色内饰/珍珠白外观/5座",
   "invoice_date": "2026-04-17",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T7000KPK1SV0020",
+  "vin": "LURJCVBE0TA378708",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/丛林绿内饰/月剑银外观/5座",
   "invoice_date": "2026-07-22",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T7161LWCLJW0001",
+  "vin": "LVTDB21B4TDL98784",
   "material": "奇瑞/瑞虎7L/2026款/1.6TGDI-7DCT/尊尚型+/黑棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-05-26",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7152SBGVKL0005",
+  "vin": "LVVDB21B7TC080574",
   "material": "奇瑞/瑞虎5x/2025款/1.5L-CVT国六B/深色内饰/CVT卓越型/梦幻灰/RDE",
   "invoice_date": "2026-02-07",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T6450LPCLFR0024",
+  "vin": "LVTDB21B9TDD45601",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/悦享型/黑棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-03-22",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "M7203PTCLLB0010",
+  "vin": "LVVDC24B5TD273812",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/2.0T-7DCT/猎鹰500尊享型/黑红内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-21",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T6480VGBXFH0040",
+  "vin": "LVTDB24B4SG127054",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/豪华版-新棕黑-7座/新棕黑内饰/奇瑞白外观/7座",
   "invoice_date": "2025-11-14",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6490KDWZKS0001",
+  "vin": "LVTDD24B5TD269510",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-鲲鹏8AT-四驱/猎鹰500版-鎏金棕-5座/鎏金棕内饰/碧玺蓝外观/5座",
   "invoice_date": "2026-07-16",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "M7163PSSWJW0005",
+  "vin": "LVVDC21B4TD167937",
   "material": "奇瑞/艾瑞泽8/2027款/1.6T-7DCT（R）/睿/黑棕内饰/芰荷翠外观/5座",
   "invoice_date": "2026-03-27",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "E6520GUCLNH0088",
+  "vin": "LNNBBDEM9TDJ01532",
   "material": "风云/风云T11/2026款/1.5T-单电机(后置两驱)/220km后驱双IMAX影院版/琥珀棕内饰/墨石黑外观/6座",
   "invoice_date": "2026-03-13",
   "dealer": "北京卓远"
  },
  {
-  "vin": "T7151LZUKJV0001",
+  "vin": "LVTDB21B0TDL22706",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/尊尚型（滑移屏女王包）/黑棕内饰/磨砂灰外观/5座",
   "invoice_date": "2026-03-13",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "T64706TBWJW0015",
+  "vin": "LVTDB21B2TDL28085",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-16",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7000KPQSSV0020",
+  "vin": "LURJCVBEXTA375430",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/丛林绿内饰/云粉米外观/5座",
   "invoice_date": "2026-07-16",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T6481KFCMMH0005",
+  "vin": "LNNBBDEE3TG053940",
   "material": "风云/风云T9长续航/2026/1.5T-DHT国六/220长续航尊荣型胡桃棕内饰5座/星夜黑/RDE",
   "invoice_date": "2026-07-27",
   "dealer": "北京甲源子智行"
  },
  {
-  "vin": "M7163PSCLJW0009",
+  "vin": "LVVDC21B9TD272523",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/1.6T-7DCT/舒适型/黑黑内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-20",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6480VGBXFH0043",
+  "vin": "LVTDB24B0SG140383",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/奇瑞白外观/5座",
   "invoice_date": "2025-12-15",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T7150BCGVFR0124",
+  "vin": "LVVDB21B9TD189192",
   "material": "奇瑞/瑞虎5x高能版/2025款/1.5T-CVT/豪华型-黑色内饰/量子灰/RDE",
   "invoice_date": "2026-04-15",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T64706TBWJW0007",
+  "vin": "LVTDB21BXTDM62326",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/珍珠白外观/5座",
   "invoice_date": "2026-06-27",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T64706TBWJW0007",
+  "vin": "LVTDB21B3TDM81252",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-14",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "E71502XSJPN0019",
+  "vin": "LNNACDFP7SDJ63009",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/极光绿/黑棕内饰",
   "invoice_date": "2025-11-18",
   "dealer": "北京福铃"
  },
  {
-  "vin": "T7000CSBWAX0064",
+  "vin": "LNNACDGK9TDH14502",
   "material": "风云/风云A9/2026款/BEV/655 MAX/紫黑内饰/雪岭白外观/5座/运动包",
   "invoice_date": "2026-07-23",
   "dealer": "北京鑫佰荟"
  },
  {
-  "vin": "T7000CSQSAX0075",
+  "vin": "LNNACDGK8TDH13941",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/云粉米外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-22",
   "dealer": "北京鑫佰荟"
  },
  {
-  "vin": "T6450LPURFR0023",
+  "vin": "LVTDB21B3TDD50549",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/畅享型/黑棕内饰/浅云灰外观/5座",
   "invoice_date": "2026-04-02",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T64706TCLJW0013",
+  "vin": "LVTDB21B7TDM59321",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-06-27",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21B3TDL68255",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-04-29",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "M7163PSCLJW0009",
+  "vin": "LVVDC21B5TD272468",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/1.6T-7DCT/舒适型/黑黑内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-20",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "M7163PSCLJW0002",
+  "vin": "LVVDC21B4TD192496",
   "material": "奇瑞/艾瑞泽8/2027款/1.6T-7DCT（R）/智/黑灰内饰/石墨黑外观/5座",
   "invoice_date": "2026-04-17",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6490KBCLFT0002",
+  "vin": "LVTDB24B5TD173415",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/奢享版-鎏金棕-7座/鎏金棕内饰/曜石黑外观/7座",
   "invoice_date": "2026-03-31",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "E71502XUVPN0050",
+  "vin": "LNNACDFP5TD281268",
   "material": "风云/风云A9L/2027/1.5T-DHT/260 MAX/玄武灰/黑棕内饰/5座",
   "invoice_date": "2026-08-06",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T6480VGBXFH0043",
+  "vin": "LVTDB24B1SG129201",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/奇瑞白外观/5座",
   "invoice_date": "2025-11-18",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T7000CSCLAX0076",
+  "vin": "LNNACDGK3TDH15824",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫黑内饰/墨石黑外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-04",
   "dealer": "北京环耀盛鑫"
  },
  {
-  "vin": "T64706TCLJW0013",
+  "vin": "LVTDB21B3TDM85477",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-19",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "M7163PSSWJW0005",
+  "vin": "LVVDC21BXTD171474",
   "material": "奇瑞/艾瑞泽8/2027款/1.6T-7DCT（R）/睿/黑棕内饰/芰荷翠外观/5座",
   "invoice_date": "2026-03-28",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T64706TUUJW0007",
+  "vin": "LVTDB21B4TDM87500",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/深空灰外观/5座",
   "invoice_date": "2026-07-20",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "M7163PSKXJW0002",
+  "vin": "LVVDC21B0TD202439",
   "material": "奇瑞/艾瑞泽8/2027款/1.6T-7DCT（R）/智/黑灰内饰/钻石银外观/5座",
   "invoice_date": "2026-05-07",
   "dealer": "北京名车伯乐"
  },
  {
-  "vin": "T7000CSQSAX0075",
+  "vin": "LNNACDGKXTDH16467",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/云粉米外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-05",
   "dealer": "北京京风创瑞"
  },
  {
-  "vin": "M7203PTBWLB0010",
+  "vin": "LVVDC24B2TD278191",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/2.0T-7DCT/猎鹰500尊享型/黑红内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-26",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T6473SYULME0019",
+  "vin": "LVTDB21B9TD144696",
   "material": "奇瑞/瑞虎8PRO 非凡冠军/2027款/1.6T-7DCT/豪华版 5座 棕色内饰/棕色内饰/时光灰外观/5座",
   "invoice_date": "2026-03-10",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6450QAGVJV0002",
+  "vin": "LVTDB21B4TD186175",
   "material": "奇瑞/瑞虎5运动版/2026款/1.5T-6DCT/潮玩型/瓦青内饰/量子灰外观/5座",
   "invoice_date": "2026-04-12",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T6481KFBXMH0005",
+  "vin": "LNNBBDEE3TG053095",
   "material": "风云/风云T9长续航/2026/1.5T-DHT国六/220长续航尊荣型胡桃棕内饰5座/浮光白/RDE",
   "invoice_date": "2026-07-24",
   "dealer": "北京甲源子智行"
  },
  {
-  "vin": "T6481KGKVFT0056",
+  "vin": "LVTDB24B6SDJ53351",
   "material": "奇瑞/瑞虎9/2025款/2.0T-7DCT-两驱/舒享版-黑黑-7座/流光银/RDE",
   "invoice_date": "2025-11-11",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T7000KPK1SV0025",
+  "vin": "LURJCVBE4TA376086",
   "material": "QQ/全新QQ3/2026款/420Km/420热爱版/丛林绿内饰/月剑银外观/5座",
   "invoice_date": "2026-07-17",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "M7200LWKXKG0005",
+  "vin": "LVVDC24B6SDJ86435",
   "material": "奇瑞/艾瑞泽8 2.0T/2025/2.0T-7DCT国六/劲流沙棕内饰/钻石银/RDE",
   "invoice_date": "2025-12-23",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7000CSUEAX0075",
+  "vin": "LNNACDGK3TDH14186",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-21",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "M7150PNBWLD0001",
+  "vin": "LVVDC11B3TDH15391",
   "material": "奇瑞/2025款艾瑞泽5卓越版-MT/2025款/1.5L-MT/风尚型/黑黑内饰/珍珠白外观",
   "invoice_date": "2026-07-31",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "M7160DFBWJW0127",
+  "vin": "LVVDC21BXTD096467",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/舒适型-黑黑内饰/珍珠白/RDE",
   "invoice_date": "2026-01-21",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6472WHBWJW0039",
+  "vin": "LVTDB21B3TD185955",
   "material": "奇瑞/全新瑞虎8PLUS 非凡冠军/2027款/1.6T-7DCT-两驱/豪华版 5座 棕色内饰/棕色内饰/珍珠白外观/5座",
   "invoice_date": "2026-04-14",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T6473SYCLME0019",
+  "vin": "LVTDB21B0TD198520",
   "material": "奇瑞/瑞虎8PRO 非凡冠军/2027款/1.6T-7DCT/豪华版 5座 棕色内饰/棕色内饰/石墨黑外观/5座",
   "invoice_date": "2026-04-23",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T7000KPQSSV0020",
+  "vin": "LURJCVBE8TA376866",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/丛林绿内饰/云粉米外观/5座",
   "invoice_date": "2026-07-18",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6450QAGVJV0002",
+  "vin": "LVTDB21B8TD165233",
   "material": "奇瑞/瑞虎5运动版/2026款/1.5T-6DCT/潮玩型/瓦青内饰/量子灰外观/5座",
   "invoice_date": "2026-03-25",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "T6472WHUMJW0039",
+  "vin": "LVTDB21BXTD166867",
   "material": "奇瑞/全新瑞虎8PLUS 非凡冠军/2027款/1.6T-7DCT-两驱/豪华版 5座 棕色内饰/棕色内饰/青竹灰外观/5座",
   "invoice_date": "2026-03-28",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "E71502XUVPN0019",
+  "vin": "LNNACDFP1SDJ22195",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/玄武灰/黑棕内饰",
   "invoice_date": "2025-10-25",
   "dealer": "北京华日菱"
  },
  {
-  "vin": "T7000CSQSAX0075",
+  "vin": "LNNACDGK0TDH14114",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/云粉米外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-26",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "T7000CSQSAX0063",
+  "vin": "LNNACDGK7TDH13090",
   "material": "风云/风云A9/2026款/BEV/655 MAX/紫灰内饰/云粉米外观/5座/运动包",
   "invoice_date": "2026-07-15",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "T7000MTQSTA0019",
+  "vin": "LURJCVS24TA369614",
   "material": "QQ/全新QQ3/2026款/310Km/310分享版/丛林绿内饰/云粉米外观/5座",
   "invoice_date": "2026-07-07",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T6490KDCLKS0001",
+  "vin": "LVTDD24B9TD267906",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-鲲鹏8AT-四驱/猎鹰500版-鎏金棕-5座/鎏金棕内饰/曜石黑外观/5座",
   "invoice_date": "2026-07-13",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T64706TBWJW0015",
+  "vin": "LVTDB21B8TDM93798",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-27",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T7160USBWMH0006",
+  "vin": "LNNBBDEEXSC188547",
   "material": "奇瑞/探索06四驱发现版/2025款/1.6T-7DCT-4WD/舒适型-极地黑/黑内饰/上新云墨黑下冰川银外观/5座",
   "invoice_date": "2025-07-13",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T6450QAJIJV0002",
+  "vin": "LVTDB21B2TD165311",
   "material": "奇瑞/瑞虎5运动版/2026款/1.5T-6DCT/潮玩型/瓦青内饰/紫定行外观/5座",
   "invoice_date": "2026-03-24",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "T7000CSUEAX0076",
+  "vin": "LNNACDGK2TDH16026",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫黑内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-03",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "M7163PSBWJW0012",
+  "vin": "LVVDC21B4TD239283",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/1.6T-7DCT/豪华型/黑棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-06-22",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "T64706TS2JW0015",
+  "vin": "LVTDB21B0TDL26982",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/丛林绿外观/5座",
   "invoice_date": "2026-03-15",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T64706TCLJW0007",
+  "vin": "LVTDB21B2TDL99156",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/石墨黑外观/5座",
   "invoice_date": "2026-05-26",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21B7TDM50098",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-06-14",
   "dealer": "北京福铃祥瑞"
  },
  {
-  "vin": "T6490KBCLFT0001",
+  "vin": "LVTDB24B1TD172908",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/奢享版-鎏金棕-5座/鎏金棕内饰/曜石黑外观/5座",
   "invoice_date": "2026-03-31",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "M7160DFUMJW0129",
+  "vin": "LVVDC21B6SD413448",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/豪华型-黑黑内饰/青竹灰/RDE",
   "invoice_date": "2025-07-22",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T6490KDWZKS0001",
+  "vin": "LVTDD24B2TD269643",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-鲲鹏8AT-四驱/猎鹰500版-鎏金棕-5座/鎏金棕内饰/碧玺蓝外观/5座",
   "invoice_date": "2026-07-16",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T7000CSQSAX0076",
+  "vin": "LNNACDGK1TDH14297",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫黑内饰/云粉米外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-21",
   "dealer": "北京甲源子智行"
  },
  {
-  "vin": "T6480VGKVFH0039",
+  "vin": "LVTDB24B9SG139927",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/豪华版-新棕黑-5座/新棕黑内饰/流光银外观/5座",
   "invoice_date": "2025-12-12",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T7152SBBWKL0005",
+  "vin": "LVVDB21B2TC102416",
   "material": "奇瑞/瑞虎5x/2025款/1.5L-CVT国六B/深色内饰/CVT卓越型/皓月白/RDE",
   "invoice_date": "2026-03-25",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T7151LZJNJV0001",
+  "vin": "LVTDB21B5TDL45608",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/尊尚型（滑移屏女王包）/黑棕内饰/流光紫外观/5座",
   "invoice_date": "2026-04-04",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T6490LMJUSH0019",
+  "vin": "LNNBBDGH9TDJ05760",
   "material": "风云/风云T9L/2026款/1.5T-DHT/230 Max/水墨霁蓝内饰/山烟紫外观/5座",
   "invoice_date": "2026-03-29",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T6490KBKVFT0001",
+  "vin": "LVTDB24B5TD176377",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/奢享版-鎏金棕-5座/鎏金棕内饰/钛晶银外观/5座",
   "invoice_date": "2026-04-02",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T7000CSQSAX0075",
+  "vin": "LNNACDGK6TDH15204",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/云粉米外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-29",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "T7000KPQSSV0020",
+  "vin": "LURJCVBE6TA367650",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/丛林绿内饰/云粉米外观/5座",
   "invoice_date": "2026-07-02",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T6450LPBWFR0023",
+  "vin": "LVTDB21BXTDD47504",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/畅享型/黑棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-27",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T7151LZUUJV0001",
+  "vin": "LVTDB21B4TDL52792",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/尊尚型（滑移屏女王包）/黑棕内饰/深空灰外观/5座",
   "invoice_date": "2026-04-14",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T7000CSUEAX0075",
+  "vin": "LNNACDGK7TDH16636",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-05",
   "dealer": "北京立信惠达"
  },
  {
-  "vin": "J7000HMJRSJ0002",
+  "vin": "LURJAVBA6SD180621",
   "material": "QQ/奇瑞冰淇淋/2026款/220km/甜趣版/米棕内饰/香芋紫外观/4座",
   "invoice_date": "2025-12-26",
   "dealer": "北京福瑞祥驰"
  },
  {
-  "vin": "T7151LZUKJV0001",
+  "vin": "LVTDB21B9TDL24535",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/尊尚型（滑移屏女王包）/黑棕内饰/磨砂灰外观/5座",
   "invoice_date": "2026-03-13",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T7160USBWMH0006",
+  "vin": "LNNBBDEE9SC188541",
   "material": "奇瑞/探索06四驱发现版/2025款/1.6T-7DCT-4WD/舒适型-极地黑/黑内饰/上新云墨黑下冰川银外观/5座",
   "invoice_date": "2025-07-13",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T6480VGBXFH0039",
+  "vin": "LVTDB24B8SG144598",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/豪华版-新棕黑-5座/新棕黑内饰/奇瑞白外观/5座",
   "invoice_date": "2025-12-21",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21B1TDM89575",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-07-21",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T6490KBBWFT0003",
+  "vin": "LVTDB24B7TD192418",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/豪享版-鎏金棕-5座/鎏金棕内饰/皓钻白外观/5座",
   "invoice_date": "2026-04-17",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7152SBBWKL0005",
+  "vin": "LVVDB21B1TC102505",
   "material": "奇瑞/瑞虎5x/2025款/1.5L-CVT国六B/深色内饰/CVT卓越型/皓月白/RDE",
   "invoice_date": "2026-03-25",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T7000KPQSSV0027",
+  "vin": "LURJCVBE4TA376881",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/质感黑内饰/云粉米外观/5座",
   "invoice_date": "2026-07-18",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T64706TCLJW0007",
+  "vin": "LVTDB21B4TDM91014",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-23",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T6481KGKVFT0048",
+  "vin": "LVTDB24B2SDJ40578",
   "material": "奇瑞/瑞虎9/2025款/2.0T-7DCT-两驱/豪享版-黑紫-7座/流光银/RDE",
   "invoice_date": "2025-11-03",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "T6490KBBWFT0003",
+  "vin": "LVTDB24B3TD167905",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/豪享版-鎏金棕-5座/鎏金棕内饰/皓钻白外观/5座",
   "invoice_date": "2026-03-26",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T7000CSQSAX0064",
+  "vin": "LNNACDGK3TDH13877",
   "material": "风云/风云A9/2026款/BEV/655 MAX/紫黑内饰/云粉米外观/5座/运动包",
   "invoice_date": "2026-07-19",
   "dealer": "北京卓远"
  },
  {
-  "vin": "T7151MACLJV0001",
+  "vin": "LVTDB21B8TDL52147",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/智尚型/黑棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-04-12",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T64706TBWJW0007",
+  "vin": "LVTDB21B7TDM91752",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-23",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T71618KBWFF0167",
+  "vin": "LVVDB21B4RD773184",
   "material": "奇瑞/全新一代瑞虎7PLUS/2025款/1.6TGDI-7DCT/豪华型（黑红内饰）/黑色内饰/其他颜色外观/5座",
   "invoice_date": "2024-06-30",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "A7150MAGTGW0009",
+  "vin": "LVVDB21B7SE047352",
   "material": "奇瑞/瑞虎3x/1.5L-CVT国六B/深色内饰/卓越版/玉簪灰/RDE",
   "invoice_date": "2025-07-05",
   "dealer": "北京名车伯乐"
  },
  {
-  "vin": "T6480VGCMFH0043",
+  "vin": "LVTDB24B4SG140483",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/松墨黑外观/5座",
   "invoice_date": "2025-12-13",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T6481KFUUMH0001",
+  "vin": "LNNBBDEE0TG026890",
   "material": "风云/风云T9长续航/2026/1.5T-DHT国六/220长续航旗舰型胡桃棕内饰5座/石林灰/RDE",
   "invoice_date": "2026-03-29",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "T7150R4GVJV0007",
+  "vin": "LVVDB21B1SD328570",
   "material": "奇瑞/OMODA 5/暂无年款/1.5L-CVT/其他型号/其他颜色内饰/其他颜色外观/5座",
   "invoice_date": "2025-05-31",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T7151MBCLJV0001",
+  "vin": "LVTDB21B8TDL54609",
   "material": "奇瑞/瑞虎7L/2026款/1.5T-6DCT/尊尚型/黑棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-04-14",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21B8TDM85605",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-07-19",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T64706TUUJW0013",
+  "vin": "LVTDB21B9TDM59918",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/深空灰外观/5座",
   "invoice_date": "2026-06-25",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "M7203PTUMLB0004",
+  "vin": "LVVDC24B8TD278065",
   "material": "奇瑞/艾瑞泽8 PRO/2027款/2.0T-7DCT/豪华型/黑棕内饰/青竹灰外观/5座",
   "invoice_date": "2026-07-25",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T7000CSQSAX0075",
+  "vin": "LNNACDGKXTDH16596",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/云粉米外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-07",
   "dealer": "北京立信惠达"
  },
  {
-  "vin": "T64706TCLJW0007",
+  "vin": "LVTDB21B8TDM90979",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-23",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T6490KBWZFT0001",
+  "vin": "LVTDB24B2TD174232",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/奢享版-鎏金棕-5座/鎏金棕内饰/碧玺蓝外观/5座",
   "invoice_date": "2026-03-31",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T64706TCLJW0014",
+  "vin": "LVTDB21B9SDH80939",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/旗舰型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2025-11-19",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T64706TBWJW0013",
+  "vin": "LVTDB21B2TDM83767",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-07-17",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T7000MTBWTA0019",
+  "vin": "LURJCVS2XTA361291",
   "material": "QQ/全新QQ3/2026款/310Km/310分享版/丛林绿内饰/翎羽白外观/5座",
   "invoice_date": "2026-06-18",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7000CSNZAX0064",
+  "vin": "LNNACDGKXTDH12449",
   "material": "风云/风云A9/2026款/BEV/655 MAX/紫黑内饰/海棠红外观/5座/运动包",
   "invoice_date": "2026-07-12",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "M7200LWGXKG0002",
+  "vin": "LVVDC24B1SD599718",
   "material": "奇瑞/艾瑞泽8 2.0T/2025/2.0T-7DCT国六/劲沧海灰内饰/晶钻灰/RDE",
   "invoice_date": "2025-10-15",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6450QAGVJV0002",
+  "vin": "LVTDB21B1TD188529",
   "material": "奇瑞/瑞虎5运动版/2026款/1.5T-6DCT/潮玩型/瓦青内饰/量子灰外观/5座",
   "invoice_date": "2026-04-13",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T6490KBBWFT0002",
+  "vin": "LVTDB24B4TD196524",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/奢享版-鎏金棕-7座/鎏金棕内饰/皓钻白外观/7座",
   "invoice_date": "2026-04-22",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T64706TCLJW0013",
+  "vin": "LVTDB21B3TDM66119",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/石墨黑外观/5座",
   "invoice_date": "2026-07-01",
   "dealer": "北京强氏汇杰"
  },
  {
-  "vin": "T6473SYBWME0019",
+  "vin": "LVTDB21B3TD191769",
   "material": "奇瑞/瑞虎8PRO 非凡冠军/2027款/1.6T-7DCT/豪华版 5座 棕色内饰/棕色内饰/珍珠白外观/5座",
   "invoice_date": "2026-04-17",
   "dealer": "北京信联丰盛"
  },
  {
-  "vin": "T7000KPBWSV0024",
+  "vin": "LURJCVBE6TA379605",
   "material": "QQ/全新QQ3/2026款/420Km/420热爱版/质感黑内饰/翎羽白外观/5座",
   "invoice_date": "2026-07-23",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T6490LMUUSH0023",
+  "vin": "LNNBBDGH2TDJ11691",
   "material": "风云/风云T9L/2026款/1.5T-DHT/230 Ultra/水墨霁蓝内饰/石林灰外观/5座",
   "invoice_date": "2026-05-22",
   "dealer": "北京华日菱"
  },
  {
-  "vin": "T6481KGCLFT0055",
+  "vin": "LVTDB24B1SDJ25781",
   "material": "奇瑞/瑞虎9/2025款/2.0T-7DCT-两驱/黑武士版-黑黑-5座/黑色内饰/石墨黑外观/5座",
   "invoice_date": "2025-10-26",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "E71502DNMPL0018",
+  "vin": "LNNAJDFR0SD528041",
   "material": "风云/风云A9L/1.5T-DHT-四驱/四驱高能巅峰版/车厘子红/米棕内饰/锻造轮毂/带副驾零重力座椅",
   "invoice_date": "2025-09-13",
   "dealer": "北京华日菱"
  },
  {
-  "vin": "T6490KBKVFT0001",
+  "vin": "LVTDB24BXTD176438",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/奢享版-鎏金棕-5座/鎏金棕内饰/钛晶银外观/5座",
   "invoice_date": "2026-04-02",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T7000CSUEAX0063",
+  "vin": "LNNACDGK4TDH13807",
   "material": "风云/风云A9/2026款/BEV/655 MAX/紫灰内饰/玄武灰外观/5座/运动包",
   "invoice_date": "2026-07-19",
   "dealer": "北京福瑞鑫程"
  },
  {
-  "vin": "E71502XNMPN0022",
+  "vin": "LNNACDFP2SD520015",
   "material": "风云/风云A9L/2025/1.5T-DHT/260伯牙奢享版（新）/车厘子红/米棕内饰/20寸轮毂（品牌轮胎）+零重力座椅/感应式门把手",
   "invoice_date": "2025-09-10",
   "dealer": "北京华日菱"
  },
  {
-  "vin": "T7000CSQSAX0047",
+  "vin": "LNNACDGK2TDH08735",
   "material": "风云/风云A9/2026款/BEV/展示版型/展示色内饰/展示色外观/5座",
   "invoice_date": "2026-04-25",
   "dealer": "北京立信惠达"
  },
  {
-  "vin": "T64706TBWJW0010",
+  "vin": "LVTDB21B2TDM36898",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/豪华型-墨竹黑/墨竹黑内饰/珍珠白外观/5座",
   "invoice_date": "2026-06-01",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T6480VGCMFH0043",
+  "vin": "LVTDB24B7SG140266",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/松墨黑外观/5座",
   "invoice_date": "2025-12-15",
   "dealer": "北京甲源子"
  },
  {
-  "vin": "T6450LPUUFR0024",
+  "vin": "LVTDB21B5TDD54666",
   "material": "奇瑞/全新瑞虎7/2026款/1.5T-CVT/悦享型/黑棕内饰/深空灰外观/5座",
   "invoice_date": "2026-04-17",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "M7163PSCLJW0002",
+  "vin": "LVVDC21B3TD182283",
   "material": "奇瑞/艾瑞泽8/2027款/1.6T-7DCT（R）/智/黑灰内饰/石墨黑外观/5座",
   "invoice_date": "2026-04-09",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T7160USBWMH0006",
+  "vin": "LNNBBDEEXSC188581",
   "material": "奇瑞/探索06四驱发现版/2025款/1.6T-7DCT-4WD/舒适型-极地黑/黑内饰/上新云墨黑下冰川银外观/5座",
   "invoice_date": "2025-07-13",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T7000KPBWSV0023",
+  "vin": "LURJCVBE9TA386502",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版+选装L2+17寸铝圈/丛林绿内饰/翎羽白外观/5座",
   "invoice_date": "2026-08-10",
   "dealer": "北京福瑞祥驰"
  },
  {
-  "vin": "T7000KPBWSV0020",
+  "vin": "LURJCVBE2TA375700",
   "material": "QQ/全新QQ3/2026款/420Km/420分享版/丛林绿内饰/翎羽白外观/5座",
   "invoice_date": "2026-07-16",
   "dealer": "北京福铃恒瑞"
  },
  {
-  "vin": "T64706TKUJW0013",
+  "vin": "LVTDB21B3TDM61972",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/月光银外观/5座",
   "invoice_date": "2026-06-27",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T64706TBWJW0013",
+  "vin": "LVTDB21BXTDM50791",
   "material": "奇瑞/第五代瑞虎8-虎款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-06-14",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T6472WHCLJW0039",
+  "vin": "LVTDB21B0TD169194",
   "material": "奇瑞/全新瑞虎8PLUS 非凡冠军/2027款/1.6T-7DCT-两驱/豪华版 5座 棕色内饰/棕色内饰/石墨黑外观/5座",
   "invoice_date": "2026-03-27",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T71516FCLMH0002",
+  "vin": "LVUGTB229TDL07691",
   "material": "奇瑞/其他车型///其他动总/其他型号/黑色内饰/新碳晶黑外观/5座",
   "invoice_date": "2026-02-23",
   "dealer": "国内销售一次性客户"
  },
  {
-  "vin": "T6480VGCMFH0044",
+  "vin": "LVTDB24B8SG123265",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-7座/新棕黑内饰/松墨黑外观/7座",
   "invoice_date": "2025-11-08",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "T6490KDKVKS0001",
+  "vin": "LVTDD24B8TD279545",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-鲲鹏8AT-四驱/猎鹰500版-鎏金棕-5座/鎏金棕内饰/钛晶银外观/5座",
   "invoice_date": "2026-07-26",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6490KBKVFT0001",
+  "vin": "LVTDB24B3TD176667",
   "material": "奇瑞/全新一代瑞虎9/2026款/2.0T-7DCT-两驱/奢享版-鎏金棕-5座/鎏金棕内饰/钛晶银外观/5座",
   "invoice_date": "2026-04-02",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T7000CSQSAX0075",
+  "vin": "LNNACDGK5TDH16456",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫灰内饰/云粉米外观/5座/运动包+舒享包",
   "invoice_date": "2026-08-07",
   "dealer": "北京新泽诚"
  },
  {
-  "vin": "E71502XCLPN0019",
+  "vin": "LNNACDFP5TD159543",
   "material": "风云/风云A9L/2025/1.5T-DHT/260超长续航尊贵版（新）/墨石黑/黑棕内饰",
   "invoice_date": "2026-03-23",
   "dealer": "北京卓远"
  },
  {
-  "vin": "T6480VGCMFH0043",
+  "vin": "LVTDB24B5SG140461",
   "material": "奇瑞/瑞虎9X/2025款/2.0T-8AT-两驱/尊贵版-新棕黑-5座/新棕黑内饰/松墨黑外观/5座",
   "invoice_date": "2025-12-13",
   "dealer": "北京鑫雷晟"
  },
  {
-  "vin": "M7160DFBWJW0127",
+  "vin": "LVVDC21B1TD168155",
   "material": "奇瑞/艾瑞泽8 PRO/2025款/1.6T-7DCT/舒适型-黑黑内饰/珍珠白/RDE",
   "invoice_date": "2026-03-26",
   "dealer": "北京风驰昌达"
  },
  {
-  "vin": "S643017K1QR0001",
+  "vin": "LURMCVB36SA152540",
   "material": "风云/X3/2025款/纯电/401雅尚版/松弛绿内饰/躺银外观/5座",
   "invoice_date": "2025-07-31",
   "dealer": "北京龙腾新景"
  },
  {
-  "vin": "T6472WHURJW0039",
+  "vin": "LVTDB21B3TD165740",
   "material": "奇瑞/全新瑞虎8PLUS 非凡冠军/2027款/1.6T-7DCT-两驱/豪华版 5座 棕色内饰/棕色内饰/浅云灰外观/5座",
   "invoice_date": "2026-03-25",
   "dealer": "北京渔洋郡"
  },
  {
-  "vin": "T7000CSUEAX0076",
+  "vin": "LNNACDGK4TDH15038",
   "material": "风云/风云A9/2026款/BEV/655 MAX 激光雷达版/紫黑内饰/玄武灰外观/5座/运动包+舒享包",
   "invoice_date": "2026-07-28",
   "dealer": "北京卓远"
  },
  {
-  "vin": "M7150PNBWLD0001",
+  "vin": "LVVDC11B7TDH14261",
   "material": "奇瑞/2025款艾瑞泽5卓越版-MT/2025款/1.5L-MT/风尚型/黑黑内饰/珍珠白外观",
   "invoice_date": "2026-07-21",
   "dealer": "北京兴达润城"
  },
  {
-  "vin": "T64706TBWJW0015",
+  "vin": "LVTDB21B8TDL28074",
   "material": "奇瑞/第五代瑞虎8-豹款/2026款/1.6T-7DCT/尊贵型-琥珀棕/琥珀棕内饰/珍珠白外观/5座",
   "invoice_date": "2026-03-16",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T6472WHCLJW0039",
+  "vin": "LVTDB21B7TD169189",
   "material": "奇瑞/全新瑞虎8PLUS 非凡冠军/2027款/1.6T-7DCT-两驱/豪华版 5座 棕色内饰/棕色内饰/石墨黑外观/5座",
   "invoice_date": "2026-03-27",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "T7161LWUUJW0001",
+  "vin": "LVTDB21B6TDL98799",
   "material": "奇瑞/瑞虎7L/2026款/1.6TGDI-7DCT/尊尚型+/黑棕内饰/深空灰外观/5座",
   "invoice_date": "2026-05-27",
   "dealer": "北京诚信达汇嘉"
  },
  {
-  "vin": "M7163PSSWJW0002",
+  "vin": "LVVDC21B8TD201636",
   "material": "奇瑞/艾瑞泽8/2027款/1.6T-7DCT（R）/智/黑灰内饰/芰荷翠外观/5座",
   "invoice_date": "2026-04-28",
   "dealer": "北京名车伯乐"
@@ -9718,5 +9718,5 @@ const RECORDS = [
 const DATA_VERSION = {
  "label": "总表8.10",
  "date": "2026-08-10",
- "generated": "2026-08-11 21:03"
+ "generated": "2026-08-11 21:18"
 };
