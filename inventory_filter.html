@@ -197,13 +197,12 @@ tbody tr:nth-child(even):hover { background: #f3f6fa; }
     -webkit-overflow-scrolling: touch;
     border-radius: 12px;
 }
-/* Header wrap: sticky vertically, scrolls horizontally with data via normal flow */
-.sales-header-wrap {
+/* Header table: sticky vertically, natural horizontal scroll (same container as data) */
+.sales-header-table {
     position: sticky; top: 0; z-index: 100;
-    width: max-content; min-width: 100%;
     background: #1a1a2e;
+    margin: 0;
 }
-.sales-header-wrap .sales-table { margin: 0; width: auto; }
 
 /* Row 1: group-header */
 .sales-table .group-header th {
@@ -322,27 +321,25 @@ tbody tr:nth-child(even):hover { background: #f3f6fa; }
         </div>
         <div class="sales-table-wrapper">
             <div class="sales-table-scroll" id="salesScrollWrapper">
-                <div class="sales-header-wrap" id="salesHeaderWrap">
-                    <table class="sales-table" id="salesHeaderTable">
-                        <thead>
-                            <tr class="group-header">
-                                <th rowspan="2" style="width:3.5%;">排名</th>
-                                <th rowspan="2" style="width:5%;">城市</th>
-                                <th rowspan="2" style="width:12%;">经销商</th>
-                                <th rowspan="2" style="width:4.5%;">总计</th>
-                                <th colspan="5">瑞虎9系列</th>
-                                <th colspan="5">瑞虎8系列</th>
-                                <th rowspan="2" style="width:5%;">艾瑞泽8<br>系列</th>
-                                <th rowspan="2" style="width:5%;">瑞虎7<br>系列</th>
-                                <th rowspan="2" style="width:4.5%;">其他</th>
-                            </tr>
-                            <tr class="sub-header">
-                                <th>全新一代<br>瑞虎9</th><th>瑞虎9</th><th>瑞虎9x</th><th>其他虎9</th><th>合计</th>
-                                <th>五代虎8</th><th>瑞虎8<br>PRO</th><th>瑞虎8<br>PLUS</th><th>其他虎8</th><th>合计</th>
-                            </tr>
-                        </thead>
-                    </table>
-                </div>
+                <table class="sales-table sales-header-table" id="salesHeaderTable">
+                    <thead>
+                        <tr class="group-header">
+                            <th rowspan="2" style="width:3.5%;">排名</th>
+                            <th rowspan="2" style="width:5%;">城市</th>
+                            <th rowspan="2" style="width:12%;">经销商</th>
+                            <th rowspan="2" style="width:4.5%;">总计</th>
+                            <th colspan="5">瑞虎9系列</th>
+                            <th colspan="5">瑞虎8系列</th>
+                            <th rowspan="2" style="width:5%;">艾瑞泽8<br>系列</th>
+                            <th rowspan="2" style="width:5%;">瑞虎7<br>系列</th>
+                            <th rowspan="2" style="width:4.5%;">其他</th>
+                        </tr>
+                        <tr class="sub-header">
+                            <th>全新一代<br>瑞虎9</th><th>瑞虎9</th><th>瑞虎9x</th><th>其他虎9</th><th>合计</th>
+                            <th>五代虎8</th><th>瑞虎8<br>PRO</th><th>瑞虎8<br>PLUS</th><th>其他虎8</th><th>合计</th>
+                        </tr>
+                    </thead>
+                </table>
                 <table class="sales-table" id="salesTable">
                     <tbody id="salesBody"></tbody>
                 </table>
