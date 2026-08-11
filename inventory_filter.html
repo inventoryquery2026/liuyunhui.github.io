@@ -199,12 +199,10 @@ tbody tr:nth-child(even):hover { background: #f3f6fa; }
 }
 .sales-header-sticky {
     position: sticky; top: 0; z-index: 100;
-    overflow-x: auto; overflow-y: visible;
+    overflow: hidden;
     background: #1a1a2e;
     border-radius: 12px 12px 0 0;
-    -ms-overflow-style: none; scrollbar-width: none;
 }
-.sales-header-sticky::-webkit-scrollbar { display: none; }
 .sales-header-sticky .sales-table { margin: 0; }
 
 /* Row 1: group-header */
@@ -325,6 +323,7 @@ tbody tr:nth-child(even):hover { background: #f3f6fa; }
         <div class="sales-table-wrapper">
             <div class="sales-table-scroll" id="salesScrollWrapper">
                 <div class="sales-header-sticky" id="salesHeaderSticky">
+                    <div id="salesHeaderInner">
                     <table class="sales-table" id="salesHeaderTable">
                         <thead>
                             <tr class="group-header">
@@ -344,6 +343,7 @@ tbody tr:nth-child(even):hover { background: #f3f6fa; }
                             </tr>
                         </thead>
                     </table>
+                    </div>
                 </div>
                 <table class="sales-table" id="salesTable">
                     <tbody id="salesBody"></tbody>
@@ -450,11 +450,11 @@ function syncSalesColWidths() {
     setSticky('#salesHeaderTable .group-header th:nth-child(2)', left1);
     setSticky('#salesHeaderTable .group-header th:nth-child(3)', left2);
 
-    // Sync horizontal scroll: sync header div scrollLeft with wrapper
+    // Sync horizontal scroll: use transform on inner wrapper for pixel-perfect alignment
     var wrapper = document.getElementById('salesScrollWrapper');
-    var sticky = document.getElementById('salesHeaderSticky');
+    var stickyInner = document.getElementById('salesHeaderInner');
     wrapper.onscroll = function() {
-        sticky.scrollLeft = wrapper.scrollLeft;
+        stickyInner.style.transform = 'translateX(' + (-wrapper.scrollLeft) + 'px)';
     };
 }
 
