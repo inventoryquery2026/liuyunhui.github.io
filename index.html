@@ -56,16 +56,6 @@ body {
     display: flex; flex-wrap: wrap; gap: 12px; align-items: flex-end;
     margin-bottom: 16px;
 }
-.search-row { margin-bottom: 14px; }
-.search-row input {
-    width: 100%; padding: 10px 14px; border: 1.5px solid #e0e0e0;
-    border-radius: 10px; font-size: 0.9rem; color: #2c3e50;
-    background: #fafafa; transition: border-color 0.2s, box-shadow 0.2s;
-}
-.search-row input:focus {
-    outline: none; border-color: #3b82f6; background: #fff;
-    box-shadow: 0 0 0 3px rgba(59,130,246,0.12);
-}
 .filter-group { flex: 1; min-width: 140px; }
 .filter-group label {
     display: block; font-size: 0.8rem; font-weight: 600;
@@ -278,9 +268,6 @@ tbody tr:nth-child(even):hover { background: #f3f6fa; }
 
     <div id="tab-kucun" class="tab-content active">
     <div class="filter-section">
-        <div class="search-row">
-            <input type="text" id="searchInput" placeholder="搜索 VIN / 经销商 / 物料名称...">
-        </div>
         <div class="filter-row">
             <div class="filter-group">
                 <label>车型</label>
@@ -470,7 +457,6 @@ const results = document.getElementById('results');
 const tableBody = document.getElementById('tableBody');
 const resultCount = document.getElementById('resultCount');
 const pagination = document.getElementById('pagination');
-const searchInput = document.getElementById('searchInput');
 
 let currentPage = 1;
 let currentRecords = [];
@@ -487,7 +473,6 @@ carModelSelect.disabled = false;
 
 carModelSelect.addEventListener('change', function() {
     const model = this.value;
-    searchInput.value = '';
     versionSelect.innerHTML = '<option value="">请选择版型</option>';
     colorSelect.innerHTML = '<option value="">请选择外观颜色</option>';
     colorSelect.disabled = true;
@@ -513,7 +498,6 @@ carModelSelect.addEventListener('change', function() {
 versionSelect.addEventListener('change', function() {
     const model = carModelSelect.value;
     const version = this.value;
-    searchInput.value = '';
     colorSelect.innerHTML = '<option value="">请选择外观颜色</option>';
     results.style.display = 'none';
     
@@ -538,7 +522,6 @@ colorSelect.addEventListener('change', function() {
     const model = carModelSelect.value;
     const version = versionSelect.value;
     const color = this.value;
-    searchInput.value = '';
     
     if (!color) {
         results.style.display = 'none';
@@ -549,35 +532,6 @@ colorSelect.addEventListener('change', function() {
     const indices = HIERARCHY[model][version][color];
     currentRecords = indices.map(i => RECORDS[i]);
     currentPage = 1;
-    guide.classList.add('hidden');
-    results.style.display = 'block';
-    renderTable();
-});
-
-// 搜索: VIN / 经销商 / 物料名称 关键字过滤
-searchInput.addEventListener('input', function() {
-    const kw = this.value.trim().toLowerCase();
-    currentPage = 1;
-    if (!kw) {
-        // 恢复三级筛选: 若三级已选齐则恢复其结果, 否则回到引导态
-        const m = carModelSelect.value, v = versionSelect.value, c = colorSelect.value;
-        if (m && v && c && HIERARCHY[m] && HIERARCHY[m][v] && HIERARCHY[m][v][c]) {
-            currentRecords = HIERARCHY[m][v][c].map(i => RECORDS[i]);
-            guide.classList.add('hidden');
-            results.style.display = 'block';
-        } else {
-            currentRecords = [];
-            results.style.display = 'none';
-            guide.classList.remove('hidden');
-        }
-        renderTable();
-        return;
-    }
-    currentRecords = RECORDS.filter(r =>
-        (r.vin || '').toLowerCase().indexOf(kw) >= 0 ||
-        (r.dealer || '').toLowerCase().indexOf(kw) >= 0 ||
-        (r.material || '').toLowerCase().indexOf(kw) >= 0
-    );
     guide.classList.add('hidden');
     results.style.display = 'block';
     renderTable();
